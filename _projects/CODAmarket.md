@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-CODAworx is a high end art seller and art consulting company in Madison, WI. I worked on building out their website CODAmarket, which was a marketplaces for their artists to sell their artwork to high end collectors and dealers.
+CODAworx is a high end art seller and art consulting company in Madison, WI. I worked on building out their website CODAmarket, which was a marketplace for their artists to sell their artwork to high end collectors and dealers.
 
 <h1><a href='#'>UI Mockups:</a></h1>
 <img src="/assets/img/CODAmarket_1.jpg" alt="CODAmarket 1" style="width: 100%; border-radius: 12px; margin-bottom: 20px;">
