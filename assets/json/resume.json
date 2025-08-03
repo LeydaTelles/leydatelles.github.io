@@ -231,6 +231,56 @@
         "Significantly increased customer retention through targeted outreach and self-service user onboarding and training.",
         "Optimized transaction efficiency and enhanced user experience by redesigning inventory management systems using A/B testing and user analytics."
       ]
+    },
+        {
+      "name": "ACM, Association for Computing Machinery",
+      "position": "U.S. Technology Policy Committee Member",
+      "url": "https://www.acm.org/",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Contribute expert guidance on the societal and ethical implications of emerging technologies to inform national policy and legislative decision-making."
+      ]
+    },
+        {
+      "name": "OpenAI",
+      "position": "Member, OpenAI Forum",
+      "url": "https://openai.com/",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Contribute systems-level feedback on model behavior, policy, and deployment strategy to ensure AGI benefits all of humanity."
+      ]
+    },
+        {
+      "name": "Workday",
+      "position": "Consulting AI/ML Program & Product Manager",
+      "url": "https://www.workday.com/",
+      "startDate": "2024",
+      "endDate": "2025",
+      "summary": "Contributed to Workday's ML/AI product roadmap by identifying scalable solutions that reduce costs, mitigate enterprise risk, and enhance the user experience for 70M+ users globally.",
+      "highlights": [
+        "Developed a comprehensive market map of relevant ML/AI solutions, identifying 8 high-yield strategic partnerships aligned with Workday's objectives.",
+        "Led a research initiative in collaboration with design, engineering, and leadership teams to iteratively develop artifacts, gather feedback, and align on prioritization.",
+        "Presented findings to cross-functional stakeholders, enterprise clients, and customers, incorporating feedback to increase visibility and engagement with Workday’s initiatives."
+      ]
+    },
+        {
+      "name": "UW Health",
+      "position": "AI/ML Program & Product Manager",
+      "url": "https://www.uwhealth.org/",
+      "startDate": "2023",
+      "endDate": "2025",
+      "summary": "Built and scaled healthcare IT products (Best Buy Health RPM, Apple Health, Epic Systems, Azure OpenAI, UiPath RPA, Stryker, Vocera, MacOS, GenAI, AI/ML) to reduce clinician burnout, costs, enterprise risk, and improve the quality of healthcare.",
+      "highlights": [
+        "Developed and prioritized an AI/ML product roadmap featuring 50+ high yield use cases for Epic’s EHR system through user story mapping, OKRs, market research and stakeholder engagement.",
+        "Managed the creation of a quantitative user feedback pipeline in Databricks and analyzed qualitative survey data, enabling faster iterations and enhanced AI/ML tools.",
+        "Launched 3 GenAI products to automate clinical workflows, effectively reducing clinician burnout and enhancing user experience.",
+        "Conducted user interviews and usability studies to drive iterative design improvements, prompt engineering and resolve pain points, increasing user satisfaction scores.",
+        "Mentored team members on AI/ML tools, product management, and PMO best practices (e.g. ServiceNow SPM), boosting team productivity."
+      ]
     }
   ],
   "volunteer": [
