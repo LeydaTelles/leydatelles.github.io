@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started a new role at Komatsu North America as a AI/ML Program & Product Manager.
+Started a role at Komatsu North America as a AI/ML Program & Product Manager.

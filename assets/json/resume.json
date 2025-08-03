@@ -281,6 +281,102 @@
         "Conducted user interviews and usability studies to drive iterative design improvements, prompt engineering and resolve pain points, increasing user satisfaction scores.",
         "Mentored team members on AI/ML tools, product management, and PMO best practices (e.g. ServiceNow SPM), boosting team productivity."
       ]
+    },
+        {
+      "name": "Manifold Research",
+      "position": "Consulting Computational Neuroscientist, AI/ML Architect",
+      "url": "https://www.manifoldrg.com",
+      "startDate": "2023",
+      "endDate": "2025",
+      "summary": "Built and scaled AI/ML products that reduced costs and enhanced the operability of emerging technologies for academic and enterprise organizations.",
+      "highlights": [
+        "Recruited and led a cross-functional global research team, leveraging agile methodologies to develop and launch open-source AI/ML products that cut costs through model optimization and innovative research methods.",
+        "Hosted bi-weekly technical seminars and provided regular updates on open-source initiatives, doubling the core team size.",
+        "Boosted community engagement by 60% in under 6 months through targeted research initiatives and strategic communication efforts."
+      ]
+    },
+        {
+      "name": "Covalent Metrology",
+      "position": "Consulting AI/ML Program & Product Manager",
+      "url": "https://covalentmetrology.com/",
+      "startDate": "2025",
+      "endDate": "2025",
+      "summary": "",
+      "highlights": [
+        "Built an AI/ML product strategy that integrated stakeholder goals with market feedback, improving cross-team coordination and product development."
+      ]
+    },
+        {
+      "name": "JASCI Software",
+      "position": "Consulting AI/ML Program & Product Manager",
+      "url": "https://www.jascicloud.com/",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "",
+      "highlights": [
+        "Led full-cycle WMS and WCS implementations for Fortune 500 clients with up to 10X efficiency improvement.",
+        "Delivered 8 major WMS/WCS implementation projects resulting in significant client ROI and operational gains.",
+        "Reduced picking time by 70% through WCS integration, increased warehouse throughput by 300% via automation.",
+        "Supervised industrial engineering team and served as project lead for multi-million-dollar logistics solutions.",
+        "Designed scalable, repeatable WMS implementations to support rapid customer onboarding and growth.",
+        "Spearheaded robotic and automated warehouse system integrations (AMRs, conveyors, WCS layer).",
+        "Conducted in-depth data analysis using complex SQL queries to produce performance and cost benchmarks."
+      ]
+    },
+        {
+      "name": "Labcorp",
+      "position": "Associate Technical Project Manager",
+      "url": "https://www.labcorp.com/",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Co-led product launches and compliance initiatives for high-budget pharmaceuticals, ensuring regulatory compliance and boosting client market share.",
+      "highlights": [
+        "Co-led cross-functional teams of 35+ associates to launch 2 pharmaceutical products with a $20M+ budget, boosting client market share.",
+        "Managed a $200K+ global investigator training initiative, tailoring materials based on client feedback and achieving high satisfaction scores.",
+        "Implemented and optimized compliance tracking processes that reduced audit preparation time and increased global regulatory compliance."
+      ]
+    },
+        {
+      "name": "UW-Madison",
+      "position": "Technical Project Manager, Researcher",
+      "url": "https://www.wisc.edu/",
+      "startDate": "2016",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": [
+        "Co-led the development of regenerative medicine products aimed at improving the effectiveness and quality of heart disease treatment.",
+        "Co-led a global team of 18 researchers and co-authored a publication cited by 30+ academic and industry organizations including the American Heart Association, advancing cardiovascular medicine, and improving patient outcomes.",
+        "Utilized agile methodologies to enhance the efficiency of cardiac tissue regeneration, paving the way for pre-clinical product development and commercialization.",
+        "Developed data analytics workflows using instrumentation software and programming, reducing processing time while improving data accuracy and quality."
+      ]
+    },
+        {
+      "name": "Merck Group",
+      "position": "Associate Research Scientist",
+      "url": "https://www.emdgroup.com/en",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": [
+        "Developed and optimized pharmaceutical production protocols, applying informatics and analytical chemistry to support the formulation and scale-up of new chemical artifacts.",
+        "Executed high-precision chemical manufacturing procedures in both lab-scale and large-scale environments, ensuring compliance with GMP and internal quality standards.",
+        "Contributed to method development and analytical evaluations across various stages of drug production, driving process improvements and enhanced reproducibility of products.",
+        "Participated in safety audits, cross-functional documentation updates, and knowledge transfer efforts—helping onboard new personnel and standardize best practices in pharmaceutical production."
+      ]
+    },
+        {
+      "name": "Gallify",
+      "position": "Consulting Chief Technology Officer",
+      "url": "",
+      "startDate": "2017",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": [
+        "Led the development and deployment of blockchain-integrated AR features using Solidity, Apple ARKit, Object Capture API, and GCP, enabling real-time NFT creation and interactive gallery experiences.",
+        "Oversaw 6 concurrent projects across 4 engineering teams of 10+ associates, driving on-time delivery and aligning product milestones with strategic objectives.",
+        "Served as a Scrum Master and the primary technical decision-maker, accelerating development cycles and streamlining team workflows through structured sprints and async updates.",
+        "Built and scaled internal operations by leading recruitment, creating hiring packages, and implementing financial/resource planning tools, contributing to team growth and operational efficiency."
+      ]
     }
   ],
   "volunteer": [
@@ -449,141 +545,350 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Academic Merit Scholarship",
+      "date": "",
+      "awarder": "Carnegie Mellon University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Academic Merit Scholarship",
+      "date": "",
+      "awarder": "University of Texas at Austin",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Academic Merit Scholarship",
+      "date": "",
+      "awarder": "UC-Boulder",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Albert J. & Adelaide E. Riker Academic Merit Scholarship",
+      "date": "",
+      "awarder": "UW-Madison",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Spring Forward Academic Merit Scholarship",
+      "date": "",
+      "awarder": "UW-Madison",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "William F. Vilas Academic Merit Scholarship",
+      "date": "",
+      "awarder": "UW-Madison",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Qualtrics Academic Merit Scholarship",
+      "date": "",
+      "awarder": "UW-Madison",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Distinctive Scholastic Achivement",
+      "date": "",
+      "awarder": "UW-Madison",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List",
+      "date": "",
+      "awarder": "Carnegie Mellon University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List",
+      "date": "",
+      "awarder": "The University of Texas at Austin",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List",
+      "date": "",
+      "awarder": "UC-Boulder",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List",
+      "date": "",
+      "awarder": "UW-Madison",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "AP Scholar with Distinction",
+      "date": "",
+      "awarder": "Elmbrook Schools",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Honor Roll",
+      "date": "",
+      "awarder": "Elmbrook Schools",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "1st Place",
+      "date": "",
+      "awarder": "National Federation of Music Clubs",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Exemplary Soloist",
+      "date": "",
+      "awarder": "National Federation of Music Clubs",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "1st Place",
+      "date": "",
+      "awarder": "Wisconsin Music Teacher's Association",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Exemplary Soloist",
+      "date": "",
+      "awarder": "Wisconsin Music Teacher's Association",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "1st Place",
+      "date": "",
+      "awarder": "Milwaukee Music Teacher's Association",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "1st Place",
+      "date": "",
+      "awarder": "Wisconsin State Music Association",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Artificial Intelligence",
+      "date": "",
+      "issuer": "Stanford University School of Engineering",
+      "url": "https://engineering.stanford.edu/",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Regenerative Medicine",
+      "date": "",
+      "issuer": "UW-Madison",
+      "url": "https://www.wisc.edu/",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Surgery",
+      "date": "",
+      "issuer": "UW-Madison",
+      "url": "https://www.wisc.edu/",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Portfolio Management Professional (PfMP)",
+      "date": "",
+      "issuer": "Project Management Institute",
+      "url": "https://www.pmi.org",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Certified Information Systems Security Professional (CISSP)",
+      "date": "",
+      "issuer": "ISC2",
+      "url": "https://www.isc2.org/",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Solutions Architect",
+      "date": "",
+      "issuer": "Amazon Web Services (AWS)",
+      "url": "https://aws.amazon.com/",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "The Evolution of Biological Machine Learning",
+      "publisher": "Carnegie Mellon University, Department of Computer Science",
+      "releaseDate": "2025",
+      "url": "https://drive.google.com/file/d/1gLKFLwOumd0T9OC0pjdUIOzYyPnKzNwk/view?usp=share_link",
+      "summary": "Biological Machine Learning (BioML) has evolved over the past several years, and new models have dramatically advanced genomics, proteomics, metabolomics, systems biology, drug discovery, and clinical diagnostics. This survey provides an in-depth overview of BioML models developed, focusing on research breakthroughs and performance benchmarks. We categorize approaches by learning paradigm (supervised, unsupervised, transfer, self-supervised, and generative models) and by application domain. In genomics, deep learning—especially transformer-based architectures—now analyzes DNA regulatory code and variant effects with remarkable accuracy. In proteomics, research breakthroughs like AlphaFold have achieved near-experimental accuracy in protein 3D structural prediction, while large protein language models learn functional properties from sequence data. Metabolomics and systems biology are leveraging AI to integrate high-dimensional -omics data, improving the classification of diseases. Drug discovery has utilized these technologies for molecular property prediction, de-novo drug design, and protein--ligand docking, reaching state-of-the-art results (e.g. diffusion models that outperform traditional virtual screening). In clinical diagnostics, these models rival expert accuracy in detecting diseases from genomic and imaging data. We discuss and compare leading models in each domain, highlight their performance improvements over prior methods, and organize them into a coherent taxonomy; as a part of this, limitations are examined, along with future directions."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Healthcare Cybersecurity in the Modern Age",
+      "publisher": "Carnegie Mellon University, Department of Computer Science",
+      "releaseDate": "2025",
+      "url": "https://drive.google.com/file/d/1hu3E0nU4IaWRfLGCvj2pnmUXQBPqJes1/view?usp=share_link",
+      "summary": "Protecting patient health information is a critical priority in modern healthcare. Electronic health records (EHRs), medical devices, and digital health apps have greatly expanded the volume of sensitive data, making healthcare a prime target for cyberattacks. In the United States alone, 2023 saw 725 healthcare data breaches reported to federal authorities, exposing over 133 million patient records. Such breaches not only undermine patient privacy but also erode the trust essential to effective care. Ensuring the security of patient data requires addressing conventional cybersecurity threats—from ransomware to insider misuse—while also leveraging cutting-edge technologies. In recent years, artificial intelligence (AI) and machine learning (ML) have emerged as powerful tools to enhance security by detecting threats and preserving privacy. This survey provides a comprehensive review of cybersecurity as it pertains to patient data protection. We focus on the U.S. regulatory environment, including laws like HIPAA (Health Insurance Portability and Accountability Act), HITECH (Health Information Technology for Economic and Clinical Health Act), and the 21st Century Cures Act, which establish strict rules for safeguarding health data. We explore key domains of patient data security—EHR security, biometric data protection, federated learning for health data, intelligent threat detection systems, data anonymization to prevent re-identification, and secure data-sharing protocols. For each area, we examine traditional challenges (e.g., ransomware attacks, insider threats, data breaches) and highlight AI-driven solutions. We also analyze important ML techniques such as anomaly detection, adversarial machine learning, and privacy-preserving ML, discussing how they apply to healthcare security. Throughout, we address legal and ethical considerations for patient data security in the U.S., ensuring that technical measures align with regulatory requirements and patient rights. The goal is to provide a structured academic overview of the state of cybersecurity for patient data and how AI/ML innovations are helping protect healthcare information in an evolving threat landscape."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Prompt Engineering GPT-4 to Answer Patient Inquiries: A Real-Time Implementation in the Electronic Health Record across Provider Clinics",
+      "publisher": "UW-Health, Department of Medical Informatics",
+      "releaseDate": "2025",
+      "url": "https://sail.health/wp-content/uploads/2024/05/Poster-9-Patterson.pdf",
+      "summary": "As LLMs evolve, the role of prompt engineering has become critical to successful deployment. The University of Wisconsin Health system is part of an Epic Systems Corp (Epic) initiative to use GPT-4 to provide healthcare providers with draft responses to patients' messages to clinicians. This study examined a pre-post design comparing crowd-sourced manual prompts to a novel semi-automated prompt design approach. We hypothesized that using a semi-automated approach to prompt engineering would increase the usability of the generated output in providers responding to patient inquiries."
+    },
+    {
+      "name": "Rates of Transient Hypoparathyroidism Post-Thyroidectomy - It is All in the Definition",
+      "publisher": "UW-Health, Department of Surgery",
+      "releaseDate": "2020",
+      "url": "https://drive.google.com/file/d/13VV5WaQiIjfltAaMlpOqYBECuUA0RUK0/view",
+      "summary": "Transient hypoparathyroidism is the most common complication after total thyroidectomy, but unfortunately there is no single accepted definition for this postoperative complication. The lack of a universal definition makes it impossible to compare outcomes across institutions or registries. Although institution specific incidences can be reported to patients in select cases, this is not unanimously applicable. This is problematic because patient education and expectations regarding the true incidence of this common complication are unclear which creates deficiencies in the consent process. As a result of the variability in the definition of postoperative transient hypoparathyroidism, we see inconsistent treatment protocols, potentially delayed hospital discharges and increased healthcare costs. It is difficult to establish best practices when we are not all measuring the same outcome."
+    },
+    {
+      "name": "Epigenetic Priming of Human Pluripotent Stem Cell-Derived Cardiac Progenitor Cells Accelerates Cardiomyocyte Maturation",
+      "publisher": "Oxford Academic",
+      "releaseDate": "2019",
+      "url": "https://academic.oup.com/stmcls/article/37/7/910/6430674",
+      "summary": "Human pluripotent stem cell-derived cardiomyocytes (hPSC-CMs) exhibit a fetal phenotype that limits in vitro and therapeutic applications. Strategies to promote cardiomyocyte maturation have focused interventions on differentiated hPSC-CMs, but this study tests priming of early cardiac progenitor cells (CPCs) with polyinosinic-polycytidylic acid (pIC) to accelerate cardiomyocyte maturation. CPCs were differentiated from hPSCs using a monolayer differentiation protocol with defined small molecule Wnt temporal modulation, and pIC was added during the formation of early CPCs. pIC priming did not alter the expression of cell surface markers for CPCs, expression of common cardiac transcription factors, or final purity of differentiated hPSC-CMs. However, CPC differentiation in basal medium revealed that pIC priming resulted in hPSC-CMs with enhanced maturity manifested by increased cell size, greater contractility, faster electrical upstrokes, increased oxidative metabolism, and more mature sarcomeric structure and composition. To investigate the mechanisms of CPC priming, RNAseq revealed that cardiac progenitor-stage pIC modulated early Notch signaling and cardiomyogenic transcriptional programs. Chromatin immunoprecipitation of CPCs showed that pIC treatment increased deposition of the H3K9ac activating epigenetic mark at core promoters of cardiac myofilament genes and the Notch ligand, JAG1. Inhibition of Notch signaling blocked the effects of pIC on differentiation and cardiomyocyte maturation. Furthermore, primed CPCs showed more robust formation of hPSC-CMs grafts when transplanted to the NSGW mouse kidney capsule. Overall, epigenetic modulation of CPCs with pIC accelerates cardiomyocyte maturation enabling basic research applications and potential therapeutic uses."
+    },
+    {
+      "name": "Abstract 17323: Polyinosinic-Polycytidylic Acid Primes Cardiac Progenitors From Human Induced Pluripotent Stem Cells for Enhanced Cell Therapy and Cardiomyocyte Maturation",
+      "publisher": "American Heart Association",
+      "releaseDate": "2018",
+      "url": "https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.17323",
+      "summary": "Cardiomyocytes derived from human induced pluripotent stem cells (hiPS-CMs) hold promise for disease modeling, drug discovery, and therapy, but the challenge remains to create mature cardiomyocytes like those found in the adult heart. While groups have increased the maturity of hiPS-CMs in extended culture with electrical, metabolic, and mechanical stimulation, we hypothesized that epigenetic modulation during the formation of cardiac progenitors (hiPS-CPCs) could enhance their capacity to form mature CMs. We found that priming with the innate immune agonist polyinosinic-polycytidylic acid (pIC) decreased cardiac lineage-HDAC expression during the formation of hiPS-CPCs in defined small molecule monolayer differentiation. While both untreated and primed day 5 hiPS-CPCs contained equivalent >80% purity of KDR+PDGRF alpha + CPC populations, gene expression studies using RNAseq demonstrated that pIC priming enhanced the early cardiogenic and Notch signaling programs. When both groups were differentiated in basal media, primed hiPS-CPCs gave rise to more mature cardiomyocytes based on larger cell size, increased optical action potential upstroke velocity, greater oxidative metabolism, enhanced sarcomere maturation, and upregulated transcriptional markers of CM maturation including cTnI, cardiac actin, and alpha MHC. These maturation effects of pIC treatment were blocked by the Notch inhibitor DAPT. Most impressively, primed hiPS-CPCs improved survival as well as myocardial systolic/diastolic function in a mouse model of myocardial infarction."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Technical Portfolio Management",
+      "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": []
+    },
+    {
+      "name": "Technical Program Management",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "Technical Product Management",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "Artificial Intelligence",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "Software Architecture",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "Biomedical Informatics",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "Computational Neuroscience",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Native",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Italian",
+      "fluency": "Elementary",
+      "icon": ""
+    },
+    {
+      "language": "Latin",
+      "fluency": "Elementary",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computational Neuroscience",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "keywords": []
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Biomedical Informatics",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
+    },
+    {
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
+    },
+    {
+      "name": "Classical Piano",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
+    },
+    {
+      "name": "Hiking",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "CODAmarket",
+      "summary": "An e-commerce marketplace for public artists and enthusiasts.",
+      "highlights": ["E-Commerce", "Commissioned Art"],
+      "startDate": "2021",
+      "endDate": "2023",
+      "url": ""
+    },
+    {
+      "name": "Gallify",
+      "summary": "An AR/VR art marketplace built for digital creators and enthusiasts.",
+      "highlights": ["Augmented Reality", "Computer Vision", "Blockchain", "E-Commerce"],
+      "startDate": "2017",
+      "endDate": "2019",
+      "url": ""
     }
   ]
 }
