@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Luke E. Profio # the website title (if blank, full name will be used instead)
 first_name: Luke
 middle_name: E.
 last_name: Profio
 contact_note: ""
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: ""
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Hi, I'm Luke Profio. Welcome to my portfolio site. I'm an AI/ML program & product manager, computational neuroscientist, and AI/ML architect driving innovation at the intersection of computational neuroscience, biomedical informatics, and AI/ML architecture.
+footer_text: "© 2025 Luke Profio. All rights reserved."
+keywords: luke profio, machine learning, product manager, portfolio, artificial intelligence, computational neuroscience, biomedical informatics, CV, automation, AI/ML architect # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 📓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://profio1997.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-1SR7S250KX # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
@@ -97,18 +97,18 @@ related_blog_posts:
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
-giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Comments # name of the category under which discussions will be created
-  category_id: # leave empty or specify your category_id (see https://giscus.app/)
-  mapping: title # identify discussions by post title
-  strict: 1 # use strict identification mode
-  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
-  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
-  emit_metadata: 0
-  lang: en
+# giscus:
+  # repo: # <your-github-user-name>/<your-github-repo-name>
+  # repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+  # category: Comments # name of the category under which discussions will be created
+  # category_id: # leave empty or specify your category_id (see https://giscus.app/)
+  # mapping: title # identify discussions by post title
+  # strict: 1 # use strict identification mode
+  # reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
+  # input_position: bottom # whether to display input form below (bottom) or above (top) the comments
+  # theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
+  # emit_metadata: 0
+  # lang: en
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
@@ -205,6 +205,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-sio-tag
 
 # Sitemap settings
 defaults:

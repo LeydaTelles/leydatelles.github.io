@@ -2,10 +2,10 @@
 layout: page
 title: Gallify
 description: An AR/VR art marketplace built for digital creators and enthusiasts. 
-img: assets/img/Gallify_Logo.jpg
+img: assets/img/Gallify_7.jpg
 importance: 1
 category: work
-related_publications: true
+# related_publications: true
 ---
 
 Gallify was a startup that I founded which lasted for over 18 months. During that time I recruited over 15 people to our team, and made a bunch of friends along the way. Through trial, error, and a lot of pain, our team created the app. However, we did not reach product market fit, and I pulled the plug at third base. The app sucked, but it was a valuable learning experience for how to run a startup.

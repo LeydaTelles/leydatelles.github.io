@@ -3,9 +3,9 @@ layout: page
 title: CODAworx
 description: An e-commerce marketplace for public artists and enthusiasts. 
 img: assets/img/CODAmarket.jpg
-importance: 2
+importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 CODAworx is a high end art seller and art consulting company in Madison, WI. I worked on building out their website CODAmarket, which was a marketplace for their artists to sell their artwork to high end collectors and dealers.
