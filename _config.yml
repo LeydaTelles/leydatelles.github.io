@@ -9,7 +9,7 @@ last_name: Profio
 contact_note: ""
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi, I'm Luke Profio. Welcome to my portfolio site. I'm an AI/ML program & product manager, computational neuroscientist, and AI/ML architect driving innovation at the intersection of computational neuroscience, biomedical informatics, and AI/ML architecture.
-footer_text: "© 2025 Luke Profio. All rights reserved."
+footer_text: ""
 keywords: luke profio, machine learning, product manager, portfolio, artificial intelligence, computational neuroscience, biomedical informatics, CV, automation, AI/ML architect # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
