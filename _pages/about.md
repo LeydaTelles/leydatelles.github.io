@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Carnegie Mellon University</a>  |  AI/ML Program & Product Manager  |  Computational Neuroscientist  |  AI/ML Architect
+subtitle: <a href='#'>Carnegie Mellon University</a>  |  AI/ML Product Manager & Engineer
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-TL;DR: Customer-oriented technology professional with 10 years’ experience building and scaling innovative solutions at the intersection of computational neuroscience, biomedical informatics and AI/ML architecture.
+TL;DR: Customer-oriented technology professional with 10 years’ experience building and scaling innovative solutions at the intersection of business and technology.
 
 Customer-oriented <a href='#'>AI/ML Program & Product Manager</a> with a proven track record of building and scaling innovative technical solutions that deliver measurable impact.   With extensive experience in leading the end-to-end product lifecycle, I specialize in leveraging AI/ML, user-centered design, and iterative methods to build high-quality products that align business goals with user needs.   At Komatsu North America, I lead the global planning, integration, and optimization of ServiceNow ITSM, ITOM, and SPM platforms – partnering with AI/ML teams to drive innovation and deliver measurable uptime, cost-reduction, and productivity gains to over 10,000 users globally. 
 

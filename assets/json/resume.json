@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Luke Profio",
-    "label": "AI/ML Program & Product Manager, Computational Neuroscientist, and AI/ML Architect",
+    "label": "AI/ML Product Manager & Engineer",
     "image": "",
     "email": "luke@profio.us",
     "phone": "(414) 396-0525",
     "url": "https://linktr.ee/profio",
-    "summary": "Customer-oriented technology professional with 10 years of experience building and scaling innovative solutions at the intersection of computational neuroscience, biomedical informatics and AI/ML architecture.",
+    "summary": "Customer-oriented technology professional with 10 years of experience building and scaling innovative solutions at the intersection of business and technology.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "Komatsu North America",
-      "position": "AI/ML Program & Product Manager",
+      "position": "AI/ML Product Manager",
       "url": "https://www.komatsu.com/en-us",
       "startDate": "2025",
       "endDate": "",
@@ -40,7 +40,7 @@
     },
         {
       "name": "Komatsu North America",
-      "position": "Citizen AI/ML Engineer",
+      "position": "AI/ML Engineer",
       "url": "https://www.komatsu.com/en-us",
       "startDate": "2025",
       "endDate": "",
@@ -51,78 +51,6 @@
         "Collaborate with AI/ML engineering, DevOps and product teams to translate research prototypes into secure, API-driven services that integrate with business applications and meet stakeholder requirements.",
         "Enforce data governance, model explainability and audit-ready documentation, tracking key metrics (accuracy, latency, bias) and running A/B tests or hot-fixes.",
         "Continuously research new algorithms and extend internal AI/ML libraries, running PoCs and knowledge-sharing sessions to keep the organization innovative."
-      ]
-    },
-        {
-      "name": "Eleuther AI",
-      "position": "Consulting Computational Neuroscientist, AI/ML Architect",
-      "url": "https://www.eleuther.ai/",
-      "startDate": "2025",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Model neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
-        "Build and maintain end-to-end AI/ML pipelines for clinical, imaging, and -omics data—ensuring scalability, reproducibility, and regulatory compliance.",
-        "Design clinical, imaging, and -omic datasets to support clinical research.",
-        "Collaborate with neuroscientists, physicians, architects, and researchers to turn computational findings into validated AI/ML products."
-      ]
-    },
-        {
-      "name": "Insightica.ai LLC",
-      "position": "Fractional Chief Technology Officer",
-      "url": "",
-      "startDate": "2017",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Leading the cross-functional delivery of AI/ML, biomedical informatics, and cybersecurity solutions across Fortune 500 and nonprofit organizations, accelerating innovation and reducing time-to-ROI.",
-        "Translating complex stakeholder needs into product roadmaps and scalable architectures that align with mission-critical business objectives.",
-        "Overseeing multi-team agile delivery cycles, managing scope, cost, and risk while ensuring high client satisfaction and measurable outcomes.",
-        "Driving strategic portfolio planning and governance, enabling data-informed prioritization and resource allocation to boost operational efficiency across product streams."
-      ]
-    },
-        {
-      "name": "Insightica.ai LLC",
-      "position": "Angel Investor",
-      "url": "",
-      "startDate": "2017",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Scout and back early-stage AI/ML startups by evaluating their tech stacks, data strategies, and founding teams to identify the most promising opportunities.",
-        "Mentor founders on designing and scaling AI/ML solutions, data infrastructure, and go-to-market plans to turn prototypes into market-ready products.",
-        "Tap into my network to arrange pilot projects, customer trials, and strategic partnerships that drive real-world traction.",
-        "Monitor core metrics—business and AI/ML performance—to guide follow-on investments and support sustainable growth."
-      ]
-    },
-        {
-      "name": "Aurifex Biosciences Inc.",
-      "position": "Chief Executive Officer, Founder",
-      "url": "",
-      "startDate": "2024",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Founded and led Aurifex Biosciences Inc., a research lab pioneering emerging technologies at the intersection of computational neuroscience, biomedical informatics, and AI/ML architecture.",
-        "Building and scaling a multidisciplinary R&D team focused on solving complex problems in brain modeling, biomedical informatics, and digital health through AI/ML technologies.",
-        "Directing the development of IP-generating platforms that translate neurobiological and biomedical data into intelligent systems with real-world diagnostic, therapeutic, and industrial benefit.",
-        "Driving strategic partnerships with industry and academia, aligning operations with high-impact commercial pathways in neurotechnology, precision medicine, and AI/ML applications.",
-        "Setting and executing a vision for bridging scientific and computational capabilities, building a foundation for next-generation intelligence in health and biological systems."
-      ]
-    },
-        {
-      "name": "Startup Founder",
-      "position": "Carnegie Mellon University, Swartz Center for Entrepreneurship",
-      "url": "",
-      "startDate": "2022",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Founded and led Aurifex Biosciences Inc., a research lab pioneering emerging technologies at the intersection of computational neuroscience, biomedical informatics, and AI/ML architecture.",
-        "Building and scaling a multidisciplinary R&D team focused on solving complex problems in brain modeling, biomedical informatics, and digital health through AI/ML technologies.",
-        "Directing the development of IP-generating platforms that translate neurobiological and biomedical data into intelligent systems with real-world diagnostic, therapeutic, and industrial benefit.",
-        "Driving strategic partnerships with industry and academia, aligning operations with high-impact commercial pathways in neurotechnology, precision medicine, and AI/ML applications.",
-        "Setting and executing a vision for bridging scientific and computational capabilities, building a foundation for next-generation intelligence in health and biological systems."
       ]
     },
         {
@@ -155,20 +83,6 @@
     },
         {
       "name": "Carnegie Mellon University",
-      "position": "AI/ML Researcher, Affiliate",
-      "url": "https://www.cmu.edu/",
-      "startDate": "2025",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Model neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
-        "Build and maintain end-to-end AI/ML pipelines for clinical, imaging, and -omics data—ensuring scalability, reproducibility, and regulatory compliance.",
-        "Design clinical, imaging, and -omic datasets to support clinical research.",
-        "Collaborate with neuroscientists, physicians, architects, and researchers to turn computational findings into validated AI/ML products."
-      ]
-    },
-        {
-      "name": "Carnegie Mellon University",
       "position": "Founding Board Member, AI@CMU",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
@@ -195,34 +109,6 @@
       ]
     },
         {
-      "name": "American College of Artificial Intelligence and Medicine",
-      "position": "Consulting Computational Neuroscientist, AI/ML Architect",
-      "url": "https://americancollegeaim.org/",
-      "startDate": "2025",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Model neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
-        "Build and maintain end-to-end AI/ML pipelines for clinical, imaging, and -omics data—ensuring scalability, reproducibility, and regulatory compliance.",
-        "Design clinical, imaging, and -omic datasets to support clinical research.",
-        "Collaborate with neuroscientists, physicians, architects, and researchers to turn computational findings into validated AI/ML products."
-      ]
-    },
-        {
-      "name": "MLCommons",
-      "position": "Consulting Computational Neuroscientist, AI/ML Architect",
-      "url": "https://mlcommons.org/",
-      "startDate": "2025",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Model neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
-        "Build and maintain end-to-end AI/ML pipelines for clinical, imaging, and -omics data—ensuring scalability, reproducibility, and regulatory compliance.",
-        "Design clinical, imaging, and -omic datasets to support clinical research.",
-        "Collaborate with neuroscientists, physicians, architects, and researchers to turn computational findings into validated AI/ML products."
-      ]
-    },
-        {
       "name": "Musician",
       "position": "Classical Pianist",
       "url": "",
@@ -238,7 +124,7 @@
     },
         {
       "name": "CODAworx",
-      "position": "CODAmarket Co-Founder, Investor",
+      "position": "CODAmarket Co-Founder & Investor",
       "url": "https://codaworx.com/",
       "startDate": "2021",
       "endDate": "",
@@ -251,7 +137,7 @@
     },
         {
       "name": "CODAworx",
-      "position": "Consulting Technical Portfolio & Product Director",
+      "position": "Technical Product Manager",
       "url": "https://codaworx.com/",
       "startDate": "2021",
       "endDate": "",
@@ -309,7 +195,7 @@
     },
         {
       "name": "UW-Madison",
-      "position": "Consulting Advisory Board Member, AI/ML",
+      "position": "Advisory Board Member, AI/ML",
       "url": "https://www.wisc.edu/",
       "startDate": "2023",
       "endDate": "2025",
@@ -320,7 +206,7 @@
     },
         {
       "name": "Chicago House Athletic Club",
-      "position": "Consulting Advisory Board Member, AI/ML",
+      "position": "Advisory Board Member, AI/ML",
       "url": "https://www.wisc.edu/",
       "startDate": "2023",
       "endDate": "2025",
@@ -342,7 +228,7 @@
     },
         {
       "name": "American Red Cross",
-      "position": "Consulting Program Manager",
+      "position": "Program Manager & Volunteer",
       "url": "https://www.redcross.org",
       "startDate": "2020",
       "endDate": "2022",
@@ -355,7 +241,7 @@
     },
         {
       "name": "UW-Madison",
-      "position": "Consulting Board Member, International Society for Regenerative Medicine",
+      "position": "Board Member, International Society for Regenerative Medicine",
       "url": "https://www.wisc.edu",
       "startDate": "2017",
       "endDate": "2022",
@@ -437,7 +323,7 @@
     },
         {
       "name": "Workday",
-      "position": "Consulting AI/ML Program & Product Manager",
+      "position": "Consulting AI/ML Product Manager",
       "url": "https://www.workday.com/",
       "startDate": "2024",
       "endDate": "2025",
@@ -450,7 +336,7 @@
     },
         {
       "name": "UW Health",
-      "position": "AI/ML Program & Product Manager",
+      "position": "Senior AI/ML Product Manager",
       "url": "https://www.uwhealth.org/",
       "startDate": "2023",
       "endDate": "2025",
@@ -465,9 +351,9 @@
     },
         {
       "name": "Manifold Research",
-      "position": "Consulting Computational Neuroscientist, AI/ML Architect",
+      "position": "OS Operations Fellow & Volunteer",
       "url": "https://www.manifoldrg.com",
-      "startDate": "2023",
+      "startDate": "2024",
       "endDate": "2025",
       "summary": "Built and scaled AI/ML products that reduced costs and enhanced the operability of emerging technologies for academic and enterprise organizations.",
       "highlights": [
@@ -478,7 +364,7 @@
     },
         {
       "name": "Covalent Metrology",
-      "position": "Consulting AI/ML Program & Product Manager",
+      "position": "Consulting AI/ML Product Manager",
       "url": "https://covalentmetrology.com/",
       "startDate": "2025",
       "endDate": "2025",
@@ -489,7 +375,7 @@
     },
         {
       "name": "JASCI Software",
-      "position": "Consulting AI/ML Program & Product Manager",
+      "position": "Lead AI/ML Product Manager",
       "url": "https://www.jascicloud.com/",
       "startDate": "2022",
       "endDate": "2024",
@@ -519,7 +405,7 @@
     },
         {
       "name": "UW-Madison",
-      "position": "Technical Project Manager, Researcher",
+      "position": "Technical Project Manager & Researcher",
       "url": "https://www.wisc.edu/",
       "startDate": "2016",
       "endDate": "2021",
@@ -547,7 +433,7 @@
     },
         {
       "name": "Gallify",
-      "position": "Consulting Chief Technology Officer",
+      "position": "Chief Technology Officer & Founder",
       "url": "",
       "startDate": "2017",
       "endDate": "2019",
@@ -584,7 +470,7 @@
             {
       "organization": "Madison Area Technical College",
       "location": "Madison, Wisconsin",
-      "position": "English Tutor",
+      "position": "Volunteer",
       "url": "https://madisoncollege.edu/",
       "startDate": "2023",
       "endDate": "",
@@ -598,16 +484,6 @@
       "url": "https://www.ssmhealth.com/",
       "startDate": "2023",
       "endDate": "2024",
-      "summary": "",
-      "highlights": []
-    },
-            {
-      "organization": "American Red Cross",
-      "location": "Madison, Wisconsin",
-      "position": "National Division Leader",
-      "url": "https://www.redcross.org",
-      "startDate": "2019",
-      "endDate": "2021",
       "summary": "",
       "highlights": []
     },
@@ -648,7 +524,7 @@
       "institution": "Carnegie Mellon Univeristy",
       "location": "Pittsburgh, Pennsylvania",
       "url": "https://www.cmu.edu/",
-      "area": "Computational Finance, Product Management, Technology Strategy",
+      "area": "Computational Finance, Technology Strategy",
       "studyType": "Master's Degree",
       "startDate": "2022",
       "endDate": "2025",
@@ -678,13 +554,12 @@
       "institution": "University of Colorado, Boulder",
       "location": "Boulder, Colorado",
       "url": "https://www.colorado.edu/home",
-      "area": "Computational Data Science, Engineering",
-      "studyType": "Master of Engineering (MEng)",
+      "area": "Data Science, Mathematical Science",
+      "studyType": "Master of Science (MSc)",
       "startDate": "2023",
       "endDate": "2026",
       "score": "10",
       "courses": [
-        "Artificial Intelligence Graduate Certificate",
         "Academic Merit Scholarship",
         "Dean's List"
       ]
@@ -693,7 +568,7 @@
       "institution": "University of Wisconsin, Madison",
       "location": "Madison, Wisconsin",
       "url": "https://www.wisc.edu/",
-      "area": "Biological Science, Genetics",
+      "area": "Genetics, Biological Science",
       "studyType": "Bachelor of Science (BSc)",
       "startDate": "2016",
       "endDate": "2019",

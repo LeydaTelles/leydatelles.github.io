@@ -8,9 +8,9 @@ middle_name: E.
 last_name: Profio
 contact_note: ""
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi, I'm Luke Profio. Welcome to my portfolio site. I'm an AI/ML program & product manager, computational neuroscientist, and AI/ML architect driving innovation at the intersection of computational neuroscience, biomedical informatics, and AI/ML architecture.
+  Hi, I'm Luke Profio. Welcome to my portfolio site. I'm an AI/ML product manager and engineer, driving innovation at the intersection of business and technology.
 footer_text: ""
-keywords: luke profio, machine learning, product manager, portfolio, artificial intelligence, computational neuroscience, biomedical informatics, CV, automation, AI/ML architect # add your own keywords or leave empty
+keywords: luke profio, machine learning, business, technology, product management, portfolio, artificial intelligence, computational neuroscience, biomedical informatics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -83,7 +83,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Decoded # blog_name will be displayed in your blog page
-blog_description: Unveiling the intersection of computational neuroscience, biomedical informatics and AI/ML architecture.
+blog_description: Unveiling the intersection of business and technology.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -246,7 +246,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["computational neuroscience", "biomedical informatics", "artificial intelligence", "machine learning", "software architecture"] # these tags will be displayed on the front page of your blog
+display_tags: ["business", "technology"] # these tags will be displayed on the front page of your blog
 display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
