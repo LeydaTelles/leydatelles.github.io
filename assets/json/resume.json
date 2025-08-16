@@ -843,24 +843,24 @@
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Portfolio Management Professional (PfMP)",
+      "name": "Project Management Professional (PMP)",
       "date": "",
       "issuer": "Project Management Institute",
       "url": "https://www.pmi.org",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Certified Information Systems Security Professional (CISSP)",
+      "name": "Certified Scrum Product Owner (CSPO)",
       "date": "",
-      "issuer": "ISC2",
-      "url": "https://www.isc2.org/",
+      "issuer": "Scrum Alliance",
+      "url": "https://www.scrumalliance.org/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Solutions Architect",
+      "name": "Product Management",
       "date": "",
-      "issuer": "Amazon Web Services (AWS)",
-      "url": "https://aws.amazon.com/",
+      "issuer": "Carnegie Mellon University",
+      "url": "https://www.cmu.edu/",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
