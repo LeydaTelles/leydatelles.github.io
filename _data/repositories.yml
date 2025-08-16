@@ -4,9 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - profio1997/Gallify_App
-  - profio1997/Gallify_Website
-  - profio1997/UWCS_Alumni_Website
   - profio1997/profio1997.github.io
   - profio1997/Lung_Cancer_Detection
   - profio1997/MIMIC_Visualization
@@ -15,4 +12,7 @@ github_repos:
   - profio1997/LOS_Prediction
   - profio1997/LLM_Application
   - profio1997/MIMIC_ML_DL
+  - profio1997/Gallify_App
+  - profio1997/Gallify_Website
+  - profio1997/UWCS_Alumni_Website
 
