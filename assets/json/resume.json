@@ -28,7 +28,7 @@
       "position": "AI/ML Product Manager",
       "url": "https://www.komatsu.com/en-us",
       "startDate": "2025",
-      "endDate": "",
+      "endDate": null,
       "summary": "Managing the planning, delivery and continuous improvement of our ServiceNow ITSM, ITOM and SPM products, partnering with the AI/ML team to define, validate and deploy enterprise solutions, and focusing on delivering clear, measurable business outcomes for over 10,000 users globally.",
       "highlights": [
         "Leading integrations between ServiceNow ITOM and enterprise platforms (e.g. SAP, Palantir), increasing asset discovery coverage by and reducing unplanned downtime.",
@@ -43,7 +43,7 @@
       "position": "AI/ML Engineer",
       "url": "https://www.komatsu.com/en-us",
       "startDate": "2025",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Architecting and building end-to-end, cloud-enabled AI/ML pipelines—from data ingestion and feature engineering to model delivery—to scale to enterprise data volumes and meet performance SLAs.",
@@ -58,7 +58,7 @@
       "position": "AI/ML Researcher",
       "url": "https://www.utexas.edu/",
       "startDate": "2024",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Model neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
@@ -72,7 +72,7 @@
       "position": "Graduate Teaching Assistant, AI/ML",
       "url": "https://www.utexas.edu/",
       "startDate": "2024",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Conducting office hours and tutoring sessions with students to ensure their success in AI/ML courses.",
@@ -86,7 +86,7 @@
       "position": "Founder, AI@CMU",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Co-founded and shaped the strategic direction of AI@CMU, a student- and alumni-led initiative focused on expanding access to AI/ML education, hands-on tooling, and career development.",
@@ -99,7 +99,7 @@
       "position": "AI/ML Research Scientist",
       "url": "https://www.eleuther.ai/",
       "startDate": "2025",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Model neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
@@ -113,7 +113,7 @@
       "position": "Fractional Chief Technology Officer",
       "url": "",
       "startDate": "2017",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Leading the cross-functional delivery of AI/ML, biomedical informatics, and cybersecurity solutions across Fortune 500 and nonprofit organizations, accelerating innovation and reducing time-to-ROI.",
@@ -127,7 +127,7 @@
       "position": "Angel Investor",
       "url": "",
       "startDate": "2017",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Scout and back early-stage AI/ML startups by evaluating their tech stacks, data strategies, and founding teams to identify the most promising opportunities.",
@@ -141,7 +141,7 @@
       "position": "Chief Executive Officer, Founder",
       "url": "",
       "startDate": "2022",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Founded and led Aurifex Sciences Inc., a research lab pioneering emerging technologies at the intersection of computational neuroscience, biomedical informatics, and AI/ML architecture.",
@@ -156,7 +156,7 @@
       "position": "Carnegie Mellon University, Swartz Center for Entrepreneurship",
       "url": "",
       "startDate": "2022",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Founded and led Aurifex Sciences Inc., a research lab pioneering emerging technologies at the intersection of computational neuroscience, biomedical informatics, and AI/ML architecture.",
@@ -185,7 +185,7 @@
       "position": "AI/ML Researcher, Affiliate",
       "url": "https://www.cmu.edu/",
       "startDate": "2025",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Modeling neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
@@ -199,7 +199,7 @@
       "position": "Classical Pianist",
       "url": "",
       "startDate": "2002",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Wisconsin Music Teacher's Association - Exemplary Soloist, 1st Place",
@@ -213,7 +213,7 @@
       "position": "CODAmarket Co-Founder & Investor",
       "url": "https://codaworx.com/",
       "startDate": "2021",
-      "endDate": "",
+      "endDate": null,
       "summary": "Built and scaled a SaaS eCommerce platform that connects art buyers and commissioners with creators, redefining how artists expand their reach and monetize their artwork.",
       "highlights": [
         "Led the end-to-end design, development, and scaling of the platform with a team of 8+ associates.",
@@ -226,7 +226,7 @@
       "position": "Technical Product Manager",
       "url": "https://codaworx.com/",
       "startDate": "2021",
-      "endDate": "",
+      "endDate": "2023",
       "summary": "Built and scaled a SaaS eCommerce platform that connects art buyers and commissioners with creators, redefining how artists expand their reach and monetize their artwork.",
       "highlights": [
         "Led the end-to-end design, development, and scaling of the platform with a team of 8+ associates.",
@@ -239,7 +239,7 @@
       "position": "U.S. Technology Policy Committee Member",
       "url": "https://www.acm.org/",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Contribute expert guidance on the societal and ethical implications of emerging technologies to inform national policy and legislative decision-making."
@@ -250,7 +250,7 @@
       "position": "Member, OpenAI Lab",
       "url": "https://openai.com/",
       "startDate": "2025",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Contribute systems-level feedback on model behavior, policy, and deployment strategy to ensure AGI benefits all of humanity."
@@ -261,7 +261,7 @@
       "position": "Eagle Scout",
       "url": "https://nesa.org/",
       "startDate": "2012",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": [
         "Order of the Arrow Honor Society",
@@ -539,7 +539,7 @@
       "position": "Volunteer",
       "url": "https://www.uwhealth.org/",
       "startDate": "2017",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": []
     },
@@ -549,7 +549,7 @@
       "position": "Volunteer",
       "url": "https://www.nami.org/",
       "startDate": "2025",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": []
     },
@@ -559,7 +559,7 @@
       "position": "Volunteer",
       "url": "https://madisoncollege.edu/",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": null,
       "summary": "",
       "highlights": []
     },
