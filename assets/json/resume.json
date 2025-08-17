@@ -180,6 +180,20 @@
         "Collaborated with neuroscientists, physicians, architects, and researchers to turn computational findings into validated AI/ML products."
       ]
     },
+            {
+      "name": "Carnegie Mellon University",
+      "position": "AI/ML Researcher, Affiliate",
+      "url": "https://www.cmu.edu/",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Modeling neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
+        "Building and maintaining end-to-end AI/ML pipelines for clinical, imaging, and -omics data—ensuring scalability, reproducibility, and regulatory compliance.",
+        "Designing clinical, imaging, and -omic datasets to support clinical research.",
+        "Collaborating with neuroscientists, physicians, architects, and researchers to turn computational findings into validated AI/ML products."
+      ]
+    },
         {
       "name": "Musician",
       "position": "Classical Pianist",
@@ -596,7 +610,7 @@
       "institution": "Carnegie Mellon Univeristy",
       "location": "Pittsburgh, Pennsylvania",
       "url": "https://www.cmu.edu/",
-      "area": "Computational Finance, Technology Strategy",
+      "area": "Economics, Computational Finance",
       "studyType": "Master's Degree",
       "startDate": "2022",
       "endDate": "2025",
