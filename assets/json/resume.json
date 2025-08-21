@@ -40,7 +40,7 @@
     },
         {
       "name": "Komatsu North America",
-      "position": "AI/ML Engineer",
+      "position": "Machine Learning Engineer",
       "url": "https://www.komatsu.com/en-us",
       "startDate": "2025",
       "endDate": null,
@@ -55,7 +55,7 @@
     },
         {
       "name": "The University of Texas at Austin",
-      "position": "AI/ML Researcher",
+      "position": "AI/ML Research Engineer",
       "url": "https://www.utexas.edu/",
       "startDate": "2024",
       "endDate": null,
@@ -96,7 +96,7 @@
     },
         {
       "name": "Eleuther AI",
-      "position": "AI/ML Research Scientist",
+      "position": "AI/ML Research Engineer",
       "url": "https://www.eleuther.ai/",
       "startDate": "2025",
       "endDate": null,
@@ -138,7 +138,7 @@
     },
         {
       "name": "Aurifex Sciences Inc.",
-      "position": "Chief Executive Officer, Founder",
+      "position": "Chief Executive Officer & Founder",
       "url": "",
       "startDate": "2022",
       "endDate": null,
@@ -168,7 +168,7 @@
     },
             {
       "name": "Carnegie Mellon University",
-      "position": "AI/ML Researcher",
+      "position": "AI/ML Research Engineer",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
       "endDate": "2025",
@@ -182,7 +182,7 @@
     },
             {
       "name": "Carnegie Mellon University",
-      "position": "AI/ML Researcher, Affiliate",
+      "position": "AI/ML Research Engineer, Affiliate",
       "url": "https://www.cmu.edu/",
       "startDate": "2025",
       "endDate": null,
@@ -224,6 +224,19 @@
         {
       "name": "CODAworx",
       "position": "Technical Product Manager",
+      "url": "https://codaworx.com/",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Built and scaled a SaaS eCommerce platform that connects art buyers and commissioners with creators, redefining how artists expand their reach and monetize their artwork.",
+      "highlights": [
+        "Led the end-to-end design, development, and scaling of the platform with a team of 8+ associates.",
+        "Significantly increased customer retention through targeted outreach and self-service user onboarding and training.",
+        "Optimized transaction efficiency and enhanced user experience by redesigning inventory management systems using A/B testing and user analytics."
+      ]
+    },
+            {
+      "name": "CODAworx",
+      "position": "Software Engineer",
       "url": "https://codaworx.com/",
       "startDate": "2021",
       "endDate": "2023",
@@ -314,7 +327,7 @@
     },
         {
       "name": "American Red Cross",
-      "position": "Program Manager & Volunteer",
+      "position": "Program Manager",
       "url": "https://www.redcross.org",
       "startDate": "2020",
       "endDate": "2022",
@@ -437,7 +450,7 @@
     },
         {
       "name": "Manifold Research",
-      "position": "OS Operations Fellow & Volunteer",
+      "position": "AI/ML Research Engineer",
       "url": "https://www.manifoldrg.com",
       "startDate": "2024",
       "endDate": "2025",
@@ -501,6 +514,19 @@
         "Co-led a global team of 18 researchers and co-authored a publication cited by 30+ academic and industry organizations including the American Heart Association, advancing cardiovascular medicine, and improving patient outcomes.",
         "Utilized agile methodologies to enhance the efficiency of cardiac tissue regeneration, paving the way for pre-clinical product development and commercialization.",
         "Developed data analytics workflows using instrumentation software and programming, reducing processing time while improving data accuracy and quality."
+      ]
+    },
+        {
+      "name": "UW-Madison",
+      "position": "Software Engineer",
+      "url": "https://www.wisc.edu/",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": [
+        "Delivered scalable, high-performance web applications that improved load times and supported traffic growth.",
+        "Engineered secure, API-driven backends and responsive front-end interfaces, enabling integrations with third-party services and reducing error rates.",
+        "Partnered with product and design teams to launch user-centric features, increasing engagement and retention while maintaining accessibility and compliance standards."
       ]
     },
         {
@@ -595,6 +621,28 @@
     }
   ],
   "education": [
+        {
+      "institution": "Harvard Medical School",
+      "location": "Boston, Massachusetts",
+      "url": "https://hms.harvard.edu/",
+      "area": "Global Healthcare Leadership",
+      "studyType": "Professional Program",
+      "startDate": "2025",
+      "endDate": "2026",
+      "score": "10",
+      "courses": []
+    },
+        {
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Boston, Massachusetts",
+      "url": "https://www.mit.edu/",
+      "area": "Chief Technology Officer",
+      "studyType": "Professional Program",
+      "startDate": "2025",
+      "endDate": "2026",
+      "score": "10",
+      "courses": []
+    },
     {
       "institution": "Stanford University School of Engineering",
       "location": "Stanford, California",
