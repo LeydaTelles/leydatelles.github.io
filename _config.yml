@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Luke E. Profio # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Luke
 middle_name: E.
 last_name: Profio
 contact_note: ""
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi, I'm Luke Profio. Welcome to my portfolio site. I'm an AI/ML product manager and engineer, driving innovation at the intersection of business and technology.
+  Hi, I'm Luke Profio. Welcome to my portfolio site. I'm a member of the technical staff at Komatsu, driving innovation at the intersection of business and technology.
 footer_text: ""
 keywords: luke profio, machine learning, business, technology, product management, portfolio, artificial intelligence, computational neuroscience, biomedical informatics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

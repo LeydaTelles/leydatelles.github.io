@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started a role at Komatsu North America as an AI/ML Product Manager & Engineer.
+Joined Komatsu as a member of the technical staff.
