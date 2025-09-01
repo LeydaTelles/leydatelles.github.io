@@ -622,17 +622,6 @@
   ],
   "education": [
         {
-      "institution": "Harvard Medical School",
-      "location": "Boston, Massachusetts",
-      "url": "https://hms.harvard.edu/",
-      "area": "Global Healthcare Leadership",
-      "studyType": "Professional Program",
-      "startDate": "2025",
-      "endDate": "2026",
-      "score": "10",
-      "courses": []
-    },
-        {
       "institution": "Massachusetts Institute of Technology",
       "location": "Boston, Massachusetts",
       "url": "https://www.mit.edu/",
