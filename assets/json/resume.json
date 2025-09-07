@@ -38,6 +38,20 @@
         "Defining and tracking key metrics—MTTR, self-service adoption, model performance and ROI—to drive continuous improvement and ensure each release delivers impact to the business."
       ]
     },
+    {
+      "name": "Maven",
+      "position": "Instructor",
+      "url": "https://maven.com/",
+      "startDate": "2025",
+      "endDate": null,
+      "summary": "",
+      "highlights": [
+        "Design and deliver interactive online courses on project management certifications (PMP, PMI-ACP), MCAT preparation, Palantir Foundry, ServiceNow (e.g. IT Operations Management), and agentic AI (e.g. LangChain).",
+        "Translate professional expertise into practical, hands-on learning experiences that equip industry professionals and students with applicable skills.",
+        "Collaborate with Maven’s instructor community to refine teaching methods, share best practices, and contribute to the platform’s mission.",
+        "Support learners through mentorship, feedback, and guided practice, ensuring they gain confidence and competence in quickly-evolving fields."
+      ]
+    },
         {
       "name": "Komatsu North America",
       "position": "Member of Technical Staff, Machine Learning Engineer",
@@ -55,16 +69,16 @@
     },
         {
       "name": "The University of Texas at Austin",
-      "position": "AI/ML Research Engineer",
+      "position": "AI/ML Researcher",
       "url": "https://www.utexas.edu/",
       "startDate": "2024",
       "endDate": null,
       "summary": "",
       "highlights": [
-        "Model neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
-        "Build and maintain end-to-end AI/ML pipelines for clinical, imaging, and -omics data—ensuring scalability, reproducibility, and regulatory compliance.",
-        "Design clinical, imaging, and -omic datasets to support clinical research.",
-        "Collaborate with neuroscientists, physicians, architects, and researchers to turn computational findings into validated AI/ML products."
+        "Investigating and developing novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
+        "Designing and running experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
+        "Publishing and sharing research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
+        "Mentoring and collaborating with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
       ]
     },
         {
@@ -92,20 +106,6 @@
         "Co-founded and shaped the strategic direction of AI@CMU, a student- and alumni-led initiative focused on expanding access to AI/ML education, hands-on tooling, and career development.",
         "Leading workshops, speaker events, and mentorship programs to equip students with practical AI/ML skills using industry-relevant tools and frameworks.",
         "Building partnerships with faculty, research labs, and tech companies to connect members with resources, projects, and applied learning opportunities in AI/ML."
-      ]
-    },
-        {
-      "name": "Eleuther AI",
-      "position": "AI/ML Research Engineer (Open Source)",
-      "url": "https://www.eleuther.ai/",
-      "startDate": "2025",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Model neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
-        "Build and maintain end-to-end AI/ML pipelines for clinical, imaging, and -omics data—ensuring scalability, reproducibility, and regulatory compliance.",
-        "Design clinical, imaging, and -omic datasets to support clinical research.",
-        "Collaborate with neuroscientists, physicians, architects, and researchers to turn computational findings into validated AI/ML products."
       ]
     },
         {
@@ -168,30 +168,58 @@
     },
             {
       "name": "Carnegie Mellon University",
-      "position": "AI/ML Research Engineer",
+      "position": "AI/ML Researcher",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
       "endDate": "2025",
       "summary": "",
       "highlights": [
-        "Modeled neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
-        "Built and maintained end-to-end AI/ML pipelines for clinical, imaging, and -omics data—ensuring scalability, reproducibility, and regulatory compliance.",
-        "Designed clinical, imaging, and -omic datasets to support clinical research.",
-        "Collaborated with neuroscientists, physicians, architects, and researchers to turn computational findings into validated AI/ML products."
+        "Investigated and developed novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
+        "Designed and ran experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
+        "Published and shared research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
+        "Mentored and collaborated with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
       ]
     },
             {
       "name": "Carnegie Mellon University",
-      "position": "AI/ML Research Engineer, Affiliate",
+      "position": "AI/ML Researcher, Affiliate",
       "url": "https://www.cmu.edu/",
       "startDate": "2025",
       "endDate": null,
       "summary": "",
       "highlights": [
-        "Modeling neural circuits and brain network dynamics to uncover disease mechanisms, guide experimental design, support in commercialization and product development.",
-        "Building and maintaining end-to-end AI/ML pipelines for clinical, imaging, and -omics data—ensuring scalability, reproducibility, and regulatory compliance.",
-        "Designing clinical, imaging, and -omic datasets to support clinical research.",
-        "Collaborating with neuroscientists, physicians, architects, and researchers to turn computational findings into validated AI/ML products."
+        "Investigating and developing novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
+        "Designing and running experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
+        "Publishing and sharing research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
+        "Mentoring and collaborating with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
+      ]
+    },
+            {
+      "name": "University of Wisconsin, Madison",
+      "position": "AI/ML Researcher, Affiliate",
+      "url": "https://www.wisc.edu/",
+      "startDate": "2021",
+      "endDate": "2024",
+      "summary": "",
+      "highlights": [
+        "Investigating and developing novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
+        "Designing and running experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
+        "Publishing and sharing research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
+        "Mentoring and collaborating with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
+      ]
+    },
+            {
+      "name": "Massachusetts Institute of Technology",
+      "position": "AI/ML Researcher",
+      "url": "https://www.mit.edu/",
+      "startDate": "2025",
+      "endDate": null,
+      "summary": "",
+      "highlights": [
+        "Investigating and developing novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
+        "Designing and running experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
+        "Publishing and sharing research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
+        "Mentoring and collaborating with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
       ]
     },
         {
@@ -648,7 +676,7 @@
       "location": "Pittsburgh, Pennsylvania",
       "url": "https://www.cmu.edu/",
       "area": "Economics",
-      "studyType": "Master's Degree",
+      "studyType": "Master of Business Administration (MBA)",
       "startDate": "2022",
       "endDate": "2025",
       "score": "10",
@@ -666,7 +694,7 @@
       "area": "Artificial Intelligence, Mathematical Science",
       "studyType": "Master of Science (MSc)",
       "startDate": "2024",
-      "endDate": "2027",
+      "endDate": "2026",
       "score": "10",
       "courses": [
         "Academic Merit Scholarship",
