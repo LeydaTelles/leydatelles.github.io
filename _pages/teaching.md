@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: While attending the University of Texas at Austin, I have supported as a Graduate Teaching Assistant for the following courses.
+description: While attending the University of Texas at Austin, I have supported as a Graduate Teaching Assistant for AI/ML engineering courses.
 nav: true
 nav_order: 6
 ---

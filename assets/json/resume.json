@@ -467,61 +467,20 @@
   ],
   "education": [
         {
-      "institution": "Massachusetts Institute of Technology",
-      "location": "Boston, Massachusetts",
-      "url": "https://www.mit.edu/",
-      "area": null,
-      "studyType": "CTO Program",
-      "startDate": "2025",
-      "endDate": "2026",
-      "score": "10",
-      "courses": []
-    },
-        {
-      "institution": "Carnegie Mellon Univeristy",
-      "location": "Pittsburgh, Pennsylvania",
-      "url": "https://www.cmu.edu/",
-      "area": "Product Management, Technology Strategy",
-      "studyType": "Master of Business Administration (MBA)",
+      "institution": "Elmbrook Schools",
+      "location": "Elm Grove, Wisconsin",
+      "url": "https://www.elmbrookschools.org/",
+      "area": "General Education",
+      "studyType": "K-12, High School Diploma",
       "startDate": null,
       "endDate": null,
       "score": "10",
       "courses": [
-        "David A. Tepper Academice Merit Scholarship",
-        "Software Engineering Graduate Certificate",
-        "Swartz Center for Entrepreneurship",
-        "Dean's List"
+        "AP Scholar with Distinction",
+        "Honor Roll"
       ]
     },
-        {
-      "institution": "The University of Texas at Austin",
-      "location": "Austin, Texas",
-      "url": "https://www.utexas.edu/",
-      "area": "Artificial Intelligence, Mathematical Science",
-      "studyType": "Master of Science (MSc)",
-      "startDate": null,
-      "endDate": null,
-      "score": "10",
-      "courses": [
-        "Academic Merit Scholarship",
-        "Dean's List"
-      ]
-    },
-        {
-      "institution": "University of Colorado, Boulder",
-      "location": "Boulder, Colorado",
-      "url": "https://www.colorado.edu/home",
-      "area": "Data Science, Mathematical Science",
-      "studyType": "Master of Engineering (MEng)",
-      "startDate": null,
-      "endDate": null,
-      "score": "10",
-      "courses": [
-        "Academic Merit Scholarship",
-        "Dean's List"
-      ]
-    },
-        {
+            {
       "institution": "University of Wisconsin, Madison",
       "location": "Madison, Wisconsin",
       "url": "https://www.wisc.edu/",
@@ -542,18 +501,59 @@
       ]
     },
         {
-      "institution": "Elmbrook Schools",
-      "location": "Elm Grove, Wisconsin",
-      "url": "https://www.elmbrookschools.org/",
-      "area": "General Education",
-      "studyType": "K-12, High School Diploma",
+      "institution": "University of Colorado, Boulder",
+      "location": "Boulder, Colorado",
+      "url": "https://www.colorado.edu/home",
+      "area": "Data Science, Mathematical Science",
+      "studyType": "Master of Engineering (MEng)",
       "startDate": null,
       "endDate": null,
       "score": "10",
       "courses": [
-        "AP Scholar with Distinction",
-        "Honor Roll"
+        "Academic Merit Scholarship",
+        "Dean's List"
       ]
+    },
+        {
+      "institution": "The University of Texas at Austin",
+      "location": "Austin, Texas",
+      "url": "https://www.utexas.edu/",
+      "area": "Artificial Intelligence, Mathematical Science",
+      "studyType": "Master of Science (MSc)",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "Academic Merit Scholarship",
+        "Dean's List"
+      ]
+    },
+        {
+      "institution": "Carnegie Mellon Univeristy",
+      "location": "Pittsburgh, Pennsylvania",
+      "url": "https://www.cmu.edu/",
+      "area": "Product Management, Technology Strategy",
+      "studyType": "Master of Business Administration (MBA)",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "David A. Tepper Academice Merit Scholarship",
+        "Software Engineering Graduate Certificate",
+        "Swartz Center for Entrepreneurship",
+        "Dean's List"
+      ]
+    },
+        {
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Boston, Massachusetts",
+      "url": "https://www.mit.edu/",
+      "area": null,
+      "studyType": "CTO Program",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": []
     }
   ],
   "awards": [
@@ -717,14 +717,14 @@
       "name": "Regenerative Medicine",
       "date": "",
       "issuer": "UW-Madison",
-      "url": "https://www.wisc.edu/",
+      "url": "https://www.med.wisc.edu/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Surgery",
       "date": "",
       "issuer": "UW-Madison",
-      "url": "https://www.wisc.edu/",
+      "url": "https://www.med.wisc.edu/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
