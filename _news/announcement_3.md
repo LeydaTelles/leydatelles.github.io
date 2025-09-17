@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Komatsu as a member of the technical staff.
+Joined Komatsu as an AI/ML Product Manager.

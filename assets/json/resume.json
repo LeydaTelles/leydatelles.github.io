@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Luke Profio",
-    "label": "Member of Technical Staff @ Komatsu",
+    "label": "AI/ML Product Manager @ Komatsu",
     "image": "",
     "email": "luke@profio.us",
     "phone": "(414) 396-0525",
@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "Komatsu North America",
-      "position": "AI/ML Product Manager",
+      "position": "AI/ML Product Manager, Software Architecture",
       "url": "https://www.komatsu.com/en-us",
       "startDate": "2025",
       "endDate": null,
@@ -38,61 +38,32 @@
         "Defining and tracking key metrics—MTTR, self-service adoption, model performance and ROI—to drive continuous improvement and ensure each release delivers impact to the business."
       ]
     },
-    {
-      "name": "Maven",
-      "position": "Instructor",
-      "url": "https://maven.com/",
-      "startDate": "2025",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Design and deliver interactive online courses on project management certifications (PMP, PMI-ACP), MCAT preparation, Palantir Foundry, ServiceNow (e.g. IT Operations Management), and agentic AI (e.g. LangChain).",
-        "Translate professional expertise into practical, hands-on learning experiences that equip industry professionals and students with applicable skills.",
-        "Collaborate with Maven’s instructor community to refine teaching methods, share best practices, and contribute to the platform’s mission.",
-        "Support learners through mentorship, feedback, and guided practice, ensuring they gain confidence and competence in quickly-evolving fields."
-      ]
-    },
         {
-      "name": "Komatsu North America",
-      "position": "Member of Technical Staff, Machine Learning Engineer",
-      "url": "https://www.komatsu.com/en-us",
-      "startDate": "2025",
-      "endDate": null,
+      "name": "The University of Texas at Austin",
+      "position": "AI/ML Research Engineer",
+      "url": "https://www.utexas.edu/",
+      "startDate": "2024",
+      "endDate": "2025",
       "summary": "",
       "highlights": [
-        "Architecting and building end-to-end, cloud-enabled AI/ML pipelines—from data ingestion and feature engineering to model delivery—to scale to enterprise data volumes and meet performance SLAs.",
-        "Automating deployment, versioning, monitoring and retraining of models using CI/CD, container orchestration (Docker / Kubernetes) and MLOps tooling to reduce production downtime.",
-        "Collaborating with AI/ML engineering, DevOps and product teams to translate research prototypes into secure, API-driven services that integrate with business applications and meet stakeholder requirements.",
-        "Enforcing data governance, model explainability and audit-ready documentation, tracking key metrics (accuracy, latency, bias) and running A/B tests or hot-fixes.",
-        "Continuously researching new algorithms and extending internal AI/ML libraries, running PoCs and knowledge-sharing sessions to promote innovation."
+        "Investigated and developed novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
+        "Designed and ran experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
+        "Published and shared research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
+        "Mentored and collaborated with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
       ]
     },
         {
       "name": "The University of Texas at Austin",
-      "position": "AI/ML Researcher",
+      "position": "Graduate Teaching Assistant, AI/ML Engineering",
       "url": "https://www.utexas.edu/",
       "startDate": "2024",
-      "endDate": null,
+      "endDate": "2025",
       "summary": "",
       "highlights": [
-        "Investigating and developing novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
-        "Designing and running experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
-        "Publishing and sharing research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
-        "Mentoring and collaborating with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
-      ]
-    },
-        {
-      "name": "The University of Texas at Austin",
-      "position": "Graduate Teaching Assistant, AI/ML",
-      "url": "https://www.utexas.edu/",
-      "startDate": "2024",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Conducting office hours and tutoring sessions with students to ensure their success in AI/ML courses.",
-        "Grading assignments and providing constructive feedback, helping students understand their strengths and areas for improvement.",
-        "Collaborating with faculty to improve course materials, integrating the latest research and instructional methods.", 
-        "Mentoring students and fostering an inclusive learning environment, encouraging curiosity, critical thinking, and a passion for AI/ML."
+        "Conducted office hours and tutoring sessions with students to ensure their success in AI/ML courses.",
+        "Graded assignments and provided constructive feedback, helping students understand their strengths and areas for improvement.",
+        "Collaborated with faculty to improve course materials, integrating the latest research and instructional methods.", 
+        "Mentored students and fostered an inclusive learning environment, encouraging curiosity, critical thinking, and a passion for AI/ML."
       ]
     },
         {
@@ -109,46 +80,17 @@
       ]
     },
         {
-      "name": "Insightica.ai LLC",
-      "position": "Fractional Chief Technology Officer",
-      "url": "",
-      "startDate": "2017",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Leading the cross-functional delivery of AI/ML, biomedical informatics, and cybersecurity solutions across Fortune 500 and nonprofit organizations, accelerating innovation and reducing time-to-ROI.",
-        "Translating complex stakeholder needs into product roadmaps and scalable architectures that align with mission-critical business objectives.",
-        "Overseeing multi-team agile delivery cycles, managing scope, cost, and risk while ensuring high client satisfaction and measurable outcomes.",
-        "Driving strategic portfolio planning and governance, enabling data-informed prioritization and resource allocation to boost operational efficiency across product streams."
-      ]
-    },
-        {
-      "name": "Insightica.ai LLC",
-      "position": "Angel Investor",
-      "url": "",
-      "startDate": "2017",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Scout and back early-stage AI/ML startups by evaluating their tech stacks, data strategies, and founding teams to identify the most promising opportunities.",
-        "Mentor founders on designing and scaling AI/ML solutions, data infrastructure, and go-to-market plans to turn prototypes into market-ready products.",
-        "Tap into my network to arrange pilot projects, customer trials, and strategic partnerships that drive real-world traction.",
-        "Monitor core metrics—business and AI/ML performance—to guide follow-on investments and support sustainable growth."
-      ]
-    },
-        {
-      "name": "Aurifex Sciences Inc.",
+      "name": "Aurifex",
       "position": "Chief Executive Officer & Founder",
       "url": "",
       "startDate": "2022",
       "endDate": null,
       "summary": "",
       "highlights": [
-        "Founded and led Aurifex Sciences Inc., a research lab pioneering emerging technologies at the intersection of computational neuroscience, biomedical informatics, and AI/ML architecture.",
-        "Building and scaling a multidisciplinary R&D team focused on solving complex problems in brain modeling, biomedical informatics, and digital health through AI/ML technologies.",
-        "Directing the development of IP-generating platforms that translate neurobiological and biomedical data into intelligent systems with real-world diagnostic, therapeutic, and industrial benefit.",
-        "Driving strategic partnerships with industry and academia, aligning operations with high-impact commercial pathways in neurotechnology, precision medicine, and AI/ML applications.",
-        "Setting and executing a vision for bridging scientific and computational capabilities, building a foundation for next-generation intelligence in health and biological systems."
+        "Leading the cross-functional delivery of AI/ML solutions across Fortune 500 and nonprofit organizations, accelerating innovation and reducing time-to-ROI.",
+        "Translating complex stakeholder needs into product roadmaps and scalable architectures that align with mission-critical business objectives.",
+        "Overseeing multi-team agile delivery cycles, managing scope, cost, and risk while ensuring high client satisfaction and measurable outcomes.",
+        "Driving strategic portfolio planning and governance, enabling data-informed prioritization and resource allocation to boost operational efficiency across product streams."
       ]
     },
         {
@@ -159,16 +101,15 @@
       "endDate": null,
       "summary": "",
       "highlights": [
-        "Founded and led Aurifex Sciences Inc., a research lab pioneering emerging technologies at the intersection of computational neuroscience, biomedical informatics, and AI/ML architecture.",
-        "Building and scaling a multidisciplinary R&D team focused on solving complex problems in brain modeling, biomedical informatics, and digital health through AI/ML technologies.",
-        "Directing the development of IP-generating platforms that translate neurobiological and biomedical data into intelligent systems with real-world diagnostic, therapeutic, and industrial benefit.",
-        "Driving strategic partnerships with industry and academia, aligning operations with high-impact commercial pathways in neurotechnology, precision medicine, and AI/ML applications.",
-        "Setting and executing a vision for bridging scientific and computational capabilities, building a foundation for next-generation intelligence in health and biological systems."
+        "Founded Aurifex, leading the cross-functional delivery of AI/ML solutions across Fortune 500 and nonprofit organizations, accelerating innovation and reducing time-to-ROI.",
+        "Translating complex stakeholder needs into product roadmaps and scalable architectures that align with mission-critical business objectives.",
+        "Overseeing multi-team agile delivery cycles, managing scope, cost, and risk while ensuring high client satisfaction and measurable outcomes.",
+        "Driving strategic portfolio planning and governance, enabling data-informed prioritization and resource allocation to boost operational efficiency across product streams."
       ]
     },
             {
       "name": "Carnegie Mellon University",
-      "position": "AI/ML Researcher",
+      "position": "AI/ML Research Engineer",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
       "endDate": "2025",
@@ -178,62 +119,6 @@
         "Designed and ran experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
         "Published and shared research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
         "Mentored and collaborated with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
-      ]
-    },
-            {
-      "name": "Carnegie Mellon University",
-      "position": "AI/ML Researcher, Affiliate",
-      "url": "https://www.cmu.edu/",
-      "startDate": "2025",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Investigating and developing novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
-        "Designing and running experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
-        "Publishing and sharing research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
-        "Mentoring and collaborating with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
-      ]
-    },
-            {
-      "name": "University of Wisconsin, Madison",
-      "position": "AI/ML Researcher, Affiliate",
-      "url": "https://www.wisc.edu/",
-      "startDate": "2021",
-      "endDate": "2024",
-      "summary": "",
-      "highlights": [
-        "Investigating and developing novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
-        "Designing and running experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
-        "Publishing and sharing research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
-        "Mentoring and collaborating with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
-      ]
-    },
-            {
-      "name": "Massachusetts Institute of Technology",
-      "position": "AI/ML Researcher",
-      "url": "https://www.mit.edu/",
-      "startDate": "2025",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Investigating and developing novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
-        "Designing and running experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
-        "Publishing and sharing research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
-        "Mentoring and collaborating with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
-      ]
-    },
-        {
-      "name": "Musician",
-      "position": "Classical Pianist",
-      "url": "",
-      "startDate": "2002",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Wisconsin Music Teacher's Association - Exemplary Soloist, 1st Place",
-        "National Federation of Music Clubs - Exemplary Soloist, 1st Place",
-        "Milwaukee Music Teacher's Association - 1st Place",
-        "Wisconsin State Music Association - 1st Place"
       ]
     },
         {
@@ -251,7 +136,7 @@
     },
         {
       "name": "CODAworx",
-      "position": "Technical Product Manager",
+      "position": "Technical Product Manager, eCommerce",
       "url": "https://codaworx.com/",
       "startDate": "2021",
       "endDate": "2023",
@@ -264,7 +149,7 @@
     },
             {
       "name": "CODAworx",
-      "position": "Software Engineer",
+      "position": "Software Engineer, eCommerce",
       "url": "https://codaworx.com/",
       "startDate": "2021",
       "endDate": "2023",
@@ -276,53 +161,8 @@
       ]
     },
         {
-      "name": "ACM, Association for Computing Machinery",
-      "position": "U.S. Technology Policy Committee Member",
-      "url": "https://www.acm.org/",
-      "startDate": "2023",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Contribute expert guidance on the societal and ethical implications of emerging technologies to inform national policy and legislative decision-making."
-      ]
-    },
-        {
-      "name": "OpenAI",
-      "position": "Member, ChatGPT Lab",
-      "url": "https://openai.com/",
-      "startDate": "2025",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Contribute systems-level feedback on model behavior, policy, and deployment strategy to ensure AGI benefits all of humanity."
-      ]
-    },
-        {
-      "name": "National Eagle Scout Association (DC)",
-      "position": "Eagle Scout",
-      "url": "https://nesa.org/",
-      "startDate": "2012",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Order of the Arrow Honor Society",
-        "My Eagle Scout project involved the cleaning and renovation of Mitchell Park in Brookfield, Wisconsin. As a part of this, I recruited over 20 volunteers and coordinated with local bodies to ensure compliance and follow through."
-      ]
-    },
-        {
-      "name": "Perplexity",
-      "position": "AI/ML Fellowship",
-      "url": "https://www.perplexity.ai/",
-      "startDate": "2025",
-      "endDate": "2025",
-      "summary": "",
-      "highlights": [
-        "Participated in Perplexity's AI/ML fellowship, which provided technical and non-technical guidance on the development of AI/ML systems."
-      ]
-    },
-        {
       "name": "UW-Madison",
-      "position": "Advisory Board Member, AI/ML",
+      "position": "Advisory Board Member, AI/ML Engineering",
       "url": "https://www.wisc.edu/",
       "startDate": "2023",
       "endDate": "2025",
@@ -332,30 +172,8 @@
       ]
     },
         {
-      "name": "Chicago House Athletic Club",
-      "position": "Advisory Board Member, AI/ML",
-      "url": "https://www.wisc.edu/",
-      "startDate": "2023",
-      "endDate": "2025",
-      "summary": "",
-      "highlights": [
-        "Served on the Chicago House Athletic Club's advisory board, influencing technology initiatives that increased engagement and enabled new digital experiences."
-      ]
-    },
-        {
-      "name": "Pillar VC",
-      "position": "Entrepreneurial Fellowship",
-      "url": "https://www.pillar.vc/",
-      "startDate": "2023",
-      "endDate": "2023",
-      "summary": "",
-      "highlights": [
-        "Participated in Pillar VC's entrepreneurial fellowship, which provided guidance on growth enablement of startups and securing venture funding."
-      ]
-    },
-        {
       "name": "American Red Cross",
-      "position": "Program Manager (Pro-Bono)",
+      "position": "Program Manager, National Scheduling Division",
       "url": "https://www.redcross.org",
       "startDate": "2020",
       "endDate": "2022",
@@ -463,7 +281,7 @@
     },
         {
       "name": "UW Health",
-      "position": "Senior AI/ML Product Manager",
+      "position": "Senior AI/ML Product Manager, Medical Informatics",
       "url": "https://www.uwhealth.org/",
       "startDate": "2023",
       "endDate": "2025",
@@ -477,8 +295,8 @@
       ]
     },
         {
-      "name": "Manifold Research (Open Source)",
-      "position": "AI/ML Research Engineer",
+      "name": "Manifold Research",
+      "position": "AI/ML Program Manager, Open Source",
       "url": "https://www.manifoldrg.com",
       "startDate": "2024",
       "endDate": "2025",
@@ -490,19 +308,8 @@
       ]
     },
         {
-      "name": "Covalent Metrology",
-      "position": "AI/ML Product Manager",
-      "url": "https://covalentmetrology.com/",
-      "startDate": "2025",
-      "endDate": "2025",
-      "summary": "",
-      "highlights": [
-        "Built an AI/ML product strategy that integrated stakeholder goals with market feedback, improving cross-team coordination and product development."
-      ]
-    },
-        {
       "name": "JASCI Software",
-      "position": "Lead AI/ML Product Manager",
+      "position": "Technical Program Director, Software Engineering",
       "url": "https://www.jascicloud.com/",
       "startDate": "2022",
       "endDate": "2024",
@@ -519,7 +326,7 @@
     },
         {
       "name": "Labcorp",
-      "position": "Associate Technical Project Manager",
+      "position": "Associate Technical Project Manager, Pharmaceuticals",
       "url": "https://www.labcorp.com/",
       "startDate": "2021",
       "endDate": "2022",
@@ -532,7 +339,7 @@
     },
         {
       "name": "UW-Madison",
-      "position": "Technical Project Manager & Researcher",
+      "position": "Technical Project Manager & Researcher, Regenerative Medicine",
       "url": "https://www.wisc.edu/",
       "startDate": "2016",
       "endDate": "2021",
@@ -559,7 +366,7 @@
     },
         {
       "name": "Merck Group",
-      "position": "Associate Research Scientist",
+      "position": "Associate Research Scientist, Chemical Engineering",
       "url": "https://www.emdgroup.com/en",
       "startDate": "2021",
       "endDate": "2022",
@@ -593,6 +400,16 @@
       "position": "Volunteer",
       "url": "https://www.uwhealth.org/",
       "startDate": "2017",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "National Eagle Scout Association",
+      "location": "Washington DC",
+      "position": "Eagle Scout",
+      "url": "https://nesa.org/",
+      "startDate": "2013",
       "endDate": null,
       "summary": "",
       "highlights": []
@@ -613,7 +430,7 @@
       "position": "Volunteer",
       "url": "https://madisoncollege.edu/",
       "startDate": "2023",
-      "endDate": null,
+      "endDate": "2024",
       "summary": "",
       "highlights": []
     },
@@ -653,21 +470,10 @@
       "institution": "Massachusetts Institute of Technology",
       "location": "Boston, Massachusetts",
       "url": "https://www.mit.edu/",
-      "area": "Chief Technology Officer",
-      "studyType": "Professional Program",
+      "area": null,
+      "studyType": "CTO Program",
       "startDate": "2025",
       "endDate": "2026",
-      "score": "10",
-      "courses": []
-    },
-    {
-      "institution": "Stanford University School of Engineering",
-      "location": "Stanford, California",
-      "url": "https://engineering.stanford.edu/",
-      "area": "Artificial Intelligence",
-      "studyType": "Professional Program",
-      "startDate": "2024",
-      "endDate": "2025",
       "score": "10",
       "courses": []
     },
@@ -675,10 +481,10 @@
       "institution": "Carnegie Mellon Univeristy",
       "location": "Pittsburgh, Pennsylvania",
       "url": "https://www.cmu.edu/",
-      "area": "Economics",
+      "area": "Product Management, Technology Strategy",
       "studyType": "Master of Business Administration (MBA)",
-      "startDate": "2022",
-      "endDate": "2025",
+      "startDate": null,
+      "endDate": null,
       "score": "10",
       "courses": [
         "David A. Tepper Academice Merit Scholarship",
@@ -693,8 +499,8 @@
       "url": "https://www.utexas.edu/",
       "area": "Artificial Intelligence, Mathematical Science",
       "studyType": "Master of Science (MSc)",
-      "startDate": "2024",
-      "endDate": "2026",
+      "startDate": null,
+      "endDate": null,
       "score": "10",
       "courses": [
         "Academic Merit Scholarship",
@@ -707,8 +513,8 @@
       "url": "https://www.colorado.edu/home",
       "area": "Data Science, Mathematical Science",
       "studyType": "Master of Engineering (MEng)",
-      "startDate": "2023",
-      "endDate": "2026",
+      "startDate": null,
+      "endDate": null,
       "score": "10",
       "courses": [
         "Academic Merit Scholarship",
@@ -721,8 +527,8 @@
       "url": "https://www.wisc.edu/",
       "area": "Genetics, Biological Science",
       "studyType": "Bachelor of Science (BSc)",
-      "startDate": "2016",
-      "endDate": "2019",
+      "startDate": null,
+      "endDate": null,
       "score": "10",
       "courses": [
         "Albert J. & Adelaide E. Riker Academic Merit Scholarship",
@@ -741,8 +547,8 @@
       "url": "https://www.elmbrookschools.org/",
       "area": "General Education",
       "studyType": "K-12, High School Diploma",
-      "startDate": "2012",
-      "endDate": "2016",
+      "startDate": null,
+      "endDate": null,
       "score": "10",
       "courses": [
         "AP Scholar with Distinction",
@@ -996,7 +802,7 @@
   ],
   "skills": [
     {
-      "name": "Technical Portfolio Management",
+      "name": "Technical Product Management",
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": []
@@ -1008,7 +814,7 @@
       "keywords": []
     },
     {
-      "name": "Technical Product Management",
+      "name": "Technical Portfolio Management",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": []
@@ -1032,19 +838,19 @@
       "keywords": []
     },
     {
-      "name": "Biomedical Informatics",
+      "name": "Business Analytics",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": []
     },
     {
-      "name": "Computational Neuroscience",
+      "name": "Business Strategy",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": []
     },
     {
-      "name": "Cybersecurity",
+      "name": "Data Science",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": []
@@ -1069,16 +875,6 @@
   ],
   "interests": [
     {
-      "name": "Computational Neuroscience",
-      "icon": "fa-solid fa-tag",
-      "keywords": []
-    },
-    {
-      "name": "Biomedical Informatics",
-      "icon": "fa-solid fa-tag",
-      "keywords": []
-    },
-    {
       "name": "Artificial Intelligence",
       "icon": "fa-solid fa-tag",
       "keywords": []
@@ -1090,6 +886,11 @@
     },
     {
       "name": "Hiking",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
+    },
+    {
+      "name": "Reading",
       "icon": "fa-solid fa-tag",
       "keywords": []
     }

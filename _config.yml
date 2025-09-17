@@ -83,7 +83,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Decoded # blog_name will be displayed in your blog page
-blog_description: Unveiling the intersection of business and technology.
+blog_description: Analyzing how technology, strategy, and business models shape the digital economy.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
