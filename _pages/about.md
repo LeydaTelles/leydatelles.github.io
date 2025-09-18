@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Massachusetts Institute of Technology</a>  |  AI/ML Product Manager @ Komatsu  |  PhD-JD Candidate
+subtitle: <a href='#'>Massachusetts Institute of Technology</a>  |  PhD-JD Candidate
 
 profile:
   align: right
