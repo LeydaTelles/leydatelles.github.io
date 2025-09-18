@@ -67,7 +67,7 @@
       ]
     },
         {
-      "name": "Carnegie Mellon University",
+      "name": "Carnegie Mellon Universit, School of Computer Science",
       "position": "Founder, AI@CMU",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
@@ -94,8 +94,8 @@
       ]
     },
         {
-      "name": "Startup Founder",
-      "position": "Carnegie Mellon University, Swartz Center for Entrepreneurship",
+      "name": "Startup Founder, Swartz Center for Entrepreneurship",
+      "position": "Carnegie Mellon University, School of Computer Science",
       "url": "",
       "startDate": "2022",
       "endDate": null,
@@ -108,7 +108,7 @@
       ]
     },
             {
-      "name": "Carnegie Mellon University",
+      "name": "Carnegie Mellon University, School of Computer Science",
       "position": "Graduate Researcher, AI/ML Engineering",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
@@ -136,20 +136,7 @@
     },
         {
       "name": "CODAworx",
-      "position": "Technical Product Manager, eCommerce",
-      "url": "https://codaworx.com/",
-      "startDate": "2021",
-      "endDate": "2023",
-      "summary": "Built and scaled a SaaS eCommerce platform that connects art buyers and commissioners with creators, redefining how artists expand their reach and monetize their artwork.",
-      "highlights": [
-        "Led the end-to-end design, development, and scaling of the platform with a team of 8+ associates.",
-        "Significantly increased customer retention through targeted outreach and self-service user onboarding and training.",
-        "Optimized transaction efficiency and enhanced user experience by redesigning inventory management systems using A/B testing and user analytics."
-      ]
-    },
-            {
-      "name": "CODAworx",
-      "position": "Software Engineer, eCommerce",
+      "position": "Technical Product Manager & Software Engineer, eCommerce",
       "url": "https://codaworx.com/",
       "startDate": "2021",
       "endDate": "2023",
@@ -396,7 +383,7 @@
   "volunteer": [
     {
       "organization": "UW Health",
-      "location": "Madison, Wisconsin",
+      "location": "Madison",
       "position": "Volunteer",
       "url": "https://www.uwhealth.org/",
       "startDate": "2017",
@@ -416,7 +403,7 @@
     },
         {
       "organization": "National Alliance on Mental Illness",
-      "location": "Chicago, Illinois",
+      "location": "Milwaukee",
       "position": "Volunteer",
       "url": "https://www.nami.org/",
       "startDate": "2025",
@@ -426,7 +413,7 @@
     },
             {
       "organization": "Madison Area Technical College",
-      "location": "Madison, Wisconsin",
+      "location": "Madison",
       "position": "Volunteer",
       "url": "https://madisoncollege.edu/",
       "startDate": "2023",
@@ -436,7 +423,7 @@
     },
             {
       "organization": "SSM Health",
-      "location": "Madison, Wisconsin",
+      "location": "Madison",
       "position": "Volunteer",
       "url": "https://www.ssmhealth.com/",
       "startDate": "2023",
@@ -446,7 +433,7 @@
     },
             {
       "organization": "Boy Scouts of America",
-      "location": "Milwaukee, Wisconsin",
+      "location": "Milwaukee",
       "position": "Volunteer",
       "url": "https://www.scouting.org/",
       "startDate": "2005",
@@ -456,7 +443,7 @@
     },
             {
       "organization": "Ronald McDonald House Charities",
-      "location": "Madison, Wisconsin",
+      "location": "Madison",
       "position": "Volunteer",
       "url": "https://rmhc.org/",
       "startDate": "2013",
@@ -468,7 +455,7 @@
   "education": [
         {
       "institution": "Elmbrook Schools",
-      "location": "Elm Grove, Wisconsin",
+      "location": "Elm Grove",
       "url": "https://www.elmbrookschools.org/",
       "area": "General Education",
       "studyType": "K-12, High School Diploma",
@@ -482,7 +469,7 @@
     },
             {
       "institution": "University of Wisconsin, Madison",
-      "location": "Madison, Wisconsin",
+      "location": "Madison",
       "url": "https://www.wisc.edu/",
       "area": "Genetics, Biological Science",
       "studyType": "Bachelor of Science (BSc)",
@@ -502,7 +489,7 @@
     },
         {
       "institution": "University of Colorado, Boulder",
-      "location": "Boulder, Colorado",
+      "location": "Boulder",
       "url": "https://www.colorado.edu/home",
       "area": "Data Science, Mathematical Science",
       "studyType": "Master of Engineering (MEng)",
@@ -516,7 +503,7 @@
     },
         {
       "institution": "The University of Texas at Austin",
-      "location": "Austin, Texas",
+      "location": "Austin",
       "url": "https://www.utexas.edu/",
       "area": "Artificial Intelligence, Mathematical Science",
       "studyType": "Master of Science (MSc)",
@@ -530,9 +517,9 @@
     },
         {
       "institution": "Carnegie Mellon Univeristy",
-      "location": "Pittsburgh, Pennsylvania",
+      "location": "Pittsburgh",
       "url": "https://www.cmu.edu/",
-      "area": "Product Management, Technology Strategy",
+      "area": "Management Information Systems",
       "studyType": "Master of Business Administration (MBA)",
       "startDate": null,
       "endDate": null,
@@ -546,7 +533,7 @@
     },
         {
       "institution": "Massachusetts Institute of Technology",
-      "location": "Boston, Massachusetts",
+      "location": "Boston",
       "url": "https://www.mit.edu/",
       "area": null,
       "studyType": "CTO Program",
