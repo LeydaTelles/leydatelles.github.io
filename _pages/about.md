@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Dartmouth College</a>  |  <a href='#'>Carnegie Mellon University</a>  |  PhD-JD Candidate
+subtitle: <a href='#'>AI/ML Product Manager @ Komatsu</a>  |  Dartmouth College  |  Carnegie Mellon University
 
 profile:
   align: right
