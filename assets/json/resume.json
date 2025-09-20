@@ -507,6 +507,20 @@
       ]
     },
             {
+      "institution": "University of Colorado, Boulder",
+      "location": "Boulder",
+      "url": "https://www.colorado.edu/",
+      "area": "Data Science, Applied Mathematics",
+      "studyType": "Master of Science",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "Academic Merit Scholarship",
+        "Dean's List"
+      ]
+    },
+            {
       "institution": "University of Wisconsin, Madison",
       "location": "Madison",
       "url": "https://www.wisc.edu/",
