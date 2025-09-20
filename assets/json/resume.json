@@ -510,8 +510,8 @@
       "institution": "University of the Cumberlands",
       "location": "Williamsberg",
       "url": "https://degrees.ucumberlands.edu/",
-      "area": "Artificial Intelligence, Applied Mathematics, Management Information Systems",
-      "studyType": "Doctor of Philosophy (PhD) & Doctor of Business Administration (DBA)",
+      "area": "Artificial Intelligence, Applied Mathematics",
+      "studyType": "Doctor of Philosophy (PhD)",
       "startDate": null,
       "endDate": null,
       "score": "10",
@@ -551,6 +551,19 @@
         "Regenerative Medicine Certificate",
         "Graduated in 3 Years",
         "Dean's List"
+      ]
+    },
+            {
+      "institution": "University of Florida",
+      "location": "Florida",
+      "url": "https://www.ufl.edu/",
+      "area": "Management Information Systems",
+      "studyType": "Doctor of Business Administration (DBA)",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "Academic Merit Scholarship"
       ]
     },
         {
