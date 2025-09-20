@@ -467,6 +467,19 @@
         "Honor Roll"
       ]
     },
+        {
+      "institution": "University of the Cumberlands",
+      "location": "Williamsburg",
+      "url": "https://degrees.ucumberlands.edu/?utm_source=Google&utm_campaign=EMS%20GGPS%7CBrand%20%7C%20University%20of%20the%20Cumberlands&trackid=67539251-2A08-459D-9330-F06741BC7A43&utm_medium=cpc&utm_content=c_Brand&utm_term=e_university%20of%20the%20cumberlands&adid=303461282636&gclid=Cj0KCQjw_rPGBhCbARIsABjq9ceTJmG-W1OnEJU7mdrlqDFxjuanUEM5ltHPt7rOixzn9eCKBwsFFDIaAl-PEALw_wcB&gad_source=1&gad_campaignid=131767309&gbraid=0AAAAADhy9QsLhfAV03uxivnxcxud-SaJB",
+      "area": "Artificial Intelligence, Applied Mathematics, Management Information Systems",
+      "studyType": "Doctor of Philosophy (PhD) & Doctor of Business Administration (DBA)",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "Academic Merit Scholarship"
+      ]
+    },
             {
       "institution": "University of Wisconsin, Madison",
       "location": "Madison",
@@ -485,32 +498,6 @@
         "Regenerative Medicine Certificate",
         "Graduated in 3 Years",
         "Dean's List"
-      ]
-    },
-        {
-      "institution": "Dartmouth College",
-      "location": "New Hampshire",
-      "url": "https://home.dartmouth.edu/",
-      "area": "Computer Engineering",
-      "studyType": "Master of Engineering (MEng)",
-      "startDate": null,
-      "endDate": null,
-      "score": "10",
-      "courses": [
-        "Academic Merit Scholarship"
-      ]
-    },
-        {
-      "institution": "University of the Cumberlands",
-      "location": "Williamsburg",
-      "url": "https://degrees.ucumberlands.edu/?utm_source=Google&utm_campaign=EMS%20GGPS%7CBrand%20%7C%20University%20of%20the%20Cumberlands&trackid=67539251-2A08-459D-9330-F06741BC7A43&utm_medium=cpc&utm_content=c_Brand&utm_term=e_university%20of%20the%20cumberlands&adid=303461282636&gclid=Cj0KCQjw_rPGBhCbARIsABjq9ceTJmG-W1OnEJU7mdrlqDFxjuanUEM5ltHPt7rOixzn9eCKBwsFFDIaAl-PEALw_wcB&gad_source=1&gad_campaignid=131767309&gbraid=0AAAAADhy9QsLhfAV03uxivnxcxud-SaJB",
-      "area": "Artificial Intelligence, Applied Mathematics, Management Information Systems",
-      "studyType": "Doctor of Philosophy (PhD) & Doctor of Business Administration (DBA)",
-      "startDate": null,
-      "endDate": null,
-      "score": "10",
-      "courses": [
-        "Academic Merit Scholarship"
       ]
     },
         {
@@ -541,6 +528,19 @@
         "Software Engineering Graduate Certificate",
         "Swartz Center for Entrepreneurship",
         "Dean's List"
+      ]
+    },
+        {
+      "institution": "Dartmouth College",
+      "location": "New Hampshire",
+      "url": "https://home.dartmouth.edu/",
+      "area": "Computer Engineering",
+      "studyType": "Master of Engineering (MEng)",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "Academic Merit Scholarship"
       ]
     }
   ],
