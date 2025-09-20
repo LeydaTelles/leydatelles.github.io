@@ -121,12 +121,26 @@
         "Mentored and collaborated with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
       ]
     },
+            {
+      "name": "Dartmouth College, Thayer School of Engineering",
+      "position": "Graduate Researcher, AI/ML Engineering",
+      "url": "https://home.dartmouth.edu",
+      "startDate": "2025",
+      "endDate": null,
+      "summary": "",
+      "highlights": [
+        "Investigating and developing novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
+        "Designing and running experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
+        "Publishing and sharing research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
+        "Mentoring and collaborating with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
+      ]
+    },
         {
       "name": "CODAworx",
       "position": "CODAmarket Co-Founder & Investor",
       "url": "https://codaworx.com/",
       "startDate": "2021",
-      "endDate": null,
+      "endDate": "2023",
       "summary": "Built and scaled a SaaS eCommerce platform that connects art buyers and commissioners with creators, redefining how artists expand their reach and monetize their artwork.",
       "highlights": [
         "Led the end-to-end design, development, and scaling of the platform with a team of 8+ associates.",
