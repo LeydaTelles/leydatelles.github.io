@@ -479,19 +479,6 @@
         "Honor Roll"
       ]
     },
-        {
-      "institution": "University of the Cumberlands",
-      "location": "Williamsberg",
-      "url": "https://degrees.ucumberlands.edu/",
-      "area": "Artificial Intelligence, Applied Mathematics, Management Information Systems",
-      "studyType": "Doctor of Philosophy (PhD) & Doctor of Business Administration (DBA)",
-      "startDate": null,
-      "endDate": null,
-      "score": "10",
-      "courses": [
-        "Academic Merit Scholarship"
-      ]
-    },
             {
       "institution": "University of Colorado, Boulder",
       "location": "Boulder",
@@ -566,7 +553,7 @@
       "endDate": null,
       "score": "10",
       "courses": [
-        "Academic Merit Scholarship"
+        null
       ]
     }
   ],
