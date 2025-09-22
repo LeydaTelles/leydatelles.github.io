@@ -81,7 +81,7 @@
     },
         {
       "name": "Aurifex",
-      "position": "Chief Executive Officer, Principal Consultant & Founder",
+      "position": "Chief Executive Officer & Founder",
       "url": "https://www.linkedin.com/company/81462503/admin/dashboard/",
       "startDate": "2017",
       "endDate": null,
@@ -480,20 +480,6 @@
       ]
     },
             {
-      "institution": "University of Colorado, Boulder",
-      "location": "Boulder",
-      "url": "https://www.colorado.edu/",
-      "area": "Data Science, Applied Mathematics",
-      "studyType": "Master of Science (MSc)",
-      "startDate": null,
-      "endDate": null,
-      "score": "10",
-      "courses": [
-        "Academic Merit Scholarship",
-        "Dean's List"
-      ]
-    },
-            {
       "institution": "University of Wisconsin, Madison",
       "location": "Madison",
       "url": "https://www.wisc.edu/",
@@ -576,13 +562,6 @@
       "title": "Academic Merit Scholarship",
       "date": "",
       "awarder": "University of Texas at Austin",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Academic Merit Scholarship",
-      "date": "",
-      "awarder": "Dartmouth College",
       "url": "",
       "summary": ""
     },
