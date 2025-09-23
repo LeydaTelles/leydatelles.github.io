@@ -109,7 +109,7 @@
     },
             {
       "name": "Dartmouth College, Thayer School of Engineering",
-      "position": "MEng Candidate, Computer Engineering",
+      "position": "Graduate Researcher, AI/ML Engineering",
       "url": "https://home.dartmouth.edu",
       "startDate": "2025",
       "endDate": null,
@@ -454,6 +454,19 @@
         "Honor Roll"
       ]
     },
+        {
+      "institution": "The University of the Cumberlands",
+      "location": "Williamsberg",
+      "url": "https://degrees.ucumberlands.edu/",
+      "area": "Artificial Intelligence, Applied Mathematics, Management Information Systems",
+      "studyType": "Doctor of Philosophy (PhD) & Doctor of Business Administration (DBA)",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "Academic Merit Scholarship"
+      ]
+    },
             {
       "institution": "University of Wisconsin, Madison",
       "location": "Madison",
@@ -529,6 +542,13 @@
       "title": "Academic Merit Scholarship",
       "date": "",
       "awarder": "Carnegie Mellon University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Academic Merit Scholarship",
+      "date": "",
+      "awarder": "The University of the Cumberlands",
       "url": "",
       "summary": ""
     },
