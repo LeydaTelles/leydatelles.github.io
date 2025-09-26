@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Stanford University & Dartmouth College 🌲</a>
+subtitle: <a href='#'>AI/ML @ Komatsu</a>  |  Stanford University & Dartmouth College 🌲
 
 profile:
   align: right
