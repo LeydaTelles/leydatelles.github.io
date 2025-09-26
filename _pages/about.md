@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>AI/ML Product Manager & Engineer @ Komatsu</a>  |  Stanford University & Dartmouth College 🌲
+subtitle: <a href='#'>Stanford University</a>
 
 profile:
   align: right
