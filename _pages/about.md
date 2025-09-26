@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>AI/ML Product Manager & Engineer @ Komatsu</a>  |  Dartmouth College  |  Carnegie Mellon University
+subtitle: <a href='#'>AI/ML Product Manager & Engineer @ Komatsu</a>  |  Stanford University & Dartmouth College 🌲
 
 profile:
   align: right

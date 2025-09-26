@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "Komatsu North America",
-      "position": "AI/ML Product Manager, Software Architecture",
+      "position": "AI/ML Product Manager",
       "url": "https://www.komatsu.com/en-us",
       "startDate": "2025",
       "endDate": null,
@@ -40,7 +40,7 @@
     },
     {
       "name": "Komatsu North America",
-      "position": "Member of Technical Staff, Machine Learning Engineer",
+      "position": "Member of Technical Staff",
       "url": "https://www.komatsu.com/en-us",
       "startDate": "2025",
       "endDate": null,
@@ -54,7 +54,7 @@
     },
         {
       "name": "The University of Texas at Austin",
-      "position": "Graduate Teaching Assistant, AI/ML Engineering",
+      "position": "Graduate Teaching Assistant",
       "url": "https://www.utexas.edu/",
       "startDate": "2023",
       "endDate": "2024",
@@ -93,23 +93,9 @@
         "Driving strategic portfolio planning and governance, enabling data-informed prioritization and resource allocation to boost operational efficiency across product streams."
       ]
     },
-        {
-      "name": "Dartmouth Consulting Group",
-      "position": "Consultant, AI/ML Engineering",
-      "url": "https://www.dartmouthconsultinggroup.org/",
-      "startDate": "2025",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Leading the cross-functional delivery of AI/ML solutions across Fortune 500 and nonprofit organizations, accelerating innovation and reducing time-to-ROI.",
-        "Translating complex stakeholder needs into product roadmaps and scalable architectures that align with mission-critical business objectives.",
-        "Overseeing multi-team agile delivery cycles, managing scope, cost, and risk while ensuring high client satisfaction and measurable outcomes.",
-        "Driving strategic portfolio planning and governance, enabling data-informed prioritization and resource allocation to boost operational efficiency across product streams."
-      ]
-    },
             {
       "name": "Carnegie Mellon University, School of Computer Science",
-      "position": "Graduate Researcher, AI/ML Engineering",
+      "position": "AI/ML Researcher",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
       "endDate": "2024",
@@ -123,7 +109,7 @@
     },
             {
       "name": "Dartmouth College, Thayer School of Engineering",
-      "position": "Graduate Researcher, AI/ML Engineering",
+      "position": "AI/ML Researcher",
       "url": "https://home.dartmouth.edu",
       "startDate": "2025",
       "endDate": null,
@@ -137,7 +123,7 @@
     },
         {
       "name": "CODAworx",
-      "position": "Co-Founder of CODAmarket, Technical Product Manager & Software Engineer",
+      "position": "Co-Founder of CODAmarket & Technical Product Manager",
       "url": "https://codaworx.com/",
       "startDate": "2021",
       "endDate": "2023",
@@ -150,7 +136,7 @@
     },
         {
       "name": "UW-Madison",
-      "position": "Advisory Board Member, AI/ML Engineering",
+      "position": "Advisory Board Member",
       "url": "https://www.wisc.edu/",
       "startDate": "2023",
       "endDate": "2025",
@@ -161,7 +147,7 @@
     },
         {
       "name": "American Red Cross",
-      "position": "Program Manager, National Scheduling Division",
+      "position": "Program Manager",
       "url": "https://www.redcross.org",
       "startDate": "2020",
       "endDate": "2022",
@@ -269,7 +255,7 @@
     },
         {
       "name": "UW Health",
-      "position": "Senior AI/ML Product Manager, Medical Informatics",
+      "position": "Senior AI/ML Product Manager",
       "url": "https://www.uwhealth.org/",
       "startDate": "2023",
       "endDate": "2025",
@@ -284,7 +270,7 @@
     },
         {
       "name": "Manifold Research",
-      "position": "AI/ML Program Manager, Open Source",
+      "position": "AI/ML Program Manager",
       "url": "https://www.manifoldrg.com",
       "startDate": "2024",
       "endDate": "2025",
@@ -297,7 +283,7 @@
     },
         {
       "name": "JASCI Software",
-      "position": "Technical Program Director, Software Engineering",
+      "position": "Technical Program Director",
       "url": "https://www.jascicloud.com/",
       "startDate": "2022",
       "endDate": "2024",
@@ -314,7 +300,7 @@
     },
         {
       "name": "Labcorp",
-      "position": "Associate Technical Project Manager, Pharmaceuticals",
+      "position": "Associate Technical Project Manager",
       "url": "https://www.labcorp.com/",
       "startDate": "2021",
       "endDate": "2022",
@@ -327,7 +313,7 @@
     },
         {
       "name": "UW-Madison",
-      "position": "Technical Project Manager & Researcher, Regenerative Medicine",
+      "position": "Technical Project Manager & Researcher",
       "url": "https://www.wisc.edu/",
       "startDate": "2016",
       "endDate": "2021",
@@ -354,7 +340,7 @@
     },
         {
       "name": "Merck Group",
-      "position": "Associate Research Scientist, Chemical Engineering",
+      "position": "Associate Research Scientist",
       "url": "https://www.emdgroup.com/en",
       "startDate": "2021",
       "endDate": "2022",
@@ -469,23 +455,25 @@
       ]
     },
         {
-      "institution": "The University of the Cumberlands",
-      "location": "Williamsberg",
-      "url": "https://degrees.ucumberlands.edu/",
-      "area": "Artificial Intelligence, Applied Mathematics, Management Information Systems",
-      "studyType": "Doctor of Philosophy (PhD) & Doctor of Business Administration (DBA)",
+      "institution": "The University of Colorado, Boulder",
+      "location": "Boulder",
+      "url": "https://www.colorado.edu/",
+      "area": "Computational Data Science",
+      "studyType": "Master of Engineering (MEng)",
       "startDate": null,
       "endDate": null,
       "score": "10",
       "courses": [
-        "Academic Merit Scholarship"
+        "Transferred to Dartmouth College",
+        "Academic Merit Scholarship",
+        "Dean's List"
       ]
     },
             {
       "institution": "University of Wisconsin, Madison",
       "location": "Madison",
       "url": "https://www.wisc.edu/",
-      "area": "Bioinformatics, Genetics",
+      "area": "Genetics",
       "studyType": "Bachelor of Science (BSc)",
       "startDate": null,
       "endDate": null,
@@ -511,6 +499,7 @@
       "endDate": null,
       "score": "10",
       "courses": [
+        "Transferred to Stanford University",
         "Academic Merit Scholarship",
         "Dean's List"
       ]
@@ -535,8 +524,20 @@
       "institution": "Dartmouth College",
       "location": "New Hampshire",
       "url": "https://home.dartmouth.edu/",
-      "area": "Computer Engineering",
-      "studyType": "Master of Engineering (MEng)",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Doctor of Philosophy (PhD) & Master of Engineering (MEng)",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+      ]
+    },
+        {
+      "institution": "Stanford University",
+      "location": "San Francisco",
+      "url": "https://www.stanford.edu/",
+      "area": "Computer Science",
+      "studyType": "Master of Science (MSc)",
       "startDate": null,
       "endDate": null,
       "score": "10",
