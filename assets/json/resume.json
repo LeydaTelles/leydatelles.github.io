@@ -108,7 +108,7 @@
       ]
     },
             {
-      "name": "Stanford University",
+      "name": "Dartmouth College, Thayer School of Engineering",
       "position": "AI/ML Researcher",
       "url": "https://home.dartmouth.edu",
       "startDate": "2025",
@@ -525,18 +525,6 @@
       "url": "https://home.dartmouth.edu/",
       "area": "Electrical and Computer Engineering",
       "studyType": "Master of Engineering (MEng)",
-      "startDate": null,
-      "endDate": null,
-      "score": "10",
-      "courses": [
-      ]
-    },
-        {
-      "institution": "Stanford University",
-      "location": "San Francisco",
-      "url": "https://www.stanford.edu/",
-      "area": "Artificial Intelligence, Computer Science",
-      "studyType": "Doctor of Philosophy (PhD) & Master of Science (MSc)",
       "startDate": null,
       "endDate": null,
       "score": "10",
