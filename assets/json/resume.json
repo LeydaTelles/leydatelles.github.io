@@ -108,7 +108,7 @@
       ]
     },
             {
-      "name": "Dartmouth College, Thayer School of Engineering",
+      "name": "Stanford University, School of Engineering",
       "position": "AI/ML Researcher",
       "url": "https://home.dartmouth.edu",
       "startDate": "2025",
@@ -119,6 +119,17 @@
         "Designing and running experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
         "Publishing and sharing research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
         "Mentoring and collaborating with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
+      ]
+    },
+            {
+      "name": "Perplexity",
+      "position": "AI/ML Fellowship",
+      "url": "https://www.perplexity.ai/",
+      "startDate": "2025",
+      "endDate": "2025",
+      "summary": "",
+      "highlights": [
+        "Learned the best practices of designing, developing and scaling AI/ML systems."
       ]
     },
         {
@@ -455,6 +466,32 @@
       ]
     },
         {
+      "institution": "Edgewood College",
+      "location": "Madison",
+      "url": "https://www.edgewood.edu/",
+      "area": "Management Information Systems",
+      "studyType": "Doctor of Business Administration (DBA)",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "Academic Merit Scholarship"
+      ]
+    },
+        {
+      "institution": "The University of Wisconsin, Milwaukee",
+      "location": "Milwaukee",
+      "url": "https://uwm.edu/",
+      "area": "Artificial Intelligence, Computer Science",
+      "studyType": "Doctor of Philosophy (PhD)",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "Academic Merit Scholarship"
+      ]
+    },
+        {
       "institution": "The University of Colorado, Boulder",
       "location": "Boulder",
       "url": "https://www.colorado.edu/",
@@ -499,6 +536,7 @@
       "endDate": null,
       "score": "10",
       "courses": [
+        "Transferred to Stanford University",
         "Academic Merit Scholarship",
         "Dean's List"
       ]
@@ -524,11 +562,24 @@
       "location": "New Hampshire",
       "url": "https://home.dartmouth.edu/",
       "area": "Electrical and Computer Engineering",
-      "studyType": "Doctor of Philosophy (PhD) & Master of Engineering (MEng)",
+      "studyType": "Master of Engineering (MEng)",
       "startDate": null,
       "endDate": null,
       "score": "10",
       "courses": [
+      ]
+    },
+        {
+      "institution": "Stanford University",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.stanford.edu/",
+      "area": "Artificial Intelligence, Computer Science",
+      "studyType": "Doctor of Philosophy (PhD) & Master of Science (MSc)",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "Transferred from The University of Texas at Austin"
       ]
     }
   ],
@@ -544,6 +595,20 @@
       "title": "Academic Merit Scholarship",
       "date": "",
       "awarder": "Carnegie Mellon University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Academic Merit Scholarship",
+      "date": "",
+      "awarder": "University of Wisconsin, Milwaukee",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Academic Merit Scholarship",
+      "date": "",
+      "awarder": "Edgewood College",
       "url": "",
       "summary": ""
     },
