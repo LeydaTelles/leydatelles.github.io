@@ -4,7 +4,7 @@
     "label": "AI/ML Product Manager & Engineer @ Komatsu",
     "image": "",
     "email": "luke@profio.us",
-    "phone": "(414) 396-0525",
+    "phone": "(414) 373-8267",
     "url": "https://linktr.ee/profio",
     "summary": "Customer-oriented technology professional with 10 years of experience building and scaling innovative solutions at the intersection of business and technology.",
     "location": {
@@ -466,32 +466,6 @@
       ]
     },
         {
-      "institution": "Edgewood College",
-      "location": "Madison",
-      "url": "https://www.edgewood.edu/",
-      "area": "Management Information Systems",
-      "studyType": "Doctor of Business Administration (DBA)",
-      "startDate": null,
-      "endDate": null,
-      "score": "10",
-      "courses": [
-        "Academic Merit Scholarship"
-      ]
-    },
-        {
-      "institution": "The University of Wisconsin, Milwaukee",
-      "location": "Milwaukee",
-      "url": "https://uwm.edu/",
-      "area": "Artificial Intelligence, Computer Science",
-      "studyType": "Doctor of Philosophy (PhD)",
-      "startDate": null,
-      "endDate": null,
-      "score": "10",
-      "courses": [
-        "Academic Merit Scholarship"
-      ]
-    },
-        {
       "institution": "The University of Colorado, Boulder",
       "location": "Boulder",
       "url": "https://www.colorado.edu/",
@@ -501,7 +475,6 @@
       "endDate": null,
       "score": "10",
       "courses": [
-        "Transferred to The University of Texas at Austin",
         "Academic Merit Scholarship",
         "Dean's List"
       ]
@@ -530,7 +503,7 @@
       "institution": "The University of Texas at Austin",
       "location": "Austin",
       "url": "https://www.utexas.edu/",
-      "area": "Artificial Intelligence, Applied Mathematics",
+      "area": "Artificial Intelligence",
       "studyType": "Master of Science (MSc)",
       "startDate": null,
       "endDate": null,
@@ -566,20 +539,20 @@
       "endDate": null,
       "score": "10",
       "courses": [
-        "Transferred to Stanford University"
+        "Accepted into Dartmouth's MEng program"
       ]
     },
         {
       "institution": "Stanford University",
       "location": "San Francisco Bay Area",
       "url": "https://www.stanford.edu/",
-      "area": "Artificial Intelligence, Computer Science",
+      "area": "Computer Science",
       "studyType": "Doctor of Philosophy (PhD) & Master of Science (MSc)",
       "startDate": null,
       "endDate": null,
       "score": "10",
       "courses": [
-        "Accepted into Stanford's PhD program"
+        "Accepted into Stanford's PhD-MSc program"
       ]
     }
   ],
@@ -595,20 +568,6 @@
       "title": "Academic Merit Scholarship",
       "date": "",
       "awarder": "Carnegie Mellon University",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Academic Merit Scholarship",
-      "date": "",
-      "awarder": "University of Wisconsin, Milwaukee",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Academic Merit Scholarship",
-      "date": "",
-      "awarder": "Edgewood College",
       "url": "",
       "summary": ""
     },

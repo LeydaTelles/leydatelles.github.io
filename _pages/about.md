@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>AI/ML @ Komatsu</a>  |  Stanford University, Dartmouth College & Carnegie Mellon University 🌲  |  PhD-DBA Candidate
+subtitle: <a href='#'>AI/ML @ Komatsu</a>  |  Stanford University, Dartmouth College & Carnegie Mellon University 🌲
 
 profile:
   align: right
