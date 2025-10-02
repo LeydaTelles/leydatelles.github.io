@@ -108,6 +108,20 @@
       ]
     },
             {
+      "name": "The University of Texas at Austin",
+      "position": "AI/ML Researcher",
+      "url": "https://www.utexas.edu/",
+      "startDate": "2025",
+      "endDate": null,
+      "summary": "",
+      "highlights": [
+        "Investigating and developing novel algorithms and models to advance machine learning and artificial intelligence theory and applications.",
+        "Designing and running experiments with datasets to evaluate performance, interpret results, and validate hypotheses.",
+        "Publishing and sharing research outcomes through peer-reviewed journals, conferences, and collaborations with the broader scientific community.",
+        "Mentoring and collaborating with students, faculty, and interdisciplinary teams to foster innovation and extend the impact of AI/ML research."
+      ]
+    },
+            {
       "name": "Perplexity",
       "position": "AI/ML Fellowship",
       "url": "https://www.perplexity.ai/",
