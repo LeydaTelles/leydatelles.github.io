@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quantiative Proteomics
+title: Quantitative Proteomics
 description: A research analysis on the capabilities and limitations of TMT/iTRAQ quantitative proteomics.
 img: assets/img/Protein.png
 importance: 1
