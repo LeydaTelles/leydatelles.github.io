@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Luke Profio",
-    "label": "AI/ML Product Manager & Cognitive Scientist",
+    "label": "AI/ML Product Manager & Neuroscientist",
     "image": "",
     "email": "luke@profio.us",
     "phone": "(414) 373-8267",
@@ -39,8 +39,8 @@
       ]
     },
     {
-      "name": "Stanford University, Institute for Human-Centered Artificial Intelligence",
-      "position": "AI/ML Researcher, Cognitive Science",
+      "name": "Stanford University School of Medicine",
+      "position": "AI/ML Researcher, Clinical Neuroscience & Psychiatry",
       "url": "https://hai.stanford.edu/",
       "startDate": "2025",
       "endDate": null,
@@ -67,7 +67,7 @@
       ]
     },
         {
-      "name": "The University of Texas at Austin",
+      "name": "The University of Texas at Austin, School of Engineering",
       "position": "Graduate Teaching Assistant",
       "url": "https://www.utexas.edu/",
       "startDate": "2023",
@@ -94,6 +94,19 @@
       ]
     },
         {
+      "name": "UW-Madison School of Medicine and Public Health",
+      "position": "Founding Board Member, International Society for Regnerative Medicine",
+      "url": "http://www.ssscr.org/",
+      "startDate": "2017",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": [
+        "Co-founded and provided advisory support on the vision, mission, and goals of the International Society for Regenerative Medicine.",
+        "Led global technology initiatives including webinars and conferences aimed at showcasing novel regenerative medicine research.",
+        "Provided operational support for the organization, helping recruit members, grow support for organizational initiatives, and scale its overall impact."
+      ]
+    },
+        {
       "name": "Aurifex",
       "position": "Chief Executive Officer & Founder",
       "url": "https://www.linkedin.com/company/81462503/admin/dashboard/",
@@ -109,7 +122,7 @@
     },
             {
       "name": "Carnegie Mellon University, School of Computer Science",
-      "position": "AI/ML Researcher, Cognitive Science",
+      "position": "AI/ML Researcher, Clinical Neuroscience & Psychiatry",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
       "endDate": "2025",
@@ -122,8 +135,8 @@
       ]
     },
             {
-      "name": "The University of Texas at Austin",
-      "position": "AI/ML Researcher, Cognitive Science",
+      "name": "The University of Texas at Austin, School of Medicine",
+      "position": "AI/ML Researcher, Clinical Neuroscience & Psychiatry",
       "url": "https://www.utexas.edu/",
       "startDate": "2023",
       "endDate": "2025",
@@ -160,7 +173,7 @@
       ]
     },
         {
-      "name": "UW-Madison",
+      "name": "UW-Madison School of Computer Science",
       "position": "Advisory Board Member, Applied Data Science Graduate Program",
       "url": "https://www.wisc.edu/",
       "startDate": "2023",
@@ -184,7 +197,7 @@
       ]
     },
         {
-      "name": "UW-Madison",
+      "name": "UW-Madison School of Medicine and Public Health",
       "position": "Board Member, International Society for Regenerative Medicine",
       "url": "https://www.wisc.edu",
       "startDate": "2017",
@@ -197,7 +210,7 @@
       ]
     },
         {
-      "name": "UW-Madison",
+      "name": "UW-Madison School of Medicine and Public Health",
       "position": "Board Member, Cardiac on Campus",
       "url": "https://www.wisc.edu",
       "startDate": "2016",
@@ -337,8 +350,8 @@
       ]
     },
         {
-      "name": "UW-Madison",
-      "position": "Technical Product Manager & Researcher",
+      "name": "UW-Madison School of Medicine and Public Health",
+      "position": "Technical Product Manager & Researcher, Regenerative Medicine",
       "url": "https://www.wisc.edu/",
       "startDate": "2016",
       "endDate": "2021",
@@ -351,7 +364,7 @@
       ]
     },
         {
-      "name": "UW-Madison",
+      "name": "UW-Madison School of Computer Science",
       "position": "Software Engineer",
       "url": "https://www.wisc.edu/",
       "startDate": "2019",
@@ -480,7 +493,7 @@
       ]
     },
         {
-      "institution": "The University of Colorado, Boulder",
+      "institution": "The University of Colorado, Boulder, School of Engineering",
       "location": "Boulder",
       "url": "https://www.colorado.edu/",
       "area": "Computational Data Science and Applied Mathematics",
@@ -515,7 +528,7 @@
       ]
     },
         {
-      "institution": "The University of Texas at Austin",
+      "institution": "The University of Texas at Austin, School of Engineering",
       "location": "Austin",
       "url": "https://www.utexas.edu/",
       "area": "Artificial Intelligence and Applied Mathematics",
@@ -545,7 +558,7 @@
       ]
     },
         {
-      "institution": "Dartmouth College",
+      "institution": "Dartmouth College, School of Engineering",
       "location": "New Hampshire",
       "url": "https://home.dartmouth.edu/",
       "area": "Electrical and Computer Engineering",
@@ -558,10 +571,10 @@
       ]
     },
         {
-      "institution": "Stanford University",
+      "institution": "Stanford University School of Medicine",
       "location": "San Francisco Bay Area",
       "url": "https://www.stanford.edu/",
-      "area": "Cognitive and Computer Science",
+      "area": "Computational Neuroscience",
       "studyType": "Doctor of Philosophy (PhD) & Master of Science (MSc)",
       "startDate": null,
       "endDate": null,

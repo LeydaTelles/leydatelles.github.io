@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from Carnegie Mellon University.
+Graduated from Carnegie Mellon University

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Published a survey paper on the intersection of biomedical informatics and cybersecurity.
+Published a survey paper on the intersection of biomedical informatics and cybersecurity

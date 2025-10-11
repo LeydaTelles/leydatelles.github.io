@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>AI/ML Product Manager & Cognitive Scientist</a>  |  Stanford University 🌲
+subtitle: <a href='#'>AI/ML Product Manager & Neuroscientist</a>  |  Stanford University School of Medicine
 
 profile:
   align: right
