@@ -135,7 +135,7 @@
       ]
     },
             {
-      "name": "The University of Texas at Austin, School of Medicine",
+      "name": "The University of Texas at Austin, Dell School of Medicine",
       "position": "AI/ML Researcher, Clinical Neuroscience & Psychiatry",
       "url": "https://www.utexas.edu/",
       "startDate": "2023",
@@ -508,7 +508,7 @@
       ]
     },
             {
-      "institution": "University of Wisconsin, Madison",
+      "institution": "UW-Madison School of Medicine and Public Health",
       "location": "Madison",
       "url": "https://www.wisc.edu/",
       "area": "Bioinformatics and Genetics",
@@ -542,7 +542,7 @@
       ]
     },
         {
-      "institution": "Carnegie Mellon University",
+      "institution": "Carnegie Mellon University, School of Computer Science",
       "location": "Pittsburgh",
       "url": "https://www.cmu.edu/",
       "area": "Management Information Systems",
@@ -558,7 +558,7 @@
       ]
     },
         {
-      "institution": "Dartmouth College, School of Engineering",
+      "institution": "Dartmouth College, Thayer School of Engineering",
       "location": "New Hampshire",
       "url": "https://home.dartmouth.edu/",
       "area": "Electrical and Computer Engineering",
@@ -615,35 +615,35 @@
     {
       "title": "Albert J. & Adelaide E. Riker Academic Merit Scholarship",
       "date": "",
-      "awarder": "UW-Madison",
+      "awarder": "The University of Wisconsin, Madison",
       "url": "",
       "summary": ""
     },
     {
       "title": "Spring Forward Academic Merit Scholarship",
       "date": "",
-      "awarder": "UW-Madison",
+      "awarder": "The University of Wisconsin, Madison",
       "url": "",
       "summary": ""
     },
     {
       "title": "William F. Vilas Academic Merit Scholarship",
       "date": "",
-      "awarder": "UW-Madison",
+      "awarder": "The University of Wisconsin, Madison",
       "url": "",
       "summary": ""
     },
     {
       "title": "Qualtrics Academic Merit Scholarship",
       "date": "",
-      "awarder": "UW-Madison",
+      "awarder": "The University of Wisconsin, Madison",
       "url": "",
       "summary": ""
     },
     {
       "title": "Distinctive Scholastic Achievement",
       "date": "",
-      "awarder": "UW-Madison",
+      "awarder": "The University of Wisconsin, Madison",
       "url": "",
       "summary": ""
     },
@@ -671,7 +671,7 @@
     {
       "title": "Dean's List",
       "date": "",
-      "awarder": "UW-Madison",
+      "awarder": "The University of Wisconsin, Madison",
       "url": "",
       "summary": ""
     },
@@ -743,14 +743,14 @@
     {
       "name": "Regenerative Medicine",
       "date": "",
-      "issuer": "UW-Madison",
+      "issuer": "UW-Madison School of Medicine and Public Health",
       "url": "https://www.med.wisc.edu/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Surgery",
       "date": "",
-      "issuer": "UW-Madison",
+      "issuer": "UW-Madison School of Medicine and Public Health",
       "url": "https://www.med.wisc.edu/",
       "icon": "fa-solid fa-clipboard-check"
     },
@@ -771,7 +771,7 @@
     {
       "name": "Product Management",
       "date": "",
-      "issuer": "Carnegie Mellon University",
+      "issuer": "Carnegie Mellon University, School of Computer Science",
       "url": "https://www.cmu.edu/",
       "icon": "fa-solid fa-clipboard-check"
     }
