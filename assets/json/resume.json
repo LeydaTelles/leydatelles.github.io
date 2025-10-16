@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Luke Profio",
-    "label": "AI/ML Product Manager & Neuroscientist",
+    "label": "AI/ML Product Manager & Cognitive Scientist",
     "image": "",
     "email": "luke@profio.us",
     "phone": "(414) 373-8267",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Stanford University School of Medicine",
-      "position": "AI/ML Researcher, Clinical Neuroscience & Psychiatry",
+      "position": "AI/ML Researcher, Cognitive Science",
       "url": "https://hai.stanford.edu/",
       "startDate": "2025",
       "endDate": null,
@@ -122,7 +122,7 @@
     },
             {
       "name": "Carnegie Mellon University, School of Computer Science",
-      "position": "AI/ML Researcher, Clinical Neuroscience & Psychiatry",
+      "position": "AI/ML Researcher, Cognitive Science",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
       "endDate": "2025",
@@ -136,7 +136,7 @@
     },
             {
       "name": "The University of Texas at Austin, Dell School of Medicine",
-      "position": "AI/ML Researcher, Clinical Neuroscience & Psychiatry",
+      "position": "AI/ML Researcher, Cognitive Science",
       "url": "https://www.utexas.edu/",
       "startDate": "2023",
       "endDate": "2025",
@@ -571,10 +571,10 @@
       ]
     },
         {
-      "institution": "Stanford University School of Medicine",
+      "institution": "Stanford University",
       "location": "San Francisco Bay Area",
       "url": "https://www.stanford.edu/",
-      "area": "Computational Neuroscience",
+      "area": "Cognitive and Computer Science",
       "studyType": "Doctor of Philosophy (PhD) & Master of Science (MSc)",
       "startDate": null,
       "endDate": null,
