@@ -490,7 +490,7 @@
       "institution": "UW-Madison School of Medicine and Public Health",
       "location": "Madison",
       "url": "https://www.wisc.edu/",
-      "area": "Genetic Engineering and Bioinformatics",
+      "area": "Genetics",
       "studyType": "Bachelor of Science (BSc)",
       "startDate": null,
       "endDate": null,
@@ -510,7 +510,7 @@
       "institution": "The University of Texas at Austin",
       "location": "Austin",
       "url": "https://www.utexas.edu/",
-      "area": "Artificial Intelligence and Applied Mathematics",
+      "area": "Artificial Intelligence",
       "studyType": "Master of Science (MSc)",
       "startDate": null,
       "endDate": null,
@@ -546,7 +546,6 @@
       "endDate": null,
       "score": "10",
       "courses": [
-        "Not Started"
       ]
     }
   ],
