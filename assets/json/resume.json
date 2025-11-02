@@ -23,61 +23,18 @@
     ]
   },
   "work": [
-    {
-      "name": "Komatsu North America",
-      "position": "AI/ML Product Manager",
-      "url": "https://www.komatsu.com/en-us",
-      "startDate": "2025",
-      "endDate": null,
-      "summary": "Managing the planning, delivery and continuous improvement of our ServiceNow ITSM, ITOM and SPM products, partnering with the AI/ML team to define, validate and deploy enterprise solutions, and focusing on delivering clear, measurable business outcomes for over 10,000 users globally.",
-      "highlights": [
-        "Leading integrations between ServiceNow ITOM and enterprise platforms (e.g. SAP, Palantir), increasing asset discovery coverage by and reducing unplanned downtime.",
-        "Deploying ServiceNow Strategic Portfolio Management (SPM) to streamline project intake and approvals, cutting cycle time and boosting on-time delivery.",
-        "Partnering with stakeholders to surface and prioritize high-value AI/ML use cases, unlocking annual savings through predictive maintenance and automation.",
-        "Developing and maintaining a core AI/ML infrastructure roadmap, reducing model deployment time and standardizing data-science practices.",
-        "Defining and tracking key metrics—MTTR, self-service adoption, model performance and ROI—to drive continuous improvement and ensure each release delivers impact to the business."
-      ]
-    },
-    {
-      "name": "Stanford University School of Medicine",
-      "position": "AI/ML Researcher, Cognitive Science",
-      "url": "https://hai.stanford.edu/",
-      "startDate": "2025",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Investigating fundamental questions about perception, memory, learning, language, and decision-making through experimental and computational approaches.",
-        "Designing and conducting behavioral and cognitive experiments with human participants to test theories of mind and cognition.",
-        "Collaborating with psychologists, neuroscientists, computer scientists, and philosophers to integrate insights across disciplines and advance understanding of human cognition.",
-        "Communicating findings through peer-reviewed publications, conference presentations, and knowledge translation into tools, practices, or applications that benefit science and society."
-      ]
-    },
-    {
-      "name": "Komatsu North America",
-      "position": "Member of Technical Staff",
-      "url": "https://www.komatsu.com/en-us",
-      "startDate": "2025",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Design, build, and optimize machine learning models (e.g., regression, recommendation) and deliver them into production at scale.",
-        "Develop and maintain AI/ML infrastructure and pipelines, ensuring reliability, efficiency, and performance in training and deployment.",
-        "Collaborate with cross-functional teams (product, data science, software engineering) to translate business needs into technical AI/ML solutions.",
-        "Ensure quality and ongoing performance of AI/ML systems through testing and monitoring."
-      ]
-    },
         {
-      "name": "The University of Texas at Austin, School of Natural Sciences",
-      "position": "Graduate Teaching Assistant",
+      "name": "The University of Texas at Austin, Dell School of Medicine",
+      "position": "Graduate Teaching Assistant, AI/ML",
       "url": "https://www.utexas.edu/",
       "startDate": "2023",
-      "endDate": "2025",
+      "endDate": null,
       "summary": "",
       "highlights": [
-        "Conducted office hours and tutoring sessions with students to ensure their success in AI/ML courses.",
-        "Graded assignments and provided constructive feedback, helping students understand their strengths and areas for improvement.",
-        "Collaborated with faculty to improve course materials, integrating the latest research and instructional methods.", 
-        "Mentored students and fostered an inclusive learning environment, encouraging curiosity, critical thinking, and a passion for AI/ML."
+        "Conducting office hours and tutoring sessions with students to ensure their success in AI/ML courses.",
+        "Grading assignments and providing constructive feedback, helping students understand their strengths and areas for improvement.",
+        "Collaboarting with faculty to improve course materials, integrating the latest research and instructional methods.", 
+        "Mentoring students and fostoring an inclusive learning environment, encouraging curiosity, critical thinking, and a passion for AI/ML."
       ]
     },
         {
@@ -111,41 +68,43 @@
       "position": "Chief Executive Officer & Founder",
       "url": "https://www.linkedin.com/company/81462503/admin/dashboard/",
       "startDate": "2017",
-      "endDate": "2025",
+      "endDate": null,
       "summary": "",
       "highlights": [
-        "Led the cross-functional delivery of AI/ML solutions across Fortune 500 and nonprofit organizations, accelerating innovation and reducing time-to-ROI.",
-        "Translated complex stakeholder needs into product roadmaps and scalable architectures that aligned with mission-critical business objectives.",
-        "Oversaw multi-team agile delivery cycles, managing scope, cost, and risk while ensuring high client satisfaction and measurable outcomes.",
-        "Drove strategic portfolio planning and governance, enabling data-informed prioritization and resource allocation to boost operational efficiency across product streams."
+        "Leading the cross-functional delivery of AI/ML solutions across Fortune 500 and nonprofit organizations, accelerating innovation and reducing time-to-ROI.",
+        "Translating complex stakeholder needs into product roadmaps and scalable architectures that aligned with mission-critical business objectives.",
+        "Overseeing multi-team agile delivery cycles, managing scope, cost, and risk while ensuring high client satisfaction and measurable outcomes.",
+        "Driving strategic portfolio planning and governance, enabling data-informed prioritization and resource allocation to boost operational efficiency across product streams."
       ]
     },
             {
       "name": "Carnegie Mellon University, School of Computer Science",
-      "position": "AI/ML Researcher, Cognitive Science",
+      "position": "AI/ML Product Manager & Researcher, Cognitive Science",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
       "endDate": "2025",
       "summary": "",
       "highlights": [
-        "Investigated fundamental questions about perception, memory, learning, language, and decision-making through experimental and computational approaches.",
-        "Designed and conducted behavioral and cognitive experiments with human participants to test theories of mind and cognition.",
-        "Collaborated with psychologists, neuroscientists, computer scientists, and philosophers to integrate insights across disciplines and advance understanding of human cognition.",
-        "Communicated findings through peer-reviewed publications, conference presentations, and knowledge translation into tools, practices, or applications that benefited science and society."
+        "Investigated neural and computational mechanisms of personality disorders, focusing on emotion regulation, social cognition, and decision-making.",
+        "Conducted behavioral and neuroimaging studies with clinical and non-clinical participants to identify neural and behavioral biomarkers.",
+        "Integrated insights from neuroscience, psychology, and computational modeling (e.g. AI/ML) to advance mechanistic understanding and inform intervention design.",
+        "Collaborated with interdisciplinary teams to connect brain-based mechanisms with personality and psychopathology.",
+        "Disseminated findings through publications, conferences, and translational tools that support clinical and scientific innovation."
       ]
     },
             {
       "name": "The University of Texas at Austin, Dell School of Medicine",
-      "position": "AI/ML Researcher, Cognitive Science",
+      "position": "AI/ML Product Manager & Researcher, Cognitive Science",
       "url": "https://www.utexas.edu/",
-      "startDate": "2023",
-      "endDate": "2025",
+      "startDate": "2025",
+      "endDate": null,
       "summary": "",
       "highlights": [
-        "Investigated fundamental questions about perception, memory, learning, language, and decision-making through experimental and computational approaches.",
-        "Designed and conducted behavioral and cognitive experiments with human participants to test theories of mind and cognition.",
-        "Collaborated with psychologists, neuroscientists, computer scientists, and philosophers to integrate insights across disciplines and advance understanding of human cognition.",
-        "Communicated findings through peer-reviewed publications, conference presentations, and knowledge translation into tools, practices, or applications that benefited science and society."
+        "Investigating neural and computational mechanisms of personality disorders, focusing on emotion regulation, social cognition, and decision-making.",
+        "Conducting behavioral and neuroimaging studies with clinical and non-clinical participants to identify neural and behavioral biomarkers.",
+        "Integrating insights from neuroscience, psychology, and computational modeling (e.g. AI/ML) to advance mechanistic understanding and inform intervention design.",
+        "Collaborating with interdisciplinary teams to connect brain-based mechanisms with personality and psychopathology.",
+        "Disseminating findings through publications, conferences, and translational tools that support clinical and scientific innovation."
       ]
     },
             {
@@ -185,7 +144,7 @@
     },
         {
       "name": "American Red Cross",
-      "position": "Technical Product Manager",
+      "position": "Consulting Program Manager",
       "url": "https://www.redcross.org",
       "startDate": "2020",
       "endDate": "2022",
@@ -280,7 +239,7 @@
     },
         {
       "name": "Workday",
-      "position": "AI/ML Product Manager",
+      "position": "Consulting AI/ML Product Manager",
       "url": "https://www.workday.com/",
       "startDate": "2024",
       "endDate": "2025",
@@ -308,7 +267,7 @@
     },
         {
       "name": "Manifold Research",
-      "position": "AI/ML Product Manager",
+      "position": "Consulting AI/ML Product Manager",
       "url": "https://www.manifoldrg.com",
       "startDate": "2024",
       "endDate": "2025",
@@ -320,8 +279,19 @@
       ]
     },
         {
+      "name": "Covalent Metrology",
+      "position": "Consulting AI/ML Product Manager",
+      "url": "https://covalentmetrology.com/",
+      "startDate": "2025",
+      "endDate": "2025",
+      "summary": "",
+      "highlights": [
+        "Created an AI/ML product strategy and roadmap for Covalent Metrology, an analytical services leader delivering rapid, expert materials characterization and failure analysis via advanced instrumentation."
+      ]
+    },
+        {
       "name": "JASCI Software",
-      "position": "Technical Product Director",
+      "position": "Consulting Lead AI/ML Product Manager",
       "url": "https://www.jascicloud.com/",
       "startDate": "2022",
       "endDate": "2024",
@@ -380,8 +350,8 @@
       "name": "Merck Group",
       "position": "Associate Research Scientist",
       "url": "https://www.emdgroup.com/en",
-      "startDate": "2021",
-      "endDate": "2022",
+      "startDate": "2019",
+      "endDate": "2021",
       "summary": "",
       "highlights": [
         "Developed and optimized pharmaceutical production protocols, applying informatics and analytical chemistry to support the formulation and scale-up of new chemical artifacts.",
@@ -392,7 +362,7 @@
     },
         {
       "name": "Gallify",
-      "position": "Chief Technology Officer & Founder",
+      "position": "Consulting Chief Technology Officer",
       "url": "",
       "startDate": "2017",
       "endDate": "2019",
@@ -406,6 +376,16 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Mensa International",
+      "location": "Egypt",
+      "position": "Member",
+      "url": "https://www.mensa.org/",
+      "startDate": null,
+      "endDate": null,
+      "summary": "",
+      "highlights": []
+    },
     {
       "organization": "UW Health",
       "location": "Madison",
@@ -496,13 +476,12 @@
       "institution": "The University of Colorado, Boulder, School of Engineering",
       "location": "Boulder",
       "url": "https://www.colorado.edu/",
-      "area": "Computational Data Science and Applied Mathematics",
+      "area": "Computational Data Science",
       "studyType": "Master of Science (MSc)",
       "startDate": null,
       "endDate": null,
       "score": "10",
       "courses": [
-        "Transferred to The University of Texas at Austin",
         "Academic Merit Scholarship",
         "Dean's List"
       ]
@@ -511,7 +490,7 @@
       "institution": "UW-Madison School of Medicine and Public Health",
       "location": "Madison",
       "url": "https://www.wisc.edu/",
-      "area": "Bioinformatics and Genetics",
+      "area": "Genetic Engineering and Bioinformatics",
       "studyType": "Bachelor of Science (BSc)",
       "startDate": null,
       "endDate": null,
@@ -528,7 +507,7 @@
       ]
     },
         {
-      "institution": "The University of Texas at Austin, School of Natural Sciences",
+      "institution": "The University of Texas at Austin",
       "location": "Austin",
       "url": "https://www.utexas.edu/",
       "area": "Artificial Intelligence and Applied Mathematics",
@@ -542,10 +521,10 @@
       ]
     },
         {
-      "institution": "Carnegie Mellon University, School of Computer Science",
+      "institution": "Carnegie Mellon University",
       "location": "Pittsburgh",
       "url": "https://www.cmu.edu/",
-      "area": "Management Information Systems",
+      "area": "Management Science and Engineering",
       "studyType": "Master of Business Administration (MBA)",
       "startDate": null,
       "endDate": null,
@@ -558,24 +537,11 @@
       ]
     },
         {
-      "institution": "Dartmouth College, Thayer School of Engineering",
-      "location": "New Hampshire",
-      "url": "https://home.dartmouth.edu/",
-      "area": "Electrical and Computer Engineering",
-      "studyType": "Master of Engineering (MEng)",
-      "startDate": null,
-      "endDate": null,
-      "score": "10",
-      "courses": [
-        "Transferred to Stanford University"
-      ]
-    },
-        {
       "institution": "Stanford University",
       "location": "San Francisco Bay Area",
       "url": "https://www.stanford.edu/",
       "area": "Cognitive and Computer Science",
-      "studyType": "Doctor of Philosophy (PhD) & Master of Science (MSc)",
+      "studyType": "Doctor of Philosophy (PhD)",
       "startDate": null,
       "endDate": null,
       "score": "10",
@@ -841,7 +807,7 @@
       "keywords": []
     },
     {
-      "name": "Technical Portfolio Management",
+      "name": "Technical Project Management",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": []
@@ -902,7 +868,7 @@
   ],
   "interests": [
     {
-      "name": "Artificial Intelligence",
+      "name": "Biking",
       "icon": "fa-solid fa-tag",
       "keywords": []
     },
