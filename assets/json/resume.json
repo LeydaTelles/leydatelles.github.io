@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Luke Profio",
-    "label": "AI/ML Product Manager & Cognitive Scientist",
+    "label": "AI/ML Product Leader & Neuroscientist",
     "image": "",
     "email": "luke@profio.us",
     "phone": "(414) 373-8267",
@@ -79,7 +79,7 @@
     },
             {
       "name": "Carnegie Mellon University, School of Computer Science",
-      "position": "AI/ML Product Manager & Researcher, Cognitive Science",
+      "position": "AI/ML Product Manager & Researcher, Computational Neuroscience",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
       "endDate": "2025",
@@ -94,7 +94,7 @@
     },
             {
       "name": "The University of Texas at Austin, Dell School of Medicine",
-      "position": "AI/ML Product Manager & Researcher, Cognitive Science",
+      "position": "AI/ML Product Manager & Researcher, Computational Neuroscience",
       "url": "https://www.utexas.edu/",
       "startDate": "2025",
       "endDate": null,
@@ -120,7 +120,7 @@
     },
         {
       "name": "CODAworx",
-      "position": "Co-Founder of CODAmarket & Technical Product Manager",
+      "position": "Co-Founder of CODAmarket & Technical Product Director",
       "url": "https://codaworx.com/",
       "startDate": "2021",
       "endDate": "2023",
@@ -144,7 +144,7 @@
     },
         {
       "name": "American Red Cross",
-      "position": "Consulting Program Manager",
+      "position": "Consulting Product Manager",
       "url": "https://www.redcross.org",
       "startDate": "2020",
       "endDate": "2022",
@@ -280,7 +280,7 @@
     },
         {
       "name": "Covalent Metrology",
-      "position": "Consulting AI/ML Product Manager",
+      "position": "Consulting AI/ML Product Director",
       "url": "https://covalentmetrology.com/",
       "startDate": "2025",
       "endDate": "2025",
@@ -291,7 +291,7 @@
     },
         {
       "name": "JASCI Software",
-      "position": "Consulting Lead AI/ML Product Manager",
+      "position": "Consulting AI/ML Product Leader",
       "url": "https://www.jascicloud.com/",
       "startDate": "2022",
       "endDate": "2024",
@@ -540,12 +540,13 @@
       "institution": "Stanford University",
       "location": "San Francisco Bay Area",
       "url": "https://www.stanford.edu/",
-      "area": "Cognitive and Computer Science",
+      "area": "Computational Neuroscience and Cognitive Science",
       "studyType": "Doctor of Philosophy (PhD)",
       "startDate": null,
       "endDate": null,
       "score": "10",
       "courses": [
+        "In Progress"
       ]
     }
   ],
