@@ -537,16 +537,16 @@
       ]
     },
         {
-      "institution": "Stanford University",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.stanford.edu/",
-      "area": "Management Science and Engineering",
-      "studyType": "Artificial Intelligence and LEAD Professional Program",
+      "institution": "The Massachusetts Institute of Technology",
+      "location": "Boston",
+      "url": "https://www.mit.edu/",
+      "area": "Chief Technology Officer Professional Program",
+      "studyType": "",
       "startDate": null,
       "endDate": null,
       "score": "10",
       "courses": [
-        "In Progress"
+        "Academic Merit Scholarship"
       ]
     }
   ],
@@ -562,6 +562,13 @@
       "title": "Academic Merit Scholarship",
       "date": "",
       "awarder": "Carnegie Mellon University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Academic Merit Scholarship",
+      "date": "",
+      "awarder": "The Massachusetts Institute of Technology",
       "url": "",
       "summary": ""
     },
