@@ -79,7 +79,7 @@
     },
             {
       "name": "Carnegie Mellon University, School of Computer Science",
-      "position": "AI/ML Product Manager & Researcher, Neuroscience",
+      "position": "AI/ML Product Manager & Research Scientist, Neuroscience",
       "url": "https://www.cmu.edu/",
       "startDate": "2022",
       "endDate": "2025",
@@ -94,7 +94,7 @@
     },
             {
       "name": "The University of Texas at Austin, Dell School of Medicine",
-      "position": "AI/ML Product Manager & Researcher, Neuroscience",
+      "position": "AI/ML Product Manager & Research Scientist, Neuroscience",
       "url": "https://www.utexas.edu/",
       "startDate": "2025",
       "endDate": null,
@@ -540,8 +540,8 @@
       "institution": "Stanford University",
       "location": "San Francisco Bay Area",
       "url": "https://www.stanford.edu/",
-      "area": "Computational Neuroscience and Cognitive Science",
-      "studyType": "Doctor of Philosophy (PhD)",
+      "area": "Management Science and Engineering",
+      "studyType": "Artificial Intelligence and LEAD Professional Program",
       "startDate": null,
       "endDate": null,
       "score": "10",
