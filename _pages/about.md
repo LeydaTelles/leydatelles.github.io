@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>AI/ML Product Leader & Research Scientist</a>  |  Carnegie Mellon University
+subtitle: <a href='#'>CEO & Founder @ Aurifex</a>  |  Carnegie Mellon University
 
 profile:
   align: right
