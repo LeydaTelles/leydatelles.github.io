@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Luke Profio",
-    "label": "CEO & Founder @ Aurifex",
+    "label": "AI/ML Product Leader",
     "image": "",
     "email": "luke@profio.us",
     "phone": "(414) 373-8267",
@@ -24,7 +24,7 @@
   },
   "work": [
         {
-      "name": "The University of Texas at Austin, Dell School of Medicine",
+      "name": "The University of Texas at Austin",
       "position": "Graduate Teaching Assistant, AI/ML",
       "url": "https://www.utexas.edu/",
       "startDate": "2023",
@@ -37,7 +37,7 @@
         "Mentoring students and fostoring an inclusive learning environment, encouraging curiosity, critical thinking, and a passion for AI/ML."
       ]
     },
-        {
+        /*{
       "name": "Carnegie Mellon University, School of Computer Science",
       "position": "Founder, AI@CMU",
       "url": "https://www.cmu.edu/",
@@ -49,8 +49,8 @@
         "Leading workshops, speaker events, and mentorship programs to equip students with practical AI/ML skills using industry-relevant tools and frameworks.",
         "Building partnerships with faculty, research labs, and tech companies to connect members with resources, projects, and applied learning opportunities in AI/ML."
       ]
-    },
-        {
+    },*/
+        /*{
       "name": "UW-Madison School of Medicine and Public Health",
       "position": "Founding Board Member, International Society for Regnerative Medicine",
       "url": "http://www.ssscr.org/",
@@ -62,8 +62,8 @@
         "Led global technology initiatives including webinars and conferences aimed at showcasing novel regenerative medicine research.",
         "Provided operational support for the organization, helping recruit members, grow support for organizational initiatives, and scale its overall impact."
       ]
-    },
-        {
+    },*/
+        /*{
       "name": "Aurifex",
       "position": "Chief Executive Officer & Founder, Product Management",
       "url": "https://www.linkedin.com/company/81462503/admin/dashboard/",
@@ -76,8 +76,8 @@
         "Overseeing multi-team agile delivery cycles, managing scope, cost, and risk while ensuring high client satisfaction and measurable outcomes.",
         "Driving strategic portfolio planning and governance, enabling data-informed prioritization and resource allocation to boost operational efficiency across product streams."
       ]
-    },
-            {
+    },*/
+            /*{
       "name": "Carnegie Mellon University, School of Computer Science",
       "position": "AI/ML Research Scientist, Neuroscience",
       "url": "https://www.cmu.edu/",
@@ -91,10 +91,10 @@
         "Collaborated with interdisciplinary teams to connect brain-based mechanisms with personality and psychopathology.",
         "Disseminated findings through publications, conferences, and translational tools that support clinical and scientific innovation."
       ]
-    },
+    },*/
             {
-      "name": "The University of Texas at Austin, Dell School of Medicine",
-      "position": "AI/ML Research Scientist, Neuroscience",
+      "name": "The University of Texas at Austin",
+      "position": "Technical Product Manager & Researcher, AI/ML",
       "url": "https://www.utexas.edu/",
       "startDate": "2025",
       "endDate": null,
@@ -107,7 +107,7 @@
         "Disseminating findings through publications, conferences, and translational tools that support clinical and scientific innovation."
       ]
     },
-            {
+            /*{
       "name": "Perplexity",
       "position": "AI/ML Fellowship",
       "url": "https://www.perplexity.ai/",
@@ -117,10 +117,10 @@
       "highlights": [
         "Learned the best practices of designing, developing and scaling AI/ML systems."
       ]
-    },
+    },*/
         {
       "name": "CODAworx",
-      "position": "Co-Founder of CODAmarket & Technical Product Director",
+      "position": "Co-Founder of CODAmarket & Technical Product Manager",
       "url": "https://codaworx.com/",
       "startDate": "2021",
       "endDate": "2023",
@@ -131,7 +131,7 @@
         "Optimized transaction efficiency and enhanced user experience by redesigning inventory management systems using A/B testing and user analytics."
       ]
     },
-        {
+        /*{
       "name": "UW-Madison School of Computer Science",
       "position": "Advisory Board Member, Applied Data Science Graduate Program",
       "url": "https://www.wisc.edu/",
@@ -141,8 +141,8 @@
       "highlights": [
         "Served on UW-Madison's Applied Data Science advisory board, influencing the development of novel curriculum to align with industry trends (e.g. AI/ML model development)."
       ]
-    },
-        {
+    },*/
+        /*{
       "name": "American Red Cross",
       "position": "Consulting Product Manager",
       "url": "https://www.redcross.org",
@@ -154,8 +154,8 @@
         "Implemented and optimized processes that increased efficiency, grew the donor base, and improved the scheduler and donor experience.",
         "Collaborated with technology teams to support in the implementation of system enhancements, which resolved bugs and improved the user experience."
       ]
-    },
-        {
+    },*/
+        /*{
       "name": "UW-Madison School of Medicine and Public Health",
       "position": "Board Member, International Society for Regenerative Medicine",
       "url": "https://www.wisc.edu",
@@ -167,8 +167,8 @@
         "Led global technology initiatives including webinars and conferences aimed at showcasing novel regenerative medicine research.",
         "Provided operational support for the organization, helping recruit members, grow support for organizational initiatives, and scale its overall impact."
       ]
-    },
-        {
+    },*/
+        /*{
       "name": "UW-Madison School of Medicine and Public Health",
       "position": "Board Member, Cardiac on Campus",
       "url": "https://www.wisc.edu",
@@ -180,7 +180,7 @@
         "Collaborated with the board to implement enhancements and optimized processes which streamlined the organization's operations and mission in raising awareness for cardiovascular disease.",
         "Facilitated various organizational events, including talks on the research and impact of cardiovascular treatment."
       ]
-    },
+    },*/
         {
       "name": "Sendik's Food Market",
       "position": "Assistant Manager",
@@ -239,7 +239,7 @@
     },
         {
       "name": "Workday",
-      "position": "Consulting AI/ML Product Manager",
+      "position": "Consulting Technical Product Manager, AI/ML",
       "url": "https://www.workday.com/",
       "startDate": "2024",
       "endDate": "2025",
@@ -252,7 +252,7 @@
     },
         {
       "name": "UW Health",
-      "position": "Senior AI/ML Product Manager",
+      "position": "Senior Technical Product Manager, AI/ML",
       "url": "https://www.uwhealth.org/",
       "startDate": "2023",
       "endDate": "2025",
@@ -265,7 +265,7 @@
         "Mentored team members on AI/ML tools, product management, and PMO best practices (e.g. ServiceNow SPM), boosting team productivity."
       ]
     },
-        {
+        /*{
       "name": "Manifold Research",
       "position": "Consulting AI/ML Product Manager",
       "url": "https://www.manifoldrg.com",
@@ -277,8 +277,8 @@
         "Hosted bi-weekly technical seminars and provided regular updates on open-source initiatives, doubling the core team size.",
         "Boosted community engagement by 60% in under 6 months through targeted research initiatives and strategic communication efforts."
       ]
-    },
-        {
+    },*/
+       /*{
       "name": "Covalent Metrology",
       "position": "Consulting AI/ML Product Director",
       "url": "https://covalentmetrology.com/",
@@ -288,8 +288,8 @@
       "highlights": [
         "Created an AI/ML product strategy and roadmap for Covalent Metrology, an analytical services leader delivering rapid, expert materials characterization and failure analysis via advanced instrumentation."
       ]
-    },
-        {
+    },*/
+        /*{
       "name": "JASCI Software",
       "position": "Consulting AI/ML Product Leader",
       "url": "https://www.jascicloud.com/",
@@ -305,8 +305,8 @@
         "Spearheaded robotic and automated warehouse system integrations (AMRs, conveyors, WCS layer).",
         "Conducted in-depth data analysis using complex SQL queries to produce performance and cost benchmarks."
       ]
-    },
-        {
+    },*/
+        /*{
       "name": "Labcorp",
       "position": "Associate Technical Product Manager",
       "url": "https://www.labcorp.com/",
@@ -318,10 +318,10 @@
         "Managed a $200K+ global investigator training initiative, tailoring materials based on client feedback and achieving high satisfaction scores.",
         "Implemented and optimized compliance tracking processes that reduced audit preparation time and increased global regulatory compliance."
       ]
-    },
+    },*/
         {
       "name": "UW-Madison School of Medicine and Public Health",
-      "position": "Technical Product Manager & Researcher, Regenerative Medicine",
+      "position": "Technical Product Manager & Researcher",
       "url": "https://www.wisc.edu/",
       "startDate": "2016",
       "endDate": "2021",
@@ -332,8 +332,8 @@
         "Utilized agile methodologies to enhance the efficiency of cardiac tissue regeneration, paving the way for pre-clinical product development and commercialization.",
         "Developed data analytics workflows using instrumentation software and programming, reducing processing time while improving data accuracy and quality."
       ]
-    },
-        {
+    }
+        /*{
       "name": "UW-Madison School of Computer Science",
       "position": "Software Engineer",
       "url": "https://www.wisc.edu/",
@@ -345,8 +345,8 @@
         "Engineered secure, API-driven backends and responsive front-end interfaces, enabling integrations with third-party services and reducing error rates.",
         "Partnered with product and design teams to launch user-centric features, increasing engagement and retention while maintaining accessibility and compliance standards."
       ]
-    },
-        {
+    },*/
+        /*{
       "name": "Merck Group",
       "position": "Associate Research Scientist",
       "url": "https://www.emdgroup.com/en",
@@ -359,8 +359,8 @@
         "Contributed to method development and analytical evaluations across various stages of drug production, driving process improvements and enhanced reproducibility of products.",
         "Participated in safety audits, cross-functional documentation updates, and knowledge transfer efforts—helping onboard new personnel and standardize best practices in pharmaceutical production."
       ]
-    },
-        {
+    },*/
+        /*{
       "name": "Gallify",
       "position": "Consulting Chief Technology Officer",
       "url": "",
@@ -373,7 +373,7 @@
         "Served as a Scrum Master and the primary technical decision-maker, accelerating development cycles and streamlining team workflows through structured sprints and async updates.",
         "Built and scaled internal operations by leading recruitment, creating hiring packages, and implementing financial/resource planning tools, contributing to team growth and operational efficiency."
       ]
-    }
+    }*/
   ],
   "volunteer": [
     {
@@ -510,7 +510,7 @@
       "institution": "The University of Texas at Austin",
       "location": "Austin",
       "url": "https://www.utexas.edu/",
-      "area": "Artificial Intelligence",
+      "area": "Artificial Intelligence and Applied Mathematics",
       "studyType": "Master of Science (MSc)",
       "startDate": null,
       "endDate": null,
