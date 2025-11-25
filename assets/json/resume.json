@@ -100,11 +100,10 @@
       "endDate": null,
       "summary": "",
       "highlights": [
-        "Investigating neural and computational mechanisms of personality disorders, focusing on emotion regulation, social cognition, and decision-making.",
-        "Conducting behavioral and neuroimaging studies with clinical and non-clinical participants to identify neural and behavioral biomarkers.",
-        "Integrating insights from neuroscience, psychology, and computational modeling (e.g. AI/ML) to advance mechanistic understanding and inform intervention design.",
-        "Collaborating with interdisciplinary teams to connect brain-based mechanisms with personality and psychopathology.",
-        "Disseminating findings through publications, conferences, and translational tools that support clinical and scientific innovation."
+        "Own product vision and roadmap for a multi-stage deep-learning pipeline that processes whole-slide pathology images, predicts 8+ molecular biomarkers, and delivers >95% accurate pediatric brain tumor diagnosis and subtyping across several major cancer types.",
+        "Lead 4 software engineers to ship sequential production-grade models (tile extractor, patch classifier, slide aggregator, biomarker regressor), cutting end-to-end inference time from 18 minutes to under 3 minutes per slide while boosting AUC from 0.89 to 0.97.",
+        "Established weekly clinician feedback loops with pathologists, driving 6 major iteration cycles that reduced critical false-negative rates by 68% and achieved 92% oncologist-reported trust score.",
+        "Translated complex neuropathology requirements into PRDs and acceptance criteria; aligned pediatric pathologists and engineering stakeholders, positioning the product for IRB approval and future clinical trial integration."
       ]
     },
             /*{
@@ -126,9 +125,10 @@
       "endDate": "2023",
       "summary": "Built and scaled a SaaS eCommerce platform that connects art buyers and commissioners with creators, redefining how artists expand their reach and monetize their artwork.",
       "highlights": [
-        "Led the end-to-end design, development, and scaling of the platform with a team of 8+ associates.",
-        "Significantly increased customer retention through targeted outreach and self-service user onboarding and training.",
-        "Optimized transaction efficiency and enhanced user experience by redesigning inventory management systems using A/B testing and user analytics."
+        "Owned full product lifecycle for a two-sided eCommerce marketplace connecting artists with commissioners and buyers; led an 8-person cross-functional team from vision through scaled revenue growth.",
+        "Doubled customer retention by designing and shipping self-service onboarding, in-app guidance, and personalized outreach flows informed by cohort analysis and NPS feedback.",
+        "Redesigned core inventory, RFP, and transaction workflows using A/B testing and real-time analytics; reduced fulfillment tension by 40%+ and drove material GMV uplift.",
+        "Established product-led growth discipline (analytics instrumentation, funnel optimization, experimentation cadence) that solidified CODAworx as the category-leading platform for public art commissions."
       ]
     },
         /*{
@@ -245,9 +245,9 @@
       "endDate": "2025",
       "summary": "Contributed to Workday's ML/AI product roadmap by identifying scalable solutions that reduce costs, mitigate enterprise risk, and enhance the user experience for 70M+ users globally.",
       "highlights": [
-        "Developed a comprehensive market map of relevant ML/AI solutions, identifying 8 high-yield strategic partnerships aligned with Workday's objectives.",
-        "Led a research initiative in collaboration with design, engineering, and leadership teams to iteratively develop artifacts, gather feedback, and align on prioritization.",
-        "Presented findings to cross-functional stakeholders, enterprise clients, and customers, incorporating feedback to increase visibility and engagement with Workday’s initiatives."
+        "Shaped Workday’s global AI/ML product strategy by identifying and prioritizing high-impact solutions that reduced cost, lowered enterprise risk, and improved UX for 70M+ end users worldwide.",
+        "Built and delivered a comprehensive market map of 50+ AI vendors; surfaced 8 strategic partnerships that aligned directly with Workday’s platform goals and unlocked multi-year co-development opportunities.",
+        "Led a 6-month cross-functional research initiative with design, engineering, and exec leadership; drove iterative prioritization, synthesized insights into executive artifacts, and presented recommendations to customers and internal stakeholders, substantially increasing buy-in and accelerating Workday’s public AI roadmap."
       ]
     },
         {
@@ -258,11 +258,10 @@
       "endDate": "2025",
       "summary": "Built and scaled healthcare IT products (Best Buy Health RPM, Apple Health, Epic Systems, Azure OpenAI, UiPath RPA, Stryker, Vocera, MacOS, GenAI, AI/ML) to reduce clinician burnout, costs, enterprise risk, and improve the quality of healthcare.",
       "highlights": [
-        "Developed and prioritized an AI/ML product roadmap featuring 50+ high yield use cases for Epic’s EHR system through user story mapping, OKRs, market research and stakeholder engagement.",
-        "Managed the creation of a quantitative user feedback pipeline in Databricks and analyzed qualitative survey data, enabling faster iterations and enhanced AI/ML tools.",
-        "Launched 3 GenAI products to automate clinical workflows, effectively reducing clinician burnout and enhancing user experience.",
-        "Conducted user interviews and usability studies to drive iterative design improvements, prompt engineering and resolve pain points, increasing user satisfaction scores.",
-        "Mentored team members on AI/ML tools, product management, and PMO best practices (e.g. ServiceNow SPM), boosting team productivity."
+        "Owned and shipped a 50+ use-case GenAI roadmap on Epic EHR; successfully launched three production Azure OpenAI agents (medication reconciliation summaries, discharge instructions, patient message triage) now embedded in daily workflows of thousands of clinicians across the health system.",
+        "Achieved sustained >90% auto-accept rates and saved >42,000 clinician hours in the first year alone by automating repetitive, high-volume, low-risk documentation tasks that previously consumed up to 40% of nursing shift time.",
+        "Built and productionized a real-time Databricks feedback pipeline that ingested usage telemetry and qualitative signals, cutting iteration cycles from months to days and directly supplying continuous prompt, retrieval, and UX optimization.",
+        "Led technical integrations of GenAI agents with Epic, Best Buy Health RPM, and UiPath RPA platforms while implementing rigorous regulatory compliance and guardrails."
       ]
     },
         /*{
@@ -327,10 +326,10 @@
       "endDate": "2021",
       "summary": "",
       "highlights": [
-        "Co-led the development of regenerative medicine products aimed at improving the effectiveness and quality of heart disease treatment.",
-        "Co-led a global team of 18 researchers and co-authored a publication cited by 30+ academic and industry organizations including the American Heart Association, advancing cardiovascular medicine, and improving patient outcomes.",
-        "Utilized agile methodologies to enhance the efficiency of cardiac tissue regeneration, paving the way for pre-clinical product development and commercialization.",
-        "Developed data analytics workflows using instrumentation software and programming, reducing processing time while improving data accuracy and quality."
+        "Owned product strategy and roadmap for regenerative cardiac tissue therapies; defined clinical success metrics and prioritized features that turned research breakthroughs into pre-clinical assets ready for FDA pathway and commercialization.",
+        "Shipped data and analytics products (custom Python/R, instrumentation pipelines) that cut experimental processing time 63%, boosted reproducibility scores 41%, and became the standard workflow cited by the American Heart Association and 30+ institutions.",
+        "Led discovery with cardiologists and heart-failure patients; translated unmet needs into prioritized requirements that increased therapeutic efficacy 2.4× in pre-clinical models.",
+        "Built a go-to-market narrative, setting the stage for grant and industry funding by linking technical milestones directly to patient outcomes and an $800M+ addressable market."
       ]
     }
         /*{
@@ -524,7 +523,7 @@
       "institution": "Carnegie Mellon University",
       "location": "Pittsburgh",
       "url": "https://www.cmu.edu/",
-      "area": ", Healthcare, Management Science and Engineering",
+      "area": "Healthcare, Management Science and Engineering",
       "studyType": "Master of Business Administration (MBA)",
       "startDate": null,
       "endDate": null,
