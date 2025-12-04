@@ -1,6 +1,6 @@
 TL;DR: Hands-on AI/ML Product Leader who ships production agents that enterprises adopt at scale, from pediatric brain-cancer detection to Epic-integrated GenAI that reclaimed >42,000 clinician hours in the first year.
 
-- Built and launched a multi-omics analysis platform at Aurifex Sciences with 6+ advanced tools across genomic, transcriptomic, proteomic, epigenomic, single-cell, and metabolomic workflows; achieved 20-25% month-over-month user growth with 70% three-month retention, secured 1.5-2M in pre-seed and seed funding, and delivered 100% of core features on schedule while reducing average feature cycle time by 40%.
+- Built and launched a multi-omics analysis platform at Aurifex Sciences with 6+ advanced tools across genomic, transcriptomic, proteomic, epigenomic, single-cell, and metabolomic workflows; achieved 20-25% month-over-month user growth with 70% three-month retention, secured seed funding, and delivered 100% of core features on schedule while reducing average feature cycle time by 40%.
 
 - Currently own product vision and roadmap at UT-Austin for a multi-stage deep-learning platform that ingests whole-slide images, predicts 8+ molecular biomarkers, and delivers >95% accurate pediatric brain tumor diagnosis and subtyping while cutting inference time from 18 minutes to under 3 minutes per slide.
 
