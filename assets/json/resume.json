@@ -291,7 +291,7 @@
         "Built and productionized a real-time Databricks feedback pipeline that ingested usage telemetry and qualitative signals, cutting iteration cycles from months to days and directly supplying continuous prompt, retrieval, and UX optimization.",
         "Led technical integrations of GenAI agents with Epic, Best Buy Health RPM, and UiPath RPA platforms while implementing rigorous regulatory compliance and guardrails."
       ]
-    },
+    }
         /*{
       "name": "Manifold Research",
       "position": "Consulting AI/ML Product Manager",
