@@ -23,7 +23,7 @@
     ]
   },
   "work": [
-    {
+        /*{
       "name": "The University of Texas at Austin",
       "position": "Graduate Teaching Assistant, AI/ML (Part-Time)",
       "url": "https://www.utexas.edu/",
@@ -36,8 +36,8 @@
         "Collaboarting with faculty to improve course materials, integrating the latest research and instructional methods.", 
         "Mentoring students and fostoring an inclusive learning environment, encouraging curiosity, critical thinking, and a passion for AI/ML."
       ]
-    },
-    {
+    },*/
+        /*{
       "name": "Carnegie Mellon University, School of Computer Science",
       "position": "Founder, AI@CMU",
       "url": "https://www.cmu.edu/",
@@ -49,8 +49,8 @@
         "Leading workshops, speaker events, and mentorship programs to equip students with practical AI/ML skills using industry-relevant tools and frameworks.",
         "Building partnerships with faculty, research labs, and tech companies to connect members with resources, projects, and applied learning opportunities in AI/ML."
       ]
-    },
-    {
+    },*/
+        /*{
       "name": "UW-Madison School of Medicine and Public Health",
       "position": "Founding Board Member, International Society for Regnerative Medicine",
       "url": "http://www.ssscr.org/",
@@ -62,8 +62,8 @@
         "Led global technology initiatives including webinars and conferences aimed at showcasing novel regenerative medicine research.",
         "Provided operational support for the organization, helping recruit members, grow support for organizational initiatives, and scale its overall impact."
       ]
-    },
-    {
+    },*/
+        /*{
       "name": "Aurifex",
       "position": "Chief Executive Officer & Founder, Product Management",
       "url": "https://www.linkedin.com/company/81462503/admin/dashboard/",
@@ -76,8 +76,8 @@
         "Overseeing multi-team agile delivery cycles, managing scope, cost, and risk while ensuring high client satisfaction and measurable outcomes.",
         "Driving strategic portfolio planning and governance, enabling data-informed prioritization and resource allocation to boost operational efficiency across product streams."
       ]
-    },
-    {
+    },*/
+            /*{
       "name": "Carnegie Mellon University, School of Computer Science",
       "position": "AI/ML Research Scientist, Neuroscience",
       "url": "https://www.cmu.edu/",
@@ -91,8 +91,8 @@
         "Collaborated with interdisciplinary teams to connect brain-based mechanisms with personality and psychopathology.",
         "Disseminated findings through publications, conferences, and translational tools that support clinical and scientific innovation."
       ]
-    },
-    {
+    },*/
+            /*{
       "name": "The University of Texas at Austin",
       "position": "Senior Technical Product Manager & Research Scientist, AI/ML (Part-Time)",
       "url": "https://www.utexas.edu/",
@@ -105,8 +105,8 @@
         "Established weekly clinician feedback loops with pathologists, driving 6 major iteration cycles that reduced critical false-negative rates by 68% and achieved 92% oncologist-reported trust score.",
         "Translated complex neuropathology requirements into PRDs and acceptance criteria; aligned pediatric pathologists and engineering stakeholders, positioning the product for IRB approval and future clinical trial integration."
       ]
-    },
-    {
+    },*/
+            /*{
       "name": "Perplexity",
       "position": "AI/ML Fellowship",
       "url": "https://www.perplexity.ai/",
@@ -116,8 +116,8 @@
       "highlights": [
         "Learned the best practices of designing, developing and scaling AI/ML systems."
       ]
-    },
-    {
+    },*/
+        {
       "name": "CODAworx",
       "position": "Technical Product Director",
       "url": "https://codaworx.com/",
@@ -131,7 +131,7 @@
         "Established product-led growth discipline (analytics instrumentation, funnel optimization, experimentation cadence) that solidified CODAworx as the category-leading platform for public art commissions."
       ]
     },
-    {
+        {
       "name": "CODAworx",
       "position": "Technical Product Manager",
       "url": "https://codaworx.com/",
@@ -145,7 +145,7 @@
         "Established product-led growth discipline (analytics instrumentation, funnel optimization, experimentation cadence) that solidified CODAworx as the category-leading platform for public art commissions."
       ]
     },
-    {
+        {
       "name": "Gallify",
       "position": "Chief Product Officer",
       "url": "https://www.linkedin.com/company/gallify/about/",
@@ -159,7 +159,7 @@
         "Managed engineering deliverables across time, scope, and cost, delivering all 6 active projects on schedule with an average variance of under 8% from initial estimates while maintaining quality standards that kept production incidents below 2% of deployments."
       ]
     },
-    {
+        {
       "name": "Aurifex",
       "position": "Chief Product Officer",
       "url": "https://main.d2yhmv6w0o7y6r.amplifyapp.com/",
@@ -173,21 +173,57 @@
         "Used product analytics, experiment results, and direct customer interviews to prioritize the roadmap, driving roughly 35 percent improvement in key engagement metrics and reducing early churn by about 20 percent."
       ]
     },
-    {
-      "name": "UW Health",
-      "position": "Senior Technical Product Manager, AI/ML",
-      "url": "https://www.uwhealth.org/",
+        /*{
+      "name": "UW-Madison School of Computer Science",
+      "position": "Advisory Board Member, Applied Data Science Graduate Program",
+      "url": "https://www.wisc.edu/",
       "startDate": "2023",
-      "endDate": "2025",
-      "summary": "Built and scaled healthcare IT products (Best Buy Health RPM, Apple Health, Epic Systems, Azure OpenAI, UiPath RPA, Stryker, Vocera, MacOS, GenAI, AI/ML) to reduce clinician burnout, costs, enterprise risk, and improve the quality of healthcare.",
+      "endDate": "2024",
+      "summary": "",
       "highlights": [
-        "Owned and shipped a 50+ use-case GenAI roadmap on Epic EHR; successfully launched three production Azure OpenAI agents (medication reconciliation summaries, discharge instructions, patient message triage) now embedded in daily workflows of thousands of clinicians across the health system.",
-        "Achieved sustained >90% auto-accept rates and saved >42,000 clinician hours in the first year alone by automating repetitive, high-volume, low-risk documentation tasks that previously consumed up to 40% of nursing shift time.",
-        "Built and productionized a real-time Databricks feedback pipeline that ingested usage telemetry and qualitative signals, cutting iteration cycles from months to days and directly supplying continuous prompt, retrieval, and UX optimization.",
-        "Led technical integrations of GenAI agents with Epic, Best Buy Health RPM, and UiPath RPA platforms while implementing rigorous regulatory compliance and guardrails."
+        "Served on UW-Madison's Applied Data Science advisory board, influencing the development of novel curriculum to align with industry trends (e.g. AI/ML model development)."
       ]
-    },
-    {
+    },*/
+        /*{
+      "name": "American Red Cross",
+      "position": "Consulting Product Manager",
+      "url": "https://www.redcross.org",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": [
+        "Managed a team of 10+ associates as a part of the American Red Cross' national scheduling division, which recruited blood donors across the globe.",
+        "Implemented and optimized processes that increased efficiency, grew the donor base, and improved the scheduler and donor experience.",
+        "Collaborated with technology teams to support in the implementation of system enhancements, which resolved bugs and improved the user experience."
+      ]
+    },*/
+        /*{
+      "name": "UW-Madison School of Medicine and Public Health",
+      "position": "Board Member, International Society for Regenerative Medicine",
+      "url": "https://www.wisc.edu",
+      "startDate": "2017",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": [
+        "Co-founded and provided advisory support on the vision, mission, and goals of the International Society for Regenerative Medicine.",
+        "Led global technology initiatives including webinars and conferences aimed at showcasing novel regenerative medicine research.",
+        "Provided operational support for the organization, helping recruit members, grow support for organizational initiatives, and scale its overall impact."
+      ]
+    },*/
+        /*{
+      "name": "UW-Madison School of Medicine and Public Health",
+      "position": "Board Member, Cardiac on Campus",
+      "url": "https://www.wisc.edu",
+      "startDate": "2016",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": [
+        "Managed and scaled community engagement through new fundraising events, notably a basketball tournament which also raised awareness for cardiovascular disease.",
+        "Collaborated with the board to implement enhancements and optimized processes which streamlined the organization's operations and mission in raising awareness for cardiovascular disease.",
+        "Facilitated various organizational events, including talks on the research and impact of cardiovascular treatment."
+      ]
+    },*/
+        {
       "name": "Sendik's Food Market",
       "position": "Assistant Manager",
       "url": "https://www.sendiksfinefoods.com/",
@@ -201,7 +237,7 @@
         "Collaborated with regional vendors and corporate buyers to execute seasonal promotions and streamline product assortments, driving category sales."
       ]
     },
-    {
+        {
       "name": "Grasch Foods Inc.",
       "position": "Assistant Manager",
       "url": "",
@@ -215,8 +251,22 @@
         "Collaborated with regional vendors and corporate buyers to execute seasonal promotions and streamline product assortments, driving category sales."
       ]
     },
-    {
+        /*{
       "name": "Boy Scouts of America",
+      "position": "Patrol Leader",
+      "url": "https://www.scouting.org/",
+      "startDate": "2010",
+      "endDate": "2012",
+      "summary": "",
+      "highlights": [
+        "Led a patrol of 10+ scouts, planning and facilitating weekly meetings, campouts, and advancement activities to ensure engagement and progression of skills.",
+        "Served as the primary liaison between the troop leadership and patrol members, communicating responsibilities and resolving conflicts to promote team building.",
+        "Organized patrol duties during outings, ensuring the execution of meal prep, campsite setup, and safety practices.",
+        "Mentored younger scouts, fostering leadership, accountability, and personal growth through peer instruction and engagement."
+      ]
+    },*/
+        {
+      /*"name": "Boy Scouts of America",
       "position": "Senior Patrol Leader",
       "url": "https://www.scouting.org/",
       "startDate": "2012",
@@ -228,8 +278,8 @@
         "Led troop-wide communications, representing youth interests in collaboration with adult leaders to align programming with the BSA’s values and goals.",
         "Developed and coached emerging youth leaders, cultivating a culture of responsibility, initiative, and servant leadership across all patrols."
       ]
-    },
-    {
+    },*/
+        /*{
       "name": "Workday",
       "position": "Senior Product Management Consultant, AI/ML",
       "url": "https://www.workday.com/",
@@ -241,8 +291,22 @@
         "Built and delivered a comprehensive market map of 50+ AI vendors; surfaced 8 strategic partnerships that aligned directly with Workday’s platform goals and unlocked multi-year co-development opportunities.",
         "Led a 6-month cross-functional research initiative with design, engineering, and exec leadership; drove iterative prioritization, synthesized insights into executive artifacts, and presented recommendations to customers and internal stakeholders, substantially increasing buy-in and accelerating Workday’s public AI roadmap."
       ]
-    },
-    {
+    },*/
+        {
+      "name": "UW Health",
+      "position": "Senior Technical Product Manager, AI/ML",
+      "url": "https://www.uwhealth.org/",
+      "startDate": "2023",
+      "endDate": "2025",
+      "summary": "Built and scaled healthcare IT products (Best Buy Health RPM, Apple Health, Epic Systems, Azure OpenAI, UiPath RPA, Stryker, Vocera, MacOS, GenAI, AI/ML) to reduce clinician burnout, costs, enterprise risk, and improve the quality of healthcare.",
+      "highlights": [
+        "Owned and shipped a 50+ use-case GenAI roadmap on Epic EHR; successfully launched three production Azure OpenAI agents (medication reconciliation summaries, discharge instructions, patient message triage) now embedded in daily workflows of thousands of clinicians across the health system.",
+        "Achieved sustained >90% auto-accept rates and saved >42,000 clinician hours in the first year alone by automating repetitive, high-volume, low-risk documentation tasks that previously consumed up to 40% of nursing shift time.",
+        "Built and productionized a real-time Databricks feedback pipeline that ingested usage telemetry and qualitative signals, cutting iteration cycles from months to days and directly supplying continuous prompt, retrieval, and UX optimization.",
+        "Led technical integrations of GenAI agents with Epic, Best Buy Health RPM, and UiPath RPA platforms while implementing rigorous regulatory compliance and guardrails."
+      ]
+    }
+        /*{
       "name": "Manifold Research",
       "position": "Consulting AI/ML Product Manager",
       "url": "https://www.manifoldrg.com",
@@ -254,8 +318,8 @@
         "Hosted bi-weekly technical seminars and provided regular updates on open-source initiatives, doubling the core team size.",
         "Boosted community engagement by 60% in under 6 months through targeted research initiatives and strategic communication efforts."
       ]
-    },
-    {
+    },*/
+       /*{
       "name": "Covalent Metrology",
       "position": "Consulting AI/ML Product Director",
       "url": "https://covalentmetrology.com/",
@@ -265,8 +329,8 @@
       "highlights": [
         "Created an AI/ML product strategy and roadmap for Covalent Metrology, an analytical services leader delivering rapid, expert materials characterization and failure analysis via advanced instrumentation."
       ]
-    },
-    {
+    },*/
+        /*{
       "name": "JASCI Software",
       "position": "Consulting AI/ML Product Leader",
       "url": "https://www.jascicloud.com/",
@@ -282,8 +346,8 @@
         "Spearheaded robotic and automated warehouse system integrations (AMRs, conveyors, WCS layer).",
         "Conducted in-depth data analysis using complex SQL queries to produce performance and cost benchmarks."
       ]
-    },
-    {
+    },*/
+        /*{
       "name": "Labcorp",
       "position": "Associate Technical Product Manager",
       "url": "https://www.labcorp.com/",
@@ -295,8 +359,8 @@
         "Managed a $200K+ global investigator training initiative, tailoring materials based on client feedback and achieving high satisfaction scores.",
         "Implemented and optimized compliance tracking processes that reduced audit preparation time and increased global regulatory compliance."
       ]
-    },
-    {
+    },*/
+        /*{
       "name": "UW-Madison School of Medicine and Public Health",
       "position": "Technical Product Manager & Researcher (Part-Time)",
       "url": "https://www.wisc.edu/",
@@ -309,8 +373,8 @@
         "Led discovery with cardiologists and heart-failure patients; translated unmet needs into prioritized requirements that increased therapeutic efficacy 2.4× in pre-clinical models.",
         "Built a go-to-market narrative, setting the stage for grant and industry funding by linking technical milestones directly to patient outcomes and an $800M+ addressable market."
       ]
-    },
-    {
+    }*/
+        /*{
       "name": "UW-Madison School of Computer Science",
       "position": "Software Engineer",
       "url": "https://www.wisc.edu/",
@@ -322,8 +386,8 @@
         "Engineered secure, API-driven backends and responsive front-end interfaces, enabling integrations with third-party services and reducing error rates.",
         "Partnered with product and design teams to launch user-centric features, increasing engagement and retention while maintaining accessibility and compliance standards."
       ]
-    },
-    {
+    },*/
+        /*{
       "name": "Merck Group",
       "position": "Associate Research Scientist",
       "url": "https://www.emdgroup.com/en",
@@ -336,8 +400,8 @@
         "Contributed to method development and analytical evaluations across various stages of drug production, driving process improvements and enhanced reproducibility of products.",
         "Participated in safety audits, cross-functional documentation updates, and knowledge transfer efforts—helping onboard new personnel and standardize best practices in pharmaceutical production."
       ]
-    },
-    {
+    },*/
+        /*{
       "name": "Gallify",
       "position": "Consulting Chief Technology Officer",
       "url": "",
@@ -350,7 +414,7 @@
         "Served as a Scrum Master and the primary technical decision-maker, accelerating development cycles and streamlining team workflows through structured sprints and async updates.",
         "Built and scaled internal operations by leading recruitment, creating hiring packages, and implementing financial/resource planning tools, contributing to team growth and operational efficiency."
       ]
-    }
+    }*/
   ],
   "volunteer": [
     {
@@ -383,7 +447,7 @@
       "summary": "",
       "highlights": []
     },
-    {
+        {
       "organization": "National Alliance on Mental Illness",
       "location": "Milwaukee",
       "position": "Volunteer",
@@ -393,7 +457,7 @@
       "summary": "",
       "highlights": []
     },
-    {
+            {
       "organization": "Madison Area Technical College",
       "location": "Madison",
       "position": "Volunteer",
@@ -403,7 +467,7 @@
       "summary": "",
       "highlights": []
     },
-    {
+            {
       "organization": "SSM Health",
       "location": "Madison",
       "position": "Volunteer",
@@ -413,7 +477,7 @@
       "summary": "",
       "highlights": []
     },
-    {
+            {
       "organization": "Boy Scouts of America",
       "location": "Milwaukee",
       "position": "Volunteer",
@@ -423,7 +487,7 @@
       "summary": "",
       "highlights": []
     },
-    {
+            {
       "organization": "Ronald McDonald House Charities",
       "location": "Madison",
       "position": "Volunteer",
@@ -435,7 +499,7 @@
     }
   ],
   "education": [
-    {
+        {
       "institution": "Elmbrook Schools",
       "location": "Elm Grove",
       "url": "https://www.elmbrookschools.org/",
@@ -449,7 +513,7 @@
         "Honor Roll"
       ]
     },
-    {
+        {
       "institution": "The University of Colorado, Boulder, School of Engineering",
       "location": "Boulder",
       "url": "https://www.colorado.edu/",
@@ -463,7 +527,7 @@
         "Dean's List"
       ]
     },
-    {
+            {
       "institution": "UW-Madison School of Medicine and Public Health",
       "location": "Madison",
       "url": "https://www.wisc.edu/",
@@ -483,7 +547,7 @@
         "Dean's List"
       ]
     },
-    {
+        {
       "institution": "The University of Texas at Austin",
       "location": "Austin",
       "url": "https://www.utexas.edu/",
@@ -497,7 +561,7 @@
         "Dean's List"
       ]
     },
-    {
+        {
       "institution": "Carnegie Mellon University",
       "location": "Pittsburgh",
       "url": "https://www.cmu.edu/",
@@ -513,7 +577,7 @@
         "Dean's List"
       ]
     },
-    {
+        {
       "institution": "Harvard University",
       "location": "Boston",
       "url": "https://www.mit.edu/",
