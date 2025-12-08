@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Chief Product Officer @ Aurifex</a>  |  Carnegie Mellon University
+subtitle: <a href='#'>AI/ML Consultant @ Aurifex</a>  |  Carnegie Mellon University
 
 profile:
   align: right
@@ -25,18 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-TL;DR: Technical Product Leader who ships AI/ML solutions at scale, from pediatric brain-cancer detection to Epic-integrated GenAI that reclaimed >42,000 clinician hours in the first year, as well as recommender systems for creator marketplaces and e-commerce listings.
-
-- Built and launched a multiomics analysis platform at Aurifex with 48 advanced tools across genomic, transcriptomic, proteomic, epigenomic, single-cell, and metabolomic workflows; achieved 25% month-over-month user growth with 70% three-month retention, secured seed funding, and delivered 100% of core features on schedule while reducing average feature cycle time by 40%.
-
-- Currently own product vision and roadmap at UT-Austin for a multi-stage deep-learning platform that ingests whole-slide images, predicts 8+ molecular biomarkers, and delivers >95% accurate pediatric brain tumor diagnosis and subtyping while cutting inference time from 18 minutes to under 3 minutes per slide.
-
-- Launched several Azure agentic workflows on Epic EHR at UW Health now used daily by thousands of clinicians; hit sustained >90% auto-accept rates and saved >42,000 clinician hours in the first year by automating high-volume documentation workflows.
-
-- Built and productionized a real-time Databricks feedback pipeline at UW Health that reduced iteration cycles from months to days and drove continuous prompt, retrieval, and UX optimization across the entire AI stack.
-
-- Shaped Workday’s global AI/ML roadmap for 70M+ users; delivered a 50+ vendor market map and surfaced 8 high-yield strategic partnerships that unlocked multi-year co-development deals and accelerated public roadmap commitments.
-
-- Doubled customer retention and drove material GMV uplift as Technical Product Director of CODAworx’s two-sided creator marketplace through self-service onboarding, A/B-tested transaction flows, and analytics-driven personalization, including AI ranking models that improved creator–project match rates and repeat commissions.
-
-- Owned product strategy and roadmap for a regenerative cardiac-tissue therapy platform at UW-Madison; shipped analytics tools that cut experimental processing time 60%, increased reproducibility 40%, co-authored an American Heart Association-cited publication, and positioned the product for pre-clinical validation and industry partnerships.
+TL;DR: Technical Product Leader who builds AI/ML systems at scale.   Recognized for technical expertise, relentless user focus and cross-functional leadership.   Achieved turning  complex domains into products that people adopt and retain.    
