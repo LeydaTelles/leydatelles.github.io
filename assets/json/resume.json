@@ -24,153 +24,17 @@
   },
   "work": [
     {
-      "name": "The University of Texas at Austin",
-      "position": "Graduate Teaching Assistant, AI/ML (Part-Time)",
-      "url": "https://www.utexas.edu/",
-      "startDate": "2023",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Conducting office hours and tutoring sessions with students to ensure their success in AI/ML courses.",
-        "Grading assignments and providing constructive feedback, helping students understand their strengths and areas for improvement.",
-        "Collaboarting with faculty to improve course materials, integrating the latest research and instructional methods.", 
-        "Mentoring students and fostoring an inclusive learning environment, encouraging curiosity, critical thinking, and a passion for AI/ML."
-      ]
-    },
-    {
-      "name": "Carnegie Mellon University, School of Computer Science",
-      "position": "Founder, AI@CMU",
-      "url": "https://www.cmu.edu/",
-      "startDate": "2022",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Co-founded and shaped the strategic direction of AI@CMU, a student- and alumni-led initiative focused on expanding access to AI/ML education, hands-on tooling, and career development.",
-        "Leading workshops, speaker events, and mentorship programs to equip students with practical AI/ML skills using industry-relevant tools and frameworks.",
-        "Building partnerships with faculty, research labs, and tech companies to connect members with resources, projects, and applied learning opportunities in AI/ML."
-      ]
-    },
-    {
-      "name": "UW-Madison School of Medicine and Public Health",
-      "position": "Founding Board Member, International Society for Regnerative Medicine",
-      "url": "http://www.ssscr.org/",
-      "startDate": "2017",
-      "endDate": "2023",
-      "summary": "",
-      "highlights": [
-        "Co-founded and provided advisory support on the vision, mission, and goals of the International Society for Regenerative Medicine.",
-        "Led global technology initiatives including webinars and conferences aimed at showcasing novel regenerative medicine research.",
-        "Provided operational support for the organization, helping recruit members, grow support for organizational initiatives, and scale its overall impact."
-      ]
-    },
-    {
       "name": "Aurifex",
-      "position": "Chief Executive Officer & Founder, Product Management",
-      "url": "https://www.linkedin.com/company/81462503/admin/dashboard/",
-      "startDate": "2017",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Leading the cross-functional delivery of AI/ML solutions across Fortune 500 and nonprofit organizations, accelerating innovation and reducing time-to-ROI.",
-        "Translating complex stakeholder needs into product roadmaps and scalable architectures that aligned with mission-critical business objectives.",
-        "Overseeing multi-team agile delivery cycles, managing scope, cost, and risk while ensuring high client satisfaction and measurable outcomes.",
-        "Driving strategic portfolio planning and governance, enabling data-informed prioritization and resource allocation to boost operational efficiency across product streams."
-      ]
-    },
-    {
-      "name": "Carnegie Mellon University, School of Computer Science",
-      "position": "AI/ML Research Scientist, Neuroscience",
-      "url": "https://www.cmu.edu/",
-      "startDate": "2022",
-      "endDate": "2025",
-      "summary": "",
-      "highlights": [
-        "Investigated neural and computational mechanisms of personality disorders, focusing on emotion regulation, social cognition, and decision-making.",
-        "Conducted behavioral and neuroimaging studies with clinical and non-clinical participants to identify neural and behavioral biomarkers.",
-        "Integrated insights from neuroscience, psychology, and computational modeling (e.g. AI/ML) to advance mechanistic understanding and inform intervention design.",
-        "Collaborated with interdisciplinary teams to connect brain-based mechanisms with personality and psychopathology.",
-        "Disseminated findings through publications, conferences, and translational tools that support clinical and scientific innovation."
-      ]
-    },
-    {
-      "name": "The University of Texas at Austin",
-      "position": "Senior Technical Product Manager & Research Scientist, AI/ML (Part-Time)",
-      "url": "https://www.utexas.edu/",
-      "startDate": "2025",
-      "endDate": null,
-      "summary": "",
-      "highlights": [
-        "Own product vision and roadmap for a multi-stage deep-learning pipeline that processes whole-slide pathology images, predicts 8+ molecular biomarkers, and delivers >95% accurate pediatric brain tumor diagnosis and subtyping across several major cancer types.",
-        "Lead 4 software engineers to ship sequential production-grade models (tile extractor, patch classifier, slide aggregator, biomarker regressor), cutting end-to-end inference time from 18 minutes to under 3 minutes per slide while boosting AUC from 0.89 to 0.97.",
-        "Established weekly clinician feedback loops with pathologists, driving 6 major iteration cycles that reduced critical false-negative rates by 68% and achieved 92% oncologist-reported trust score.",
-        "Translated complex neuropathology requirements into PRDs and acceptance criteria; aligned pediatric pathologists and engineering stakeholders, positioning the product for IRB approval and future clinical trial integration."
-      ]
-    },
-    {
-      "name": "Perplexity",
-      "position": "AI/ML Fellowship",
-      "url": "https://www.perplexity.ai/",
-      "startDate": "2025",
-      "endDate": "2025",
-      "summary": "",
-      "highlights": [
-        "Learned the best practices of designing, developing and scaling AI/ML systems."
-      ]
-    },
-    {
-      "name": "CODAworx",
-      "position": "Technical Product Director",
-      "url": "https://codaworx.com/",
-      "startDate": "2022",
-      "endDate": "2023",
-      "summary": "Built and scaled a SaaS eCommerce platform that connects art buyers and commissioners with creators, redefining how artists expand their reach and monetize their artwork.",
-      "highlights": [
-        "Owned full product lifecycle for a two-sided eCommerce marketplace connecting artists with commissioners and buyers; led an 8-person cross-functional team from vision through scaled revenue growth.",
-        "Doubled customer retention by designing and shipping self-service onboarding, in-app guidance, and personalized outreach flows informed by cohort analysis and NPS feedback.",
-        "Redesigned core inventory, RFP, and transaction workflows using A/B testing and real-time analytics; reduced fulfillment tension by 40%+ and drove material GMV uplift.",
-        "Established product-led growth discipline (analytics instrumentation, funnel optimization, experimentation cadence) that solidified CODAworx as the category-leading platform for public art commissions."
-      ]
-    },
-    {
-      "name": "CODAworx",
-      "position": "Technical Product Manager",
-      "url": "https://codaworx.com/",
-      "startDate": "2021",
-      "endDate": "2022",
-      "summary": "Built and scaled a SaaS eCommerce platform that connects art buyers and commissioners with creators, redefining how artists expand their reach and monetize their artwork.",
-      "highlights": [
-        "Owned full product lifecycle for a two-sided eCommerce marketplace connecting artists with commissioners and buyers; led an 8-person cross-functional team from vision through scaled revenue growth.",
-        "Doubled customer retention by designing and shipping self-service onboarding, in-app guidance, and personalized outreach flows informed by cohort analysis and NPS feedback.",
-        "Redesigned core inventory, RFP, and transaction workflows using A/B testing and real-time analytics; reduced fulfillment tension by 40%+ and drove material GMV uplift.",
-        "Established product-led growth discipline (analytics instrumentation, funnel optimization, experimentation cadence) that solidified CODAworx as the category-leading platform for public art commissions."
-      ]
-    },
-    {
-      "name": "Gallify",
-      "position": "Chief Product Officer",
-      "url": "https://www.linkedin.com/company/gallify/about/",
-      "startDate": "2016",
-      "endDate": "2021",
-      "highlights": [
-        "Built core AR/VR features using Solidity smart contracts, Apple ARKit, and Object Capture, shipping 3+ major releases that enabled NFT marketplace transactions and immersive gallery experiences for iOS users.",
-        "Led a team of 8–10 engineers across 4 sub-teams and 6 concurrent projects, establishing sprint cadences and one-on-ones that improved on-time delivery from roughly 60% to 85% and reduced average bug resolution time by about 35%.",
-        "Served as Scrum Master and primary technical decision maker, setting product priorities and engineering standards that increased team velocity by roughly 30% while keeping scope and budget within 10% of projections.",
-        "Owned full cycle hiring from sourcing to onboarding, growing the engineering team from 3 to 10+ engineers and reducing time to productivity for new hires by about 25% through structured onboarding and documentation.",
-        "Managed engineering deliverables across time, scope, and cost, delivering all 6 active projects on schedule with an average variance of under 8% from initial estimates while maintaining quality standards that kept production incidents below 2% of deployments."
-      ]
-    },
-    {
-      "name": "Aurifex",
-      "position": "Chief Product Officer",
+      "position": "Chief Product Officer, AI/ML",
       "url": "https://main.d2yhmv6w0o7y6r.amplifyapp.com/",
       "startDate": "2025",
       "endDate": null,
+      "summary": "",
       "highlights": [
-        "Led product development from zero to launch, shipping 6+ advanced analysis tools across multi -omics workflows with 100 percent of core features delivered on schedule and an average feature cycle time under three weeks.",
-        "Grew the user base by roughly 20 to 25 percent month over month in the early stage, while maintaining about 70 percent three month retention through rapid, feedback driven iteration.",
-        "Secured seed funding, translating deep technical work in genomics and AI into clear business value and landing several strategic pilot and design partner relationships.",
-        "Built and managed a cross-functional team of 4 to 6 engineers and designers, implementing lightweight processes that cut average time to ship new features by about 40 percent and reduced production level bugs by around 30 percent.",
-        "Used product analytics, experiment results, and direct customer interviews to prioritize the roadmap, driving roughly 35 percent improvement in key engagement metrics and reducing early churn by about 20 percent."
+        "Led product development from zero to launch.",
+        "Grew engagement by 25% month over month while maintaining about 70% three-month retention through rapid, feedback driven iteration.",
+        "Translating deep technical work in multiomics and AI into clear business value and landing several strategic pilot relationships.",
+        "Built and managed a cross-functional team of 6 engineers and designers, implementing processes that cut average time to ship new features by 40 percent and reduced production level bugs by 30 percent."
       ]
     },
     {
@@ -179,59 +43,18 @@
       "url": "https://www.uwhealth.org/",
       "startDate": "2023",
       "endDate": "2025",
-      "summary": "Built and scaled healthcare IT products (Best Buy Health RPM, Apple Health, Epic Systems, Azure OpenAI, UiPath RPA, Stryker, Vocera, MacOS, GenAI, AI/ML) to reduce clinician burnout, costs, enterprise risk, and improve the quality of healthcare.",
+      "summary": "Conceived, developed, and commercialized premier AI/Epic technology which revolutionized quality of care at Wisconsin’s largest provider, lowering costs while also minimizing provider burn-out. Spearheaded initial research to uncover unmet needs, proposed solution, gained agreement across large, highly matrixed organization, and won approval to move forward. Successfully launched product. Highlights Include:",
       "highlights": [
-        "Owned and shipped a 50+ use-case GenAI roadmap on Epic EHR; successfully launched three production Azure OpenAI agents (medication reconciliation summaries, discharge instructions, patient message triage) now embedded in daily workflows of thousands of clinicians across the health system.",
-        "Achieved sustained >90% auto-accept rates and saved >42,000 clinician hours in the first year alone by automating repetitive, high-volume, low-risk documentation tasks that previously consumed up to 40% of nursing shift time.",
+        "Entrusted to audit and understand the current state of AI within UW Medical System. Collected and evaluated 50+ Use Cases in order to identify the biggest customer pain points. Presented findings to Senior Leadership and Executive Stakeholders in order to fuel progress with AI initiatives. Resulted in gaining ownership of UW’s AI/ML Roadmap.",
+        "Achieved record-setting engagement of >90%.",
+        "Saved >42,000 clinician hours in the first year alone by automating tasks that previously consumed up to 40% of nursing shift time.",
         "Built and productionized a real-time Databricks feedback pipeline that ingested usage telemetry and qualitative signals, cutting iteration cycles from months to days and directly supplying continuous prompt, retrieval, and UX optimization.",
         "Led technical integrations of GenAI agents with Epic, Best Buy Health RPM, and UiPath RPA platforms while implementing rigorous regulatory compliance and guardrails."
       ]
     },
     {
-      "name": "Sendik's Food Market",
-      "position": "Assistant Manager",
-      "url": "https://www.sendiksfinefoods.com/",
-      "startDate": "2014",
-      "endDate": "2017",
-      "summary": "",
-      "highlights": [
-        "Led store operations and team coordination across grocery, dairy, and frozen departments, improving stock availability and shelf compliance.",
-        "Implemented inventory control strategies that reduced shrink and spoilage by identifying ordering inefficiencies and optimizing backstock flow.",
-        "Trained and supervised grocery staff, enhancing customer service consistency and reducing labor turnover through team development initiatives (e.g. training courses).",
-        "Collaborated with regional vendors and corporate buyers to execute seasonal promotions and streamline product assortments, driving category sales."
-      ]
-    },
-    {
-      "name": "Grasch Foods Inc.",
-      "position": "Assistant Manager",
-      "url": "",
-      "startDate": "2012",
-      "endDate": "2014",
-      "summary": "",
-      "highlights": [
-        "Led store operations and team coordination across grocery, dairy, and frozen departments, improving stock availability and shelf compliance.",
-        "Implemented inventory control strategies that reduced shrink and spoilage by identifying ordering inefficiencies and optimizing backstock flow.",
-        "Trained and supervised grocery staff, enhancing customer service consistency and reducing labor turnover through team development initiatives (e.g. training courses).",
-        "Collaborated with regional vendors and corporate buyers to execute seasonal promotions and streamline product assortments, driving category sales."
-      ]
-    },
-    {
-      "name": "Boy Scouts of America",
-      "position": "Senior Patrol Leader",
-      "url": "https://www.scouting.org/",
-      "startDate": "2012",
-      "endDate": "2016",
-      "summary": "",
-      "highlights": [
-        "Elected as the highest-ranking youth leader, overseeing the entire troop’s operations of 20+ scouts, including planning, delegation, and execution of troop activities and meetings.",
-        "Coordinated and supervised the Patrol Leaders’ Council (PLC), setting agendas and facilitating decision-making for troop-wide events, training, and progression.",
-        "Led troop-wide communications, representing youth interests in collaboration with adult leaders to align programming with the BSA’s values and goals.",
-        "Developed and coached emerging youth leaders, cultivating a culture of responsibility, initiative, and servant leadership across all patrols."
-      ]
-    },
-    {
       "name": "Workday",
-      "position": "Senior Product Management Consultant, AI/ML",
+      "position": "MBA Capstone Project, Carngeie Mellon University",
       "url": "https://www.workday.com/",
       "startDate": "2024",
       "endDate": "2025",
@@ -243,112 +66,30 @@
       ]
     },
     {
-      "name": "Manifold Research",
-      "position": "Consulting AI/ML Product Manager",
-      "url": "https://www.manifoldrg.com",
-      "startDate": "2024",
-      "endDate": "2025",
-      "summary": "Built and scaled AI/ML products that reduced costs and enhanced the operability of emerging technologies for academic and enterprise organizations.",
-      "highlights": [
-        "Recruited and led a cross-functional global research team, leveraging agile methodologies to develop and launch open-source AI/ML products that cut costs through model optimization and innovative research methods.",
-        "Hosted bi-weekly technical seminars and provided regular updates on open-source initiatives, doubling the core team size.",
-        "Boosted community engagement by 60% in under 6 months through targeted research initiatives and strategic communication efforts."
-      ]
-    },
-    {
-      "name": "Covalent Metrology",
-      "position": "Consulting AI/ML Product Director",
-      "url": "https://covalentmetrology.com/",
-      "startDate": "2025",
-      "endDate": "2025",
-      "summary": "",
-      "highlights": [
-        "Created an AI/ML product strategy and roadmap for Covalent Metrology, an analytical services leader delivering rapid, expert materials characterization and failure analysis via advanced instrumentation."
-      ]
-    },
-    {
-      "name": "JASCI Software",
-      "position": "Consulting AI/ML Product Leader",
-      "url": "https://www.jascicloud.com/",
-      "startDate": "2022",
-      "endDate": "2024",
-      "summary": "",
-      "highlights": [
-        "Led full-cycle WMS and WCS implementations for Fortune 500 clients with up to 10X efficiency improvement.",
-        "Delivered 8 major WMS/WCS implementation projects resulting in significant client ROI and operational gains.",
-        "Reduced picking time by 70% through WCS integration, increased warehouse throughput by 300% via automation.",
-        "Supervised industrial engineering team and served as project lead for multi-million-dollar logistics solutions.",
-        "Designed scalable, repeatable WMS implementations to support rapid customer onboarding and growth.",
-        "Spearheaded robotic and automated warehouse system integrations (AMRs, conveyors, WCS layer).",
-        "Conducted in-depth data analysis using complex SQL queries to produce performance and cost benchmarks."
-      ]
-    },
-    {
-      "name": "Labcorp",
-      "position": "Associate Technical Product Manager",
-      "url": "https://www.labcorp.com/",
+      "name": "CODAworx",
+      "position": "Technical Product Director, AI/ML",
+      "url": "https://www.codaworx.com",
       "startDate": "2021",
-      "endDate": "2022",
-      "summary": "Co-led product launches and compliance initiatives for high-budget pharmaceuticals, ensuring regulatory compliance and boosting client market share.",
+      "endDate": "2023",
+      "summary": "Recruited to be a part of original team that conceived, created, developed and launched the first consumer marketplace for commissioned artists. Spearheaded every stage of product concept to commercialization including both front-end and back-end operations. Established analytics instrumentation, funnel optimization, and experimentation cadence that positioned CODAworx as the category-leading platform for public art commissions. Led, influenced and managed cross-functional team. Drove technical development with a focus on integrating ML. Highlights Include:",
       "highlights": [
-        "Co-led cross-functional teams of 35+ associates to launch 2 pharmaceutical products with a $20M+ budget, boosting client market share.",
-        "Managed a $200K+ global investigator training initiative, tailoring materials based on client feedback and achieving high satisfaction scores.",
-        "Implemented and optimized compliance tracking processes that reduced audit preparation time and increased global regulatory compliance."
-      ]
-    },
-    {
-      "name": "UW-Madison School of Medicine and Public Health",
-      "position": "Technical Product Manager & Researcher (Part-Time)",
-      "url": "https://www.wisc.edu/",
-      "startDate": "2016",
-      "endDate": "2021",
-      "summary": "",
-      "highlights": [
-        "Owned product strategy and roadmap for regenerative cardiac tissue therapies; defined clinical success metrics and prioritized features that turned research breakthroughs into pre-clinical assets ready for FDA pathway and commercialization.",
-        "Shipped data and analytics products (custom Python/R, instrumentation pipelines) that cut experimental processing time 63%, boosted reproducibility scores 41%, and became the standard workflow cited by the American Heart Association and 30+ institutions.",
-        "Led discovery with cardiologists and heart-failure patients; translated unmet needs into prioritized requirements that increased therapeutic efficacy 2.4× in pre-clinical models.",
-        "Built a go-to-market narrative, setting the stage for grant and industry funding by linking technical milestones directly to patient outcomes and an $800M+ addressable market."
-      ]
-    },
-    {
-      "name": "UW-Madison School of Computer Science",
-      "position": "Software Engineer",
-      "url": "https://www.wisc.edu/",
-      "startDate": "2019",
-      "endDate": "2021",
-      "summary": "",
-      "highlights": [
-        "Delivered scalable, high-performance web applications that improved load times and supported traffic growth.",
-        "Engineered secure, API-driven backends and responsive front-end interfaces, enabling integrations with third-party services and reducing error rates.",
-        "Partnered with product and design teams to launch user-centric features, increasing engagement and retention while maintaining accessibility and compliance standards."
-      ]
-    },
-    {
-      "name": "Merck Group",
-      "position": "Associate Research Scientist",
-      "url": "https://www.emdgroup.com/en",
-      "startDate": "2019",
-      "endDate": "2021",
-      "summary": "",
-      "highlights": [
-        "Developed and optimized pharmaceutical production protocols, applying informatics and analytical chemistry to support the formulation and scale-up of new chemical artifacts.",
-        "Executed high-precision chemical manufacturing procedures in both lab-scale and large-scale environments, ensuring compliance with GMP and internal quality standards.",
-        "Contributed to method development and analytical evaluations across various stages of drug production, driving process improvements and enhanced reproducibility of products.",
-        "Participated in safety audits, cross-functional documentation updates, and knowledge transfer efforts—helping onboard new personnel and standardize best practices in pharmaceutical production."
+        "Created and implemented AI recommender system that improved project match rates by 20% and increased repeat bookings by 15%.",
+        "Doubled customer retention by designing and shipping self-service onboarding, in-app guidance, and personalized outreach flows via cohort analysis and NPS feedback.",
+        "Managed back-end, supply chain functions. Redesigned core inventory, RFP, and transaction workflows using A/B testing and real-time analytics. Resulted in improving fulfillment time by 40%."
       ]
     },
     {
       "name": "Gallify",
-      "position": "Consulting Chief Technology Officer",
-      "url": "",
-      "startDate": "2017",
-      "endDate": "2019",
+      "position": "Chief Product Officer, AI/ML",
+      "url": null,
+      "startDate": "2016",
+      "endDate": "2021",
       "summary": "",
       "highlights": [
-        "Led the development and deployment of blockchain-integrated AR features using Solidity, Apple ARKit, Object Capture API, and GCP, enabling real-time NFT creation and interactive gallery experiences.",
-        "Oversaw 6 concurrent projects across 4 engineering teams of 10+ associates, driving on-time delivery and aligning product milestones with strategic objectives.",
-        "Served as a Scrum Master and the primary technical decision-maker, accelerating development cycles and streamlining team workflows through structured sprints and async updates.",
-        "Built and scaled internal operations by leading recruitment, creating hiring packages, and implementing financial/resource planning tools, contributing to team growth and operational efficiency."
+        "Hand-picked to be part of an AI-Startup.",
+        "Based on technical skills and leadership/teamwork abilities, progressed to CPO.",
+        "Resulted in designing/launching an AI recommender and analytics system for e-commerce listings that increased click-through rate by 20% and boosted average order value by 10%.",
+        "Designed, built and launched the platform 0 à 1, ahead of schedule."
       ]
     }
   ],
@@ -516,7 +257,7 @@
     {
       "institution": "Harvard University",
       "location": "Boston",
-      "url": "https://www.mit.edu/",
+      "url": "https://www.harvard.edu/",
       "area": "Healthcare",
       "studyType": "Executive Program for Global Healthcare Leadership",
       "startDate": null,
