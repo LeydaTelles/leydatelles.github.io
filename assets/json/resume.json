@@ -58,9 +58,8 @@
       "url": "https://www.workday.com/",
       "startDate": "2024",
       "endDate": "2025",
-      "summary": "Contributed to Workday's ML/AI product roadmap by identifying scalable solutions that reduce costs, mitigate enterprise risk, and enhance the user experience for 70M+ users globally.",
+      "summary": "Shaped Workday’s global AI/ML product strategy regarding Accessibility. Conducted extensive customer and competitive analysis and research which resulted in creating and prioritizing high-impact solutions that segmented users, reduced costs, lowered enterprise risk, and improved UX for 70M+ end users worldwide. Resulted in influencing and informing the direction of Workday’s Accessibility AI roadmap.",
       "highlights": [
-        "Shaped Workday’s global AI/ML product strategy by identifying and prioritizing high-impact solutions that reduced cost, lowered enterprise risk, and improved UX for 70M+ end users worldwide.",
         "Built and delivered a comprehensive market map of 50+ AI vendors; surfaced 8 strategic partnerships that aligned directly with Workday’s platform goals and unlocked multi-year co-development opportunities.",
         "Led a 6-month cross-functional research initiative with design, engineering, and exec leadership; drove iterative prioritization, synthesized insights into executive artifacts, and presented recommendations to customers and internal stakeholders, substantially increasing buy-in and accelerating Workday’s public AI roadmap."
       ]
@@ -195,7 +194,7 @@
       "location": "Boulder",
       "url": "https://www.colorado.edu/",
       "area": "Computational Data Science",
-      "studyType": "Master of Science (MSc)",
+      "studyType": "Master of Engineering (MEng)",
       "startDate": null,
       "endDate": null,
       "score": "10",
@@ -266,6 +265,19 @@
       "courses": [
         "Academic Merit Scholarship"
       ]
+    },
+    {
+      "institution": "Columbia University",
+      "location": "New York City",
+      "url": "https://www.columbia.edu/",
+      "area": "Healthcare, Management Science and Engineering",
+      "studyType": "Chief Executive Officer and Global Healthcare Leadership Professional Program",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "Academic Merit Scholarship"
+      ]
     }
   ],
   "awards": [
@@ -286,7 +298,7 @@
     {
       "title": "Academic Merit Scholarship",
       "date": "",
-      "awarder": "The Massachusetts Institute of Technology",
+      "awarder": "Columbia University",
       "url": "",
       "summary": ""
     },
