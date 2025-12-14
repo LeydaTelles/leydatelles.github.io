@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Chief Product Officer, AI/ML @ Aurifex</a>  |  Carnegie Mellon University
+subtitle: <a href='#'>Chief Product Officer @ Aurifex Biosciences</a>  |  Yale University
 
 profile:
   align: right

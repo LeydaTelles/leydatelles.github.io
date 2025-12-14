@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Luke Profio",
-    "label": "Chief Product Officer, AI/ML @ Aurifex",
+    "label": "Chief Product Officer @ Aurifex Biosciences",
     "image": "",
     "email": "luke@profio.us",
     "phone": "(414) 373-8267",
@@ -98,6 +98,16 @@
       "location": "Egypt",
       "position": "Member",
       "url": "https://www.mensa.org/",
+      "startDate": null,
+      "endDate": null,
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "AI@CMU",
+      "location": "Pittsburgh",
+      "position": "Founder",
+      "url": null,
       "startDate": null,
       "endDate": null,
       "summary": "",
@@ -241,7 +251,7 @@
       "institution": "Carnegie Mellon University",
       "location": "Pittsburgh",
       "url": "https://www.cmu.edu/",
-      "area": "Healthcare, Management Science and Engineering",
+      "area": "Management Science and Engineering",
       "studyType": "Master of Business Administration (MBA)",
       "startDate": null,
       "endDate": null,
@@ -254,11 +264,11 @@
       ]
     },
     {
-      "institution": "Columbia University",
-      "location": "New York City",
-      "url": "https://www.columbia.edu/",
-      "area": "Healthcare, Management Science and Engineering",
-      "studyType": "Chief Executive Officer and Global Healthcare Leadership Professional Program",
+      "institution": "Yale University",
+      "location": "New Haven",
+      "url": "https://www.yale.edu/",
+      "area": "Management Science and Engineering",
+      "studyType": "Global Executive Leadership Program (YGELP)",
       "startDate": null,
       "endDate": null,
       "score": "10",
@@ -285,7 +295,7 @@
     {
       "title": "Academic Merit Scholarship",
       "date": "",
-      "awarder": "Columbia University",
+      "awarder": "Yale University",
       "url": "",
       "summary": ""
     },
