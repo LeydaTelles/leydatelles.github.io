@@ -264,11 +264,11 @@
       ]
     },
     {
-      "institution": "Yale University",
-      "location": "New Haven",
-      "url": "https://www.yale.edu/",
+      "institution": "Stanford University",
+      "location": "San Francisco",
+      "url": "https://www.stanford.edu/",
       "area": "Management Science and Engineering",
-      "studyType": "Global Executive Leadership Program (YGELP)",
+      "studyType": "Stanford Executive Program (SEP)",
       "startDate": null,
       "endDate": null,
       "score": "10",
@@ -295,7 +295,7 @@
     {
       "title": "Academic Merit Scholarship",
       "date": "",
-      "awarder": "Yale University",
+      "awarder": "Stanford University",
       "url": "",
       "summary": ""
     },
