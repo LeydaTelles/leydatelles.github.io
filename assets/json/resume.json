@@ -264,11 +264,11 @@
       ]
     },
     {
-      "institution": "Stanford University",
-      "location": "San Francisco",
-      "url": "https://www.stanford.edu/",
+      "institution": "Harvard University",
+      "location": "Boston",
+      "url": "https://www.harvard.edu/",
       "area": "Management Science and Engineering",
-      "studyType": "Stanford Executive Program (SEP)",
+      "studyType": "Chief Executive Officer and Advanced Management Program (AMP)",
       "startDate": null,
       "endDate": null,
       "score": "10",
@@ -295,7 +295,7 @@
     {
       "title": "Academic Merit Scholarship",
       "date": "",
-      "awarder": "Stanford University",
+      "awarder": "Harvard University",
       "url": "",
       "summary": ""
     },
