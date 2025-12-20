@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Edward Profio",
+    "name": "Dr. Edward Profio",
     "label": "Chief Product Officer @ Aurifex Biosciences",
     "image": "",
     "email": "luke@profio.us",
@@ -26,7 +26,7 @@
     {
       "name": "Aurifex",
       "position": "Chief Product Officer, AI/ML",
-      "url": "https://main.d2yhmv6w0o7y6r.amplifyapp.com/",
+      "url": "https://main.d1kgg4ep6zv3b7.amplifyapp.com/",
       "startDate": "2025",
       "endDate": null,
       "summary": "",
@@ -106,8 +106,18 @@
     {
       "organization": "AI@CMU",
       "location": "Pittsburgh",
-      "position": "Founder",
-      "url": null,
+      "position": "Executive Director & Founder, AI/ML",
+      "url": "https://www.linkedin.com/company/cmuai/?viewAsMember=true",
+      "startDate": null,
+      "endDate": null,
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Aurifex Foundation",
+      "location": "San Francisco",
+      "position": "Executive Director & Founder, AI/ML",
+      "url": "https://www.linkedin.com/company/aurifexfoundation/about/?viewAsMember=true",
       "startDate": null,
       "endDate": null,
       "summary": "",
@@ -309,6 +319,13 @@
     {
       "title": "Academic Merit Scholarship",
       "date": "",
+      "awarder": "The University of Florida",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Academic Merit Scholarship",
+      "date": "",
       "awarder": "Harvard University",
       "url": "",
       "summary": ""
@@ -451,21 +468,21 @@
     {
       "name": "Artificial Intelligence",
       "date": "",
-      "issuer": "Stanford University School of Engineering",
+      "issuer": "Stanford University",
       "url": "https://engineering.stanford.edu/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Regenerative Medicine",
       "date": "",
-      "issuer": "UW-Madison School of Medicine and Public Health",
+      "issuer": "The University of Wisconsin, Madison",
       "url": "https://www.med.wisc.edu/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Surgery",
       "date": "",
-      "issuer": "UW-Madison School of Medicine and Public Health",
+      "issuer": "The University of Wisconsin, Madison",
       "url": "https://www.med.wisc.edu/",
       "icon": "fa-solid fa-clipboard-check"
     },
@@ -486,7 +503,7 @@
     {
       "name": "Product Management",
       "date": "",
-      "issuer": "Carnegie Mellon University, School of Computer Science",
+      "issuer": "Carnegie Mellon University",
       "url": "https://www.cmu.edu/",
       "icon": "fa-solid fa-clipboard-check"
     }
