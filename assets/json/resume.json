@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Luke Profio",
+    "name": "Edward Profio",
     "label": "Chief Product Officer @ Aurifex Biosciences",
     "image": "",
     "email": "luke@profio.us",
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "institution": "The University of Colorado, Boulder, School of Engineering",
+      "institution": "The University of Colorado, Boulder",
       "location": "Boulder",
       "url": "https://www.colorado.edu/",
       "area": "Computational Data Science",
@@ -214,10 +214,10 @@
       ]
     },
     {
-      "institution": "UW-Madison School of Medicine and Public Health",
+      "institution": "The University of Wisconsin, Madison",
       "location": "Madison",
       "url": "https://www.wisc.edu/",
-      "area": "Genetics",
+      "area": "Computational Biology and Genetics",
       "studyType": "Bachelor of Science (BSc)",
       "startDate": null,
       "endDate": null,
@@ -230,6 +230,20 @@
         "Distinctive Scholastic Achievement",
         "Regenerative Medicine Certificate",
         "Graduated in 3 Years",
+        "Dean's List"
+      ]
+    },
+    {
+      "institution": "The University of Florida",
+      "location": "Gainesville",
+      "url": "https://www.ufl.edu/",
+      "area": "Computational Neuroscience",
+      "studyType": "Doctor of Philosophy (PhD)",
+      "startDate": null,
+      "endDate": null,
+      "score": "10",
+      "courses": [
+        "Academic Merit Scholarship",
         "Dean's List"
       ]
     },
