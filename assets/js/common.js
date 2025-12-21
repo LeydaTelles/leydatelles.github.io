@@ -56,4 +56,22 @@ $(document).ready(function () {
   $('[data-toggle="popover"]').popover({
     trigger: "hover",
   });
+
+  // Navbar opacity on scroll
+  const navbar = $("#navbar");
+  const scrollThreshold = 50; // pixels scrolled before changing opacity
+
+  function handleNavbarScroll() {
+    if ($(window).scrollTop() > scrollThreshold) {
+      navbar.addClass("scrolled");
+    } else {
+      navbar.removeClass("scrolled");
+    }
+  }
+
+  // Check on page load
+  handleNavbarScroll();
+
+  // Check on scroll
+  $(window).on("scroll", handleNavbarScroll);
 });

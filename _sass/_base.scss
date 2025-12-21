@@ -248,6 +248,36 @@ ul.task-list input[type="checkbox"] {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  transition: opacity 0.3s ease, background-color 0.3s ease;
+  z-index: 1030; // Ensure navbar stays above all content
+}
+
+.navbar.scrolled {
+  opacity: 1;
+  background-color: var(--global-bg-color);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+// Ensure navbar is always visible and stays fixed
+.navbar.fixed-top,
+.navbar.sticky-top {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+
+// Ensure navbar nav items remain visible on desktop
+@media (min-width: 576px) {
+  .navbar-collapse:not(.show) {
+    display: flex !important;
+  }
+  
+  .navbar-nav {
+    visibility: visible !important;
+  }
 }
 
 .navbar .dropdown-menu {

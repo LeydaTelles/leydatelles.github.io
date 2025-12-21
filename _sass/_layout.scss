@@ -6,6 +6,7 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  position: relative;
 
   h1,
   h2,
@@ -15,6 +16,19 @@ body {
   h6 {
     scroll-margin-top: 66px;
   }
+}
+
+// Ensure content appears above particle background
+.container,
+footer {
+  position: relative;
+  z-index: 1;
+}
+
+// Ensure header/navbar stays visible
+header {
+  position: relative;
+  z-index: 1030;
 }
 
 body.fixed-top-nav {
