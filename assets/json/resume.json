@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Edward Profio",
-    "label": "Chief Product Officer @ Aurifex Biosciences",
+    "label": "Chief Executive Officer @ Aurifex Biosciences",
     "image": "",
     "email": "luke@profio.us",
     "phone": "(414) 373-8267",
@@ -25,16 +25,16 @@
   "work": [
     {
       "name": "Aurifex",
-      "position": "Chief Product Officer, AI/ML",
+      "position": "Chief Executive Officer, AI/ML (2025-Present); Chief Product Officer, AI/ML (2025)",
       "url": "https://main.d1kgg4ep6zv3b7.amplifyapp.com/",
       "startDate": "2025",
       "endDate": null,
-      "summary": "",
+      "summary": "Led product development from zero to launch. Grew engagement by 25% month over month while maintaining about 70% three-month retention through rapid, feedback driven iteration. Translating deep technical work in genomics and AI into clear business value and landing several strategic pilot relationships. Built and managed a cross-functional team of 6 engineers and designers, implementing processes that cut average time to ship new features by 40 percent and reduced production level bugs by 30 percent.",
       "highlights": [
-        "Led product development from zero to launch.",
-        "Grew engagement by 25% month over month while maintaining about 70% three-month retention through rapid, feedback driven iteration.",
-        "Translating deep technical work in multiomics and AI into clear business value and landing several strategic pilot relationships.",
-        "Built and managed a cross-functional team of 6 engineers and designers, implementing processes that cut average time to ship new features by 40 percent and reduced production level bugs by 30 percent."
+        "Led product development from zero to launch, shipping 48+ advanced analysis tools with all core features ahead of schedule.",
+        "Secured seed funding, translating genomics/AI work into business value and landing strategic pilots/design partners.",
+        "Built and managed a cross-functional team of 5 engineers and designers, cutting time to ship by ~40% and reducing bugs by ~30%.",
+        "Used analytics, experiments, and customer interviews to prioritize the roadmap, improving engagement by ~35% and reducing early churn by ~20%."
       ]
     },
     {
@@ -83,12 +83,13 @@
       "url": null,
       "startDate": "2016",
       "endDate": "2021",
-      "summary": "",
+      "summary": "Hand-picked to be part of an AI-Startup. Based on technical skills and leadership/teamwork abilities, progressed to CPO. Resulted in designing/launching an AI recommender system for e-commerce listings that increased click-through rate by 20% and boosted average order value by 10%.",
       "highlights": [
-        "Hand-picked to be part of an AI-Startup.",
-        "Based on technical skills and leadership/teamwork abilities, progressed to CPO.",
-        "Resulted in designing/launching an AI recommender and analytics system for e-commerce listings that increased click-through rate by 20% and boosted average order value by 10%.",
-        "Designed, built and launched the platform 0 à 1, ahead of schedule."
+        "Built core AR/VR features using Solidity smart contracts, Apple ARKit, and Object Capture, shipping 3+ major releases that enabled NFT marketplace transactions and immersive gallery experiences for iOS users.",
+        "Led a team of 8–10 engineers across 4 sub-teams and 6 concurrent projects, establishing sprint cadences and one-on-ones that improved on-time delivery from roughly 60% to 85% and reduced average bug resolution time by about 35%.",
+        "Served as Scrum Master and primary technical decision maker, setting product priorities and engineering standards that increased team velocity by roughly 30% while keeping scope and budget within 10% of projections.",
+        "Owned full cycle hiring from sourcing to onboarding, growing the engineering team from 3 to 10+ engineers and reducing time to productivity for new hires by about 25% through structured onboarding and documentation.",
+        "Managed engineering deliverables across time, scope, and cost, delivering all 6 active projects on schedule with an average variance of under 8% from initial estimates while maintaining quality standards that kept production incidents below 2% of deployments."
       ]
     }
   ],
@@ -106,22 +107,32 @@
     {
       "organization": "AI@CMU",
       "location": "Pittsburgh",
-      "position": "Executive Director & Founder, AI/ML",
-      "url": "https://www.linkedin.com/company/cmuai/?viewAsMember=true",
+      "position": "Executive Director, AI/ML",
+      "url": "https://main.d3v1a759runh8u.amplifyapp.com/",
       "startDate": null,
       "endDate": null,
-      "summary": "",
-      "highlights": []
+      "summary": "Establishing and scaling a student–alumni organization dedicated to fostering collaboration, education, and awareness around AI/ML research and applications across academia and industry.",
+      "highlights": [
+        "Founding the organization’s core structure, defining its mission, governance, and long-term strategy to connect research groups, alumni leaders, and industry practitioners.",
+        "Organizing and moderating technical workshops, research talks, and panel discussions with leading AI/ML experts, driving interdisciplinary engagement across disciplines.",
+        "Building partnerships with industry sponsors and research labs to support mentorship programs, hackathons, and recruitment pipelines for AI/ML-oriented career paths.",
+        "Expanding membership and event participation through outreach and educational initiatives, positioning AI@CMU as a central hub for applied AI/ML learning at Carnegie Mellon University."
+      ]
     },
     {
       "organization": "Aurifex Foundation",
       "location": "San Francisco",
-      "position": "Executive Director & Founder, AI/ML",
-      "url": "https://www.linkedin.com/company/aurifexfoundation/about/?viewAsMember=true",
+      "position": "Executive Director, AI/ML",
+      "url": "https://main.d394iy8jlgz9cs.amplifyapp.com/",
       "startDate": null,
       "endDate": null,
-      "summary": "",
-      "highlights": []
+      "summary": "Building and scaling open-source AI/ML and computational biology products that advance research reproducibility, model interpretability, and large-scale data analysis for academic and industry organizations.",
+      "highlights": [
+        "Architecting and shipping end-to-end pipelines for biological data analysis, model simulation, and cognitive system inference using Python, PyTorch, and cloud-based infrastructure.",
+        "Leading and mentoring a global, cross-functional research team of scientists, establishing agile processes, governance, and product roadmaps for scientific software.",
+        "Directing technical strategy for advanced model optimization, reducing compute costs while improving interpretability and cross-domain generalization of deployed models.",
+        "Expanding open-source community participation through strategic outreach, technical workshops, and research communication, strengthening the lab’s contributor base and impact."
+      ]
     },
     {
       "organization": "UW Health",
