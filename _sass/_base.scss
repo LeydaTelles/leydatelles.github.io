@@ -163,13 +163,10 @@ strong {
       display: none;
     }
 
-    // Add padding on larger screens where profile picture floats on the right
+    // Remove paragraph-level padding since article now has padding
+    // This prevents double padding
     @media (min-width: 992px) {
-      padding-right: calc(200px + 2rem);
-    }
-
-    @media (min-width: 1200px) {
-      padding-right: calc(250px + 2.5rem);
+      padding-right: 0;
     }
   }
 
@@ -438,6 +435,17 @@ ul.task-list input[type="checkbox"] {
 // Profile positioning on about page
 .post {
   position: relative;
+
+  // Add padding to article when profile is present to prevent overlap
+  article {
+    @media (min-width: 992px) {
+      padding-right: calc(200px + 3rem); // Account for profile width + spacing
+    }
+
+    @media (min-width: 1200px) {
+      padding-right: calc(250px + 3rem);
+    }
+  }
 }
 
 .profile {
@@ -516,7 +524,7 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Highlights section should span full width (no padding for profile picture)
+// Highlights section should span full width (article padding handles spacing)
 .post .clearfix {
   > p:nth-of-type(2),
   > ul {
