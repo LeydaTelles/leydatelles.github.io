@@ -18,6 +18,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+.post-header {
+  text-align: center;
+}
+</style>
+
 <span style="font-weight: bold; color: white;">Technical Product Leader</span> who builds AI/ML systems at scale. Recognized for technical expertise, relentless user focus, and cross-functional leadership. Achieved turning complex domains into products that people adopt and retain.
 
 Highlights:
