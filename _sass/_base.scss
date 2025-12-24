@@ -435,15 +435,26 @@ ul.task-list input[type="checkbox"] {
 // Profile positioning on about page
 .post {
   position: relative;
+  max-width: 100%; // Ensure post doesn't exceed container width
 
   // Add padding to article when profile is present to prevent overlap
+  // Constrain article width so content doesn't expand too far on wide screens
   article {
+    max-width: 100%; // Constrain to container width on mobile
+    position: relative;
+
+    // On desktop, constrain content width to leave room for profile picture
+    // The content area should be constrained to about 60-70% of container width
     @media (min-width: 992px) {
       padding-right: calc(200px + 3rem); // Account for profile width + spacing
+      // Constrain article content to prevent excessive expansion on wide screens
+      // This ensures content doesn't spread too wide even on large displays
+      max-width: calc(930px - 200px - 3rem); // Container width minus profile space
     }
 
     @media (min-width: 1200px) {
       padding-right: calc(250px + 3rem);
+      max-width: calc(930px - 250px - 3rem); // Container width minus larger profile space
     }
   }
 }
@@ -493,7 +504,7 @@ ul.task-list input[type="checkbox"] {
   margin: 0 auto 2rem auto;
   z-index: 10;
 
-  // On larger screens, position absolutely in top right
+  // On larger screens, position absolutely in top right of article
   @media (min-width: 992px) {
     position: absolute;
     float: none;
@@ -501,10 +512,13 @@ ul.task-list input[type="checkbox"] {
     right: 0;
     width: 200px;
     margin: 0;
+    // Ensure profile stays within article bounds (max-width: 930px - padding)
+    max-width: 200px;
   }
 
   @media (min-width: 1200px) {
     width: 250px;
+    max-width: 250px;
   }
 }
 
