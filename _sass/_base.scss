@@ -442,19 +442,19 @@ ul.task-list input[type="checkbox"] {
   article {
     max-width: 100%; // Constrain to container width on mobile
     position: relative;
+    box-sizing: border-box; // Ensure padding is included in width calculation
 
-    // On desktop, constrain content width to leave room for profile picture
-    // The content area should be constrained to about 60-70% of container width
+    // On desktop, constrain article to match container max-width (930px from config)
+    // The container itself has max-width constraint, article should respect it
     @media (min-width: 992px) {
       padding-right: calc(200px + 3rem); // Account for profile width + spacing
-      // Constrain article content to prevent excessive expansion on wide screens
-      // This ensures content doesn't spread too wide even on large displays
-      max-width: calc(930px - 200px - 3rem); // Container width minus profile space
+      // Explicitly set max-width to match container to prevent expansion on wide screens
+      max-width: 930px; // Match container max-width from _config.yml
     }
 
     @media (min-width: 1200px) {
       padding-right: calc(250px + 3rem);
-      max-width: calc(930px - 250px - 3rem); // Container width minus larger profile space
+      max-width: 930px; // Keep same max-width - don't expand further
     }
   }
 }
