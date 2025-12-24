@@ -140,7 +140,9 @@ strong {
     font-weight: 400;
     color: var(--global-text-color-light);
     letter-spacing: 0.015em;
-    max-width: 85%; // Limit width for better readability
+    // Use padding-right instead of max-width to prevent overlap with profile picture
+    // On mobile, profile picture will be below, so no padding needed
+    padding-right: 0;
     
     // Style the TL;DR prefix - add as CSS pseudo-element for cleaner styling
     &::before {
@@ -157,6 +159,15 @@ strong {
     // Clean up extra spacing in the text
     br {
       display: none;
+    }
+    
+    // Add padding on larger screens where profile picture floats on the right
+    @media (min-width: 992px) {
+      padding-right: calc(200px + 2rem);
+    }
+    
+    @media (min-width: 1200px) {
+      padding-right: calc(250px + 2.5rem);
     }
   }
 
@@ -455,18 +466,25 @@ ul.task-list input[type="checkbox"] {
 
 // Position profile in upper right corner on about page
 .profile.float-right {
-  position: absolute;
-  top: 0; // Align with top of article
-  right: 0;
-  width: 200px; // Fixed width for consistent sizing
+  // On mobile/tablet, profile should be in normal flow (not absolutely positioned or floated)
+  position: relative;
+  float: none;
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto 2rem auto;
   z-index: 10;
-  margin: 0;
   
-  @media (min-width: 576px) {
-    width: 220px;
+  // On larger screens, position absolutely in top right
+  @media (min-width: 992px) {
+    position: absolute;
+    float: none;
+    top: 0;
+    right: 0;
+    width: 200px;
+    margin: 0;
   }
   
-  @media (min-width: 768px) {
+  @media (min-width: 1200px) {
     width: 250px;
   }
 }
@@ -487,27 +505,8 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Adjust article content to make room for profile on about page
-.post article {
-  // Remove position relative so profile positions relative to .post
-}
-
-// Only add padding to TL;DR section, not Highlights
+// Highlights section should span full width (no padding for profile picture)
 .post .clearfix {
-  > p:first-of-type {
-    // TL;DR section - add padding to avoid profile picture overlap
-    padding-right: calc(200px + 1.5rem);
-    
-    @media (min-width: 576px) {
-      padding-right: calc(220px + 1.5rem);
-    }
-    
-    @media (min-width: 768px) {
-      padding-right: calc(250px + 2rem);
-    }
-  }
-  
-  // Highlights section should span full width
   > p:nth-of-type(2),
   > ul {
     padding-right: 0;
