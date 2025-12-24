@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Edward Profio",
+    "name": "Luke Edward Profio",
     "label": "Chief Executive Officer @ Aurifex Biosciences",
     "image": "",
     "email": "edward@profio.us",
@@ -95,31 +95,6 @@
   ],
   "volunteer": [
     {
-      "organization": "Mensa International",
-      "location": "Egypt",
-      "position": "Member",
-      "url": "https://www.mensa.org/",
-      "startDate": null,
-      "endDate": null,
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "AI@CMU",
-      "location": "Pittsburgh",
-      "position": "Executive Director, AI/ML",
-      "url": "https://main.d3v1a759runh8u.amplifyapp.com/",
-      "startDate": null,
-      "endDate": null,
-      "summary": "Establishing and scaling a student–alumni organization dedicated to fostering collaboration, education, and awareness around AI/ML research and applications across academia and industry.",
-      "highlights": [
-        "Founding the organization’s core structure, defining its mission, governance, and long-term strategy to connect research groups, alumni leaders, and industry practitioners.",
-        "Organizing and moderating technical workshops, research talks, and panel discussions with leading AI/ML experts, driving interdisciplinary engagement across disciplines.",
-        "Building partnerships with industry sponsors and research labs to support mentorship programs, hackathons, and recruitment pipelines for AI/ML-oriented career paths.",
-        "Expanding membership and event participation through outreach and educational initiatives, positioning AI@CMU as a central hub for applied AI/ML learning at Carnegie Mellon University."
-      ]
-    },
-    {
       "organization": "Aurifex Foundation",
       "location": "San Francisco",
       "position": "Executive Director, AI/ML",
@@ -131,8 +106,33 @@
         "Architecting and shipping end-to-end pipelines for biological data analysis, model simulation, and cognitive system inference using Python, PyTorch, and cloud-based infrastructure.",
         "Leading and mentoring a global, cross-functional research team of scientists, establishing agile processes, governance, and product roadmaps for scientific software.",
         "Directing technical strategy for advanced model optimization, reducing compute costs while improving interpretability and cross-domain generalization of deployed models.",
-        "Expanding open-source community participation through strategic outreach, technical workshops, and research communication, strengthening the lab’s contributor base and impact."
+        "Expanding open-source community participation through strategic outreach, technical workshops, and research communication, strengthening the lab's contributor base and impact."
       ]
+    },
+    {
+      "organization": "AI@CMU",
+      "location": "Pittsburgh",
+      "position": "Executive Director, AI/ML",
+      "url": "https://main.d3v1a759runh8u.amplifyapp.com/",
+      "startDate": null,
+      "endDate": null,
+      "summary": "Establishing and scaling a student–alumni organization dedicated to fostering collaboration, education, and awareness around AI/ML research and applications across academia and industry.",
+      "highlights": [
+        "Founding the organization's core structure, defining its mission, governance, and long-term strategy to connect research groups, alumni leaders, and industry practitioners.",
+        "Organizing and moderating technical workshops, research talks, and panel discussions with leading AI/ML experts, driving interdisciplinary engagement across disciplines.",
+        "Building partnerships with industry sponsors and research labs to support mentorship programs, hackathons, and recruitment pipelines for AI/ML-oriented career paths.",
+        "Expanding membership and event participation through outreach and educational initiatives, positioning AI@CMU as a central hub for applied AI/ML learning at Carnegie Mellon University."
+      ]
+    },
+    {
+      "organization": "Mensa International",
+      "location": "Egypt",
+      "position": "Member",
+      "url": "https://www.mensa.org/",
+      "startDate": null,
+      "endDate": null,
+      "summary": "",
+      "highlights": []
     },
     {
       "organization": "UW Health",

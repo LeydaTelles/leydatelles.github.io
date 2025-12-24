@@ -80,6 +80,7 @@ layout: default
     <article>
       <div class="cv">
         {% for data in site.data.resume %}
+          {% if data[0] == 'projects' or data[0] == 'publications' %} {% continue %} {% endif %}
           {% if site.jsonresume and site.jsonresume.size > 0 %}
             {% unless site.jsonresume contains data[0] %}
               {% continue %}
@@ -99,14 +100,10 @@ layout: default
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
-                {% when 'projects' %}
-                  {% include resume/projects.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
-                {% when 'publications' %}
-                  {% include resume/publications.liquid %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}

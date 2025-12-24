@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Chief Executive Officer @ Aurifex Biosciences</a>  |  Harvard University
+subtitle: '<span style="color: #64b5f6 !important;"><strong>Chief Executive Officer @ Aurifex Biosciences</strong></span>  |  Harvard University'
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>United States</p>
+    <p style="color: #64b5f6; font-weight: bold;">United States</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-TL;DR: Technical Product Leader who builds AI/ML systems at scale.   Recognized for technical expertise, relentless user focus and cross-functional leadership.   Achieved turning complex domains into products that people adopt and retain.    
+<span style="font-weight: bold; color: white;">Technical Product Leader</span> who builds AI/ML systems at scale. Recognized for technical expertise, relentless user focus, and cross-functional leadership. Achieved turning complex domains into products that people adopt and retain.    
 
 Highlights:
 

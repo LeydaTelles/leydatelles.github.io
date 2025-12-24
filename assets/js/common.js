@@ -23,6 +23,13 @@ $(document).ready(function () {
     $(".publications h2").each(function () {
       $(this).attr("data-toc-skip", "");
     });
+    // Remove projects and publications sections from TOC
+    $("#projects, #publications").each(function () {
+      $(this).attr("data-toc-skip", "");
+    });
+    $("h3:contains('Projects'), h3:contains('Publications')").each(function () {
+      $(this).attr("data-toc-skip", "");
+    });
     var navSelector = "#toc-sidebar";
     var $myNav = $(navSelector);
     Toc.init($myNav);

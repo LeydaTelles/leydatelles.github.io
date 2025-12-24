@@ -2,6 +2,108 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// Custom Cursor
+@media (hover: hover) and (pointer: fine) {
+  * {
+    cursor: none !important;
+  }
+
+  body {
+    cursor: none;
+  }
+
+  .custom-cursor {
+    position: fixed;
+    width: 22px;
+    height: 22px;
+    border: 2px solid var(--global-theme-color);
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 9999;
+    transform: translate(-50%, -50%);
+    transition: width 0.25s cubic-bezier(0.4, 0, 0.2, 1), 
+                height 0.25s cubic-bezier(0.4, 0, 0.2, 1), 
+                border-width 0.25s ease,
+                opacity 0.2s ease,
+                border-color 0.25s ease,
+                background-color 0.25s ease;
+    opacity: 0.85;
+    will-change: transform;
+    left: 0;
+    top: 0;
+  }
+
+  .custom-cursor.cursor-hover {
+    width: 50px;
+    height: 50px;
+    border-width: 1.5px;
+    border-color: var(--global-theme-color);
+    background-color: rgba(100, 181, 246, 0.1);
+    opacity: 0.7;
+  }
+
+  .custom-cursor-dot {
+    position: fixed;
+    width: 5px;
+    height: 5px;
+    background-color: var(--global-theme-color);
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 10000;
+    transform: translate(-50%, -50%);
+    transition: width 0.2s ease, 
+                height 0.2s ease,
+                opacity 0.2s ease,
+                background-color 0.25s ease;
+    opacity: 1;
+    will-change: transform;
+    left: 0;
+    top: 0;
+    box-shadow: 0 0 8px rgba(100, 181, 246, 0.5);
+  }
+
+  .custom-cursor-dot.cursor-dot-hover {
+    width: 3px;
+    height: 3px;
+    background-color: var(--global-theme-color);
+    box-shadow: 0 0 12px rgba(100, 181, 246, 0.8);
+  }
+}
+
+// Hide cursor on touch devices and show default cursor
+@media (hover: none) and (pointer: coarse) {
+  .custom-cursor,
+  .custom-cursor-dot {
+    display: none !important;
+  }
+}
+
+// Scrollbar Styling
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--global-bg-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #64b5f6;
+  border-radius: 6px;
+  border: 2px solid var(--global-bg-color);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 181, 246, 0.8);
+}
+
+// Firefox scrollbar
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #64b5f6 var(--global-bg-color);
+}
+
 // Typography
 
 p,
@@ -17,6 +119,99 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+}
+
+// Ensure subtitle preserves inline styles
+.desc {
+  strong {
+    color: inherit !important;
+  }
+}
+
+// Homepage (about page) content styling
+.post .clearfix {
+  // Add spacing before TL;DR text (first paragraph)
+  > p:first-of-type {
+    margin-top: 4rem;
+    margin-bottom: 2.5rem;
+    font-size: 1.125rem;
+    line-height: 1.8;
+    font-weight: 400;
+    color: var(--global-text-color-light);
+    letter-spacing: 0.015em;
+    max-width: 85%; // Limit width for better readability
+    
+    // Style the TL;DR prefix - add as CSS pseudo-element for cleaner styling
+    &::before {
+      content: "TL;DR: ";
+      font-weight: 700;
+      color: var(--global-text-color);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-size: 1em; // Same size as the paragraph text (matches Technical Product Leader)
+      margin-right: 0.75rem;
+      display: inline-block;
+    }
+    
+    // Clean up extra spacing in the text
+    br {
+      display: none;
+    }
+  }
+
+  // Style the paragraph that contains "Highlights:" (second paragraph before the list)
+  > p:nth-of-type(2) {
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--global-text-color);
+  }
+
+  // Style highlights bullet points - make them look better
+  > ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 3rem;
+
+    li {
+      margin-bottom: 1.75rem;
+      padding-left: 2.5rem;
+      padding-top: 1.5rem;
+      padding-bottom: 1.5rem;
+      padding-right: 1.5rem;
+      position: relative;
+      background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(100, 181, 246, 0.03) 100%);
+      border-left: 4px solid rgba(100, 181, 246, 0.3);
+      border-radius: 8px;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      line-height: 1.75;
+
+      &::before {
+        content: "▸";
+        position: absolute;
+        left: 1rem;
+        top: 1.75rem;
+        color: #64b5f6;
+        font-size: 1.3rem;
+        font-weight: bold;
+      }
+
+      &:hover {
+        background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(100, 181, 246, 0.1) 100%);
+        border-left-color: #64b5f6;
+        transform: translateX(6px);
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12), 0 0 0 1px rgba(100, 181, 246, 0.1);
+      }
+    }
+  }
+
+  // Better spacing for paragraphs
+  > p {
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+  }
 }
 
 hr {
@@ -38,9 +233,10 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
+  transition: color 0.2s ease;
 
   &:hover {
-    color: var(--global-theme-color);
+    color: var(--global-hover-color);
     text-decoration: underline;
   }
 
@@ -168,18 +364,46 @@ ul.task-list input[type="checkbox"] {
 
 .card {
   background-color: var(--global-card-bg-color);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), 
+              box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid transparent;
 
   .card-img {
     width: 100%;
     padding-top: 1.25rem;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   }
 
   .card-title {
     color: var(--global-text-color);
+    transition: color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   }
 
   .card-body {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+  }
+  
+  // Enhanced hoverable effect
+  &.hoverable {
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+                box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    
+    &:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15),
+                  0 0 20px rgba(100, 181, 246, 0.4),
+                  0 0 40px rgba(100, 181, 246, 0.2),
+                  0 0 0 1px rgba(100, 181, 246, 0.3);
+      
+      .card-img {
+        transform: scale(1.02);
+      }
+      
+      .card-title {
+        color: #64b5f6;
+        text-shadow: 0 0 8px rgba(100, 181, 246, 0.3);
+      }
+    }
   }
 }
 
@@ -192,23 +416,58 @@ ul.task-list input[type="checkbox"] {
 
 // Profile
 
+// Profile positioning on about page
+.post {
+  position: relative;
+}
+
 .profile {
   width: 100%;
+
+  img {
+    transition: box-shadow 0.3s ease, transform 0.3s ease, border 0.3s ease;
+    border: 2px solid transparent;
+    border-radius: 4px;
+  }
+
+  &:hover img {
+    border: 3px solid #64b5f6;
+    box-shadow: 0 0 20px rgba(100, 181, 246, 0.6),
+                0 0 40px rgba(100, 181, 246, 0.4),
+                0 0 60px rgba(100, 181, 246, 0.2);
+    transform: scale(1.02);
+  }
 
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    text-align: center;
 
     p {
-      display: inline-block;
-      margin: 0;
+      display: block;
+      margin: 0 auto;
+      text-align: center;
     }
   }
 }
 
+// Position profile in upper right corner on about page
 .profile.float-right {
-  margin-left: 1rem;
+  position: absolute;
+  top: 0; // Align with top of article
+  right: 0;
+  width: 200px; // Fixed width for consistent sizing
+  z-index: 10;
+  margin: 0;
+  
+  @media (min-width: 576px) {
+    width: 220px;
+  }
+  
+  @media (min-width: 768px) {
+    width: 250px;
+  }
 }
 
 .profile.float-left {
@@ -216,7 +475,7 @@ ul.task-list input[type="checkbox"] {
 }
 
 @media (min-width: 576px) {
-  .profile {
+  .profile:not(.float-right):not(.float-left) {
     width: 30%;
 
     .address {
@@ -224,6 +483,34 @@ ul.task-list input[type="checkbox"] {
         display: block;
       }
     }
+  }
+}
+
+// Adjust article content to make room for profile on about page
+.post article {
+  // Remove position relative so profile positions relative to .post
+}
+
+// Only add padding to TL;DR section, not Highlights
+.post .clearfix {
+  > p:first-of-type {
+    // TL;DR section - add padding to avoid profile picture overlap
+    padding-right: calc(200px + 1.5rem);
+    
+    @media (min-width: 576px) {
+      padding-right: calc(220px + 1.5rem);
+    }
+    
+    @media (min-width: 768px) {
+      padding-right: calc(250px + 2rem);
+    }
+  }
+  
+  // Highlights section should span full width
+  > p:nth-of-type(2),
+  > ul {
+    padding-right: 0;
+    width: 100%;
   }
 }
 
@@ -315,13 +602,22 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
+    transition: color 0.3s cubic-bezier(0.4, 0, 0.2, 1), text-shadow 0.3s ease;
+
+    &:hover {
+      color: #64b5f6;
+      text-shadow: 0 0 8px #64b5f6, 0 0 12px #64b5f6;
+    }
   }
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    transition: color 0.3s cubic-bezier(0.4, 0, 0.2, 1), transform 0.2s ease, text-shadow 0.3s ease;
 
     &:hover {
-      color: var(--global-hover-color);
+      color: #64b5f6;
+      transform: translateY(-1px);
+      text-shadow: 0 0 8px #64b5f6, 0 0 12px #64b5f6;
     }
   }
 
@@ -329,9 +625,11 @@ ul.task-list input[type="checkbox"] {
     background-color: inherit;
     font-weight: bolder;
     color: var(--global-theme-color);
+    transition: color 0.3s cubic-bezier(0.4, 0, 0.2, 1), text-shadow 0.3s ease;
 
     &:hover {
-      color: var(--global-hover-color);
+      color: #64b5f6;
+      text-shadow: 0 0 8px #64b5f6, 0 0 12px #64b5f6;
     }
   }
 
@@ -341,10 +639,14 @@ ul.task-list input[type="checkbox"] {
     font-size: 1.7rem;
 
     a {
+      display: inline-block;
+      transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      
       img {
         width: 1.7rem;
         height: 1.7rem;
         margin-bottom: 0.5rem;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         // margin: 0.5rem;
       }
 
@@ -352,6 +654,7 @@ ul.task-list input[type="checkbox"] {
         width: 1.7rem;
         height: 1.7rem;
         margin-bottom: 0.5rem;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 
         image {
           width: 1.7rem;
@@ -361,12 +664,19 @@ ul.task-list input[type="checkbox"] {
 
       i::before {
         color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
       }
 
       &:hover {
+        transform: translateY(-2px) scale(1.1);
+        
+        img, svg {
+          filter: drop-shadow(0 2px 4px rgba(100, 181, 246, 0.3));
+        }
+        
         i::before {
           color: var(--global-theme-color);
+          filter: drop-shadow(0 2px 4px rgba(100, 181, 246, 0.3));
         }
       }
     }
@@ -419,9 +729,33 @@ ul.task-list input[type="checkbox"] {
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
+  transition: color 0.3s cubic-bezier(0.4, 0, 0.2, 1), transform 0.2s ease;
+  cursor: pointer;
 
   &:hover {
     color: var(--global-hover-color);
+    transform: scale(1.1);
+  }
+}
+
+#search-toggle {
+  .nav-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+    
+    i {
+      font-size: 1.2rem;
+    }
+  }
+
+  &:hover {
+    color: #64b5f6;
+    
+    .nav-link {
+      color: #64b5f6;
+    }
   }
 }
 
@@ -434,16 +768,21 @@ ul.task-list input[type="checkbox"] {
     font-size: 4rem;
 
     a {
+      display: inline-block;
+      transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      
       img {
         width: 3.2rem;
         height: 3.2rem;
         margin-bottom: 1rem;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
       }
 
       svg {
         width: 3.5rem;
         height: 4rem;
         margin-bottom: 0.5rem;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 
         image {
           width: 3.5rem;
@@ -453,14 +792,20 @@ ul.task-list input[type="checkbox"] {
 
       i::before {
         color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
       }
 
       &:hover {
         text-decoration: none;
+        transform: translateY(-4px) scale(1.15);
+
+        img, svg {
+          filter: drop-shadow(0 4px 8px rgba(100, 181, 246, 0.25));
+        }
 
         i::before {
           color: var(--global-theme-color);
+          filter: drop-shadow(0 2px 6px rgba(100, 181, 246, 0.4));
         }
       }
     }
@@ -503,18 +848,20 @@ ul.task-list input[type="checkbox"] {
 
 // Footer
 footer.fixed-bottom {
-  background-color: var(--global-footer-bg-color);
+  background-color: var(--global-bg-color);
   font-size: 0.75rem;
+  font-weight: normal;
 
   .container {
-    color: var(--global-footer-text-color);
+    color: var(--global-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
     text-align: center;
+    font-weight: normal;
   }
 
   a {
-    color: var(--global-footer-link-color);
+    color: var(--global-text-color);
 
     &:hover {
       color: var(--global-theme-color);
@@ -524,13 +871,26 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
+  background-color: var(--global-bg-color);
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+  font-weight: normal;
 
   .container {
+    color: var(--global-text-color);
     text-align: center;
+    font-weight: normal;
+  }
+
+  a {
+    color: var(--global-text-color);
+
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
   }
 }
 
@@ -694,22 +1054,94 @@ footer.sticky-bottom {
 .projects {
   a {
     text-decoration: none;
+    display: block;
 
     &:hover {
       .card-title {
-        color: var(--global-theme-color);
+        color: #64b5f6;
       }
     }
   }
 
   .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid var(--global-divider-color);
+    transition: all 0.3s ease;
+    
+    &:hover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      transform: translateY(-2px);
+    }
+    
     img {
       width: 100%;
+    }
+
+    // Ensure all project images are square and consistently sized
+    .card-img-top {
+      width: 100%;
+      height: 250px;
+      object-fit: cover;
+      object-position: center;
+      display: block;
+      flex-shrink: 0;
+    }
+
+    // Ensure all card-body sections have consistent height
+    .card-body {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      min-height: 250px;
+      padding: 1.5rem;
+      
+      .card-title {
+        flex-shrink: 0;
+        margin-bottom: 1rem;
+        font-size: 1.25rem;
+        line-height: 1.3;
+      }
+      
+      .card-text {
+        flex: 1;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 5; // Reduced from 6 to 5 lines for less clutter
+        -webkit-box-orient: vertical;
+        margin-bottom: 1rem;
+        line-height: 1.6;
+        color: var(--global-text-color-light);
+      }
+      
+      .row {
+        flex-shrink: 0;
+        margin-top: auto;
+        margin-left: 0;
+        margin-right: 0;
+      }
     }
   }
 
   .col {
-    padding-bottom: 1rem;
+    padding-bottom: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+  }
+  
+  .row {
+    margin-left: -1rem;
+    margin-right: -1rem;
+    margin-bottom: 1rem;
+  }
+  
+  // Add more breathing room between rows
+  .row + .row {
+    margin-top: 0.5rem;
   }
 
   .grid-sizer,
@@ -719,8 +1151,8 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
+    color: #64b5f6;
+    border-bottom: 1px solid #64b5f6;
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
@@ -732,17 +1164,19 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+  margin-bottom: 3rem;
 
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
     text-align: center;
     margin-top: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
   }
 
   h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    margin-top: 2.5rem;
 
     span {
       font-size: 1.5rem;
@@ -750,8 +1184,8 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
+    color: #64b5f6;
+    border-top: 1px solid #64b5f6;
     padding-top: 1rem;
     margin-top: 2rem;
     text-align: right;
@@ -760,11 +1194,19 @@ footer.sticky-bottom {
   ol.bibliography {
     list-style: none;
     padding: 0;
-    margin-top: 0;
+    margin-top: 1rem;
 
     li {
-      margin-bottom: 1rem;
-
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--global-divider-color);
+      
+      &:last-child {
+        border-bottom: none;
+        margin-bottom: 1rem;
+        padding-bottom: 0;
+      }
+      
       .preview {
       }
 
@@ -1109,8 +1551,8 @@ nav[data-toggle="toc"] {
     font-size: 0.75rem;
 
     &:hover {
-      color: var(--global-hover-color);
-      border-left-color: var(--global-hover-color);
+      color: #64b5f6;
+      border-left-color: #64b5f6;
     }
   }
 
@@ -1120,8 +1562,8 @@ nav[data-toggle="toc"] {
     font-size: 0.75rem;
 
     &:hover {
-      color: var(--global-hover-color);
-      border-left-color: var(--global-hover-color);
+      color: #64b5f6;
+      border-left-color: #64b5f6;
     }
   }
 }
@@ -1335,6 +1777,105 @@ ninja-keys::part(ninja-input-wrapper) {
   }
 }
 
+// News and Latest Posts sections - Enhanced spacing and cleaner layout
+.news {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  
+  table {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+    th {
+      color: white !important; // Dates in white
+      padding: 1rem 1.5rem 1rem 0;
+      font-weight: 500;
+      font-size: 0.9rem;
+      vertical-align: top;
+      width: 20%;
+      min-width: 120px;
+    }
+    
+    td {
+      color: white; // All text content in white by default
+      padding: 1rem 0;
+      vertical-align: top;
+    }
+    
+    tr {
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      
+      &:last-child {
+        border-bottom: none;
+      }
+      
+      &:hover {
+        background-color: rgba(255, 255, 255, 0.03);
+      }
+    }
+  }
+}
+
+// News section: make links white (first .news div in article)
+article .news:nth-of-type(1) {
+  table td a.news-title {
+    color: white !important;
+    font-size: 1rem;
+    line-height: 1.6;
+    transition: opacity 0.2s ease;
+    
+    &:hover {
+      color: white !important;
+      opacity: 0.8;
+      text-decoration: underline;
+    }
+  }
+}
+
+// Latest Posts section: keep links blue (second .news div in article)
+article .news:nth-of-type(2) {
+  table td a.news-title {
+    color: #64b5f6 !important;
+    font-size: 1rem;
+    line-height: 1.6;
+    transition: color 0.2s ease;
+    
+    &:hover {
+      color: #64b5f6 !important;
+      text-decoration: underline;
+      opacity: 0.9;
+    }
+  }
+}
+
+// Section headers (h2) spacing
+article h2 {
+  margin-top: 4rem;
+  margin-bottom: 1.5rem;
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: var(--global-text-color);
+  
+  &:first-of-type {
+    margin-top: 3rem;
+  }
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.2s ease;
+    
+    &:hover {
+      color: #64b5f6;
+    }
+  }
+}
+
+// Unbold bookshelf heading
+.bookshelf-heading {
+  font-weight: normal;
+}
+
 // popover is used for annotation in bib.liquid
 .popover {
   background-color: var(--global-bg-color);
@@ -1383,68 +1924,79 @@ ninja-keys::part(ninja-input-wrapper) {
 figure.cover {
   display: inline-block;
   text-align: center;
-  margin: 0.5rem; /* adjust as needed */
-
-  img {
-    vertical-align: bottom;
+  margin: 0.5rem;
+  width: 160px; // Fixed width for consistent sizing
+  vertical-align: top; // Align to top for consistent layout
+  
+  a.cover-link {
+    display: block;
+    width: 100%;
+    position: relative;
   }
 
-  figcaption.abandoned {
+  img {
+    width: 100%;
+    height: 240px; // Fixed height (maintains 2:3 book cover ratio)
+    object-fit: cover; // Ensures images fill the space while maintaining aspect ratio
+    object-position: center; // Centers the image
+    display: block;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    
+    &:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    }
+  }
+  
+  figcaption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.7rem;
+    border-radius: 0 0 4px 4px;
     font-family: monospace;
     color: #23212d;
     text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
+  
+  figcaption.abandoned {
     background-color: #ee5f5b;
   }
 
   figcaption.finished,
   figcaption.watched {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
-    background-color: #62c462;
+    background-color: #64b5f6;
   }
 
   figcaption.interested {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
-    background-color: #7691db;
+    background-color: #64b5f6;
   }
 
   figcaption.paused {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #bdac7e;
   }
 
   figcaption.queued {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #9e76b5;
   }
 
   figcaption.reading,
   figcaption.watching {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #f89406;
   }
 
   figcaption.reread,
   figcaption.rewatch {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #a6517d;
   }
 
   figcaption.uncategorized {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #b0abb3;
   }
 

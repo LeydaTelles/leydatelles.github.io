@@ -8,6 +8,14 @@
     {%- assign raw_start = vol.startDate | default: "" | append: "" -%}
     {%- assign raw_end   = vol.endDate   | default: "" | append: "" -%}
 
+    {%- comment -%}Prioritize Aurifex Foundation and AI@CMU at the top{%- endcomment -%}
+    {%- assign priority_prefix = "Z" -%}
+    {%- if vol.organization == "Aurifex Foundation" -%}
+      {%- assign priority_prefix = "A" -%}
+    {%- elsif vol.organization == "AI@CMU" -%}
+      {%- assign priority_prefix = "B" -%}
+    {%- endif -%}
+
     {%- if raw_start == "" -%}
       {%- assign start_iso = "1900-01-01" -%}
     {%- elsif raw_start.size == 4 -%}
@@ -31,11 +39,11 @@
     {%- assign start_key = start_iso | remove: "-" | slice: 0, 8 -%}
     {%- assign end_key   = end_iso   | remove: "-" | slice: 0, 8 -%}
 
-    {% capture pair %}{{ end_key }}-{{ start_key }}::{{ forloop.index0 }}{% endcapture %}
+    {% capture pair %}{{ priority_prefix }}-{{ end_key }}-{{ start_key }}::{{ forloop.index0 }}{% endcapture %}
     {% assign pairs = pairs | push: pair %}
   {% endfor %}
 
-  {% assign pairs = pairs | sort | reverse %}
+  {% assign pairs = pairs | sort %}
 
   {% for pair in pairs %}
     {% assign idx = pair | split: '::' | last | plus: 0 %}
@@ -83,10 +91,10 @@
               {% if content.location %}
                 <tr>
                   <td>
-                    <p class="location">
+                    <span class="badge font-weight-bold danger-color-dark align-middle location-badge">
                       <i class="fa-solid fa-location-dot iconlocation"></i>
                       {{ content.location }}
-                    </p>
+                    </span>
                   </td>
                 </tr>
               {% endif %}
