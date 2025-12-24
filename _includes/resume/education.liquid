@@ -1,36 +1,36 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
   {%- comment -%}
-  Normalize startDate/endDate:
-  - If only year is given ("YYYY"), append "-01-01"
-  - If year+month is given ("YYYY-MM"), append "-01"
-  - Otherwise assume full ISO
-  Then build sortable keys based on endDate (default far-future), then startDate.
+    Normalize startDate/endDate:
+    - If only year is given ("YYYY"), append "-01-01"
+    - If year+month is given ("YYYY-MM"), append "-01"
+    - Otherwise assume full ISO
+    Then build sortable keys based on endDate (default far-future), then startDate.
   {%- endcomment -%}
-  {% assign pairs = "" | split: "" %}
+  {% assign pairs = '' | split: '' %}
   {% for edu in data[1] %}
-    {%- assign raw_start = edu.startDate | default: "1900" -%}
-    {%- assign raw_end   = edu.endDate   | default: "" -%}
+    {%- assign raw_start = edu.startDate | default: '1900' -%}
+    {%- assign raw_end = edu.endDate | default: '' -%}
 
     {%- assign start_iso = raw_start -%}
     {%- if raw_start.size == 4 -%}
-      {%- assign start_iso = raw_start | append: "-01-01" -%}
+      {%- assign start_iso = raw_start | append: '-01-01' -%}
     {%- elsif raw_start.size == 7 -%}
-      {%- assign start_iso = raw_start | append: "-01" -%}
+      {%- assign start_iso = raw_start | append: '-01' -%}
     {%- endif -%}
 
-    {%- if raw_end == "" -%}
-      {%- assign end_iso = "2100-12-31" -%}
+    {%- if raw_end == '' -%}
+      {%- assign end_iso = '2100-12-31' -%}
     {%- else -%}
       {%- assign end_iso = raw_end -%}
       {%- if raw_end.size == 4 -%}
-        {%- assign end_iso = raw_end | append: "-12-31" -%}
+        {%- assign end_iso = raw_end | append: '-12-31' -%}
       {%- elsif raw_end.size == 7 -%}
-        {%- assign end_iso = raw_end | append: "-28" -%}
+        {%- assign end_iso = raw_end | append: '-28' -%}
       {%- endif -%}
     {%- endif -%}
 
-    {% assign end_key   = end_iso   | date: "%Y%m%d" %}
-    {% assign start_key = start_iso | date: "%Y%m%d" %}
+    {% assign end_key = end_iso | date: '%Y%m%d' %}
+    {% assign start_key = start_iso | date: '%Y%m%d' %}
     {% capture pair %}{{ end_key }}-{{ start_key }}::{{ forloop.index0 }}{% endcapture %}
     {% assign pairs = pairs | push: pair %}
   {% endfor %}
@@ -49,9 +49,9 @@
             {% if content.endDate and content.endDate != '' %}
               {% assign end_label = content.endDate %}
             {% else %}
-              {% assign end_label = "Present" %}
+              {% assign end_label = 'Present' %}
             {% endif %}
-            {% assign date = start_label | append: " - " | append: end_label %}
+            {% assign date = start_label | append: ' - ' | append: end_label %}
           {% else %}
             {% assign date = null %}
           {% endif %}
@@ -86,7 +86,9 @@
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
           <ul class="items">
             {% for item in content.courses %}
-              <li><span class="item">{{ item }}</span></li>
+              <li>
+                <span class="item">{{ item }}</span>
+              </li>
             {% endfor %}
           </ul>
         </div>

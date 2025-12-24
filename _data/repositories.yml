@@ -1,6 +1,6 @@
 github_users:
   - profio1997
-  
+
 repo_description_lines_max: 2
 
 github_repos:
@@ -15,4 +15,3 @@ github_repos:
   - profio1997/MIMIC_SQL
   - profio1997/Gallify_Website
   - profio1997/UWCS_Alumni_Website
-

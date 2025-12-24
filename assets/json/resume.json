@@ -215,10 +215,7 @@
       "startDate": null,
       "endDate": null,
       "score": "10",
-      "courses": [
-        "AP Scholar with Distinction",
-        "Honor Roll"
-      ]
+      "courses": ["AP Scholar with Distinction", "Honor Roll"]
     },
     {
       "institution": "The University of Colorado, Boulder",
@@ -229,10 +226,7 @@
       "startDate": null,
       "endDate": null,
       "score": "10",
-      "courses": [
-        "Academic Merit Scholarship",
-        "Dean's List"
-      ]
+      "courses": ["Academic Merit Scholarship", "Dean's List"]
     },
     {
       "institution": "The University of Wisconsin, Madison",
@@ -263,10 +257,7 @@
       "startDate": null,
       "endDate": null,
       "score": "10",
-      "courses": [
-        "Academic Merit Scholarship",
-        "Dean's List"
-      ]
+      "courses": ["Academic Merit Scholarship", "Dean's List"]
     },
     {
       "institution": "The University of Texas at Austin",
@@ -277,10 +268,7 @@
       "startDate": null,
       "endDate": null,
       "score": "10",
-      "courses": [
-        "Academic Merit Scholarship",
-        "Dean's List"
-      ]
+      "courses": ["Academic Merit Scholarship", "Dean's List"]
     },
     {
       "institution": "Carnegie Mellon University",
@@ -307,9 +295,7 @@
       "startDate": null,
       "endDate": null,
       "score": "10",
-      "courses": [
-        "Academic Merit Scholarship"
-      ]
+      "courses": ["Academic Merit Scholarship"]
     }
   ],
   "awards": [

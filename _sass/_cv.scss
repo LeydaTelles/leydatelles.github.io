@@ -7,10 +7,11 @@
   border: 2px solid var(--global-divider-color);
   border-radius: 10px;
   // Optimize transitions - only animate transform and opacity for better performance
-  transition: transform 0.2s ease-out, 
-              border-color 0.2s ease-out,
-              box-shadow 0.2s ease-out,
-              background 0.2s ease-out;
+  transition:
+    transform 0.2s ease-out,
+    border-color 0.2s ease-out,
+    box-shadow 0.2s ease-out,
+    background 0.2s ease-out;
   position: relative;
   overflow: visible !important;
   padding: 1.5rem !important;
@@ -18,7 +19,7 @@
   will-change: transform;
   backface-visibility: hidden;
   transform: translateZ(0); // Force GPU acceleration
-  
+
   .card-title {
     font-size: 1.5rem;
     font-weight: 600;
@@ -47,8 +48,9 @@
   transform: translateY(-2px) translateZ(0); // Keep GPU acceleration
   border-color: #64b5f6;
   // Simplified box-shadow - reduced from 5 layers to 2 for better performance
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1),
-              0 0 20px rgba(100, 181, 246, 0.3);
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.1),
+    0 0 20px rgba(100, 181, 246, 0.3);
 }
 
 .cv .card:hover::before {
@@ -71,35 +73,35 @@ table.table-cv {
 // Enhanced styling for basics section table
 .cv .card table.table-cv-map {
   width: 100%;
-  
+
   tr {
     transition: background-color 0.2s ease;
-    
+
     &:hover {
       background-color: rgba(100, 181, 246, 0.05);
     }
   }
-  
+
   td {
     padding: 0.75rem 0.5rem;
     vertical-align: top;
-    
+
     &:first-child {
       font-weight: 600;
       color: var(--global-text-color);
       width: 35%;
       min-width: 120px;
     }
-    
+
     &:last-child {
       color: var(--global-text-color);
     }
   }
-  
+
   a {
     color: var(--global-theme-color);
     transition: color 0.2s ease;
-    
+
     &:hover {
       color: #64b5f6;
       text-decoration: underline;
@@ -181,21 +183,22 @@ div.container-links {
   padding: 1.5rem 0;
   background: transparent;
   // Optimize transition - only animate specific properties
-  transition: background-color 0.15s ease-out,
-              padding 0.15s ease-out,
-              margin 0.15s ease-out,
-              border-radius 0.15s ease-out;
+  transition:
+    background-color 0.15s ease-out,
+    padding 0.15s ease-out,
+    margin 0.15s ease-out,
+    border-radius 0.15s ease-out;
   will-change: background-color, padding, margin;
-  
+
   &:last-child {
     border-bottom: none;
     padding-bottom: 0;
   }
-  
+
   &:first-child {
     padding-top: 0.5rem;
   }
-  
+
   &:hover {
     background-color: rgba(100, 181, 246, 0.03);
     padding-left: 0.5rem;
@@ -204,22 +207,23 @@ div.container-links {
     margin-right: -0.5rem;
     border-radius: 6px;
     // Optimize hover transition
-    transition: background-color 0.15s ease-out,
-                padding 0.15s ease-out,
-                margin 0.15s ease-out;
+    transition:
+      background-color 0.15s ease-out,
+      padding 0.15s ease-out,
+      margin 0.15s ease-out;
   }
-  
+
   .row {
     margin: 0;
   }
-  
+
   .date-column {
     padding-right: 1rem;
     width: auto; // Allow flexible width
     min-width: 100px; // Minimum width for date badges
     max-width: 150px; // Increased to accommodate longer location names
   }
-  
+
   .badge {
     background-color: rgba(100, 181, 246, 0.15) !important;
     color: var(--global-text-color) !important;
@@ -229,7 +233,7 @@ div.container-links {
     font-weight: 600;
     display: inline-block;
     white-space: nowrap;
-    
+
     // Style for location badges in date column
     &.location-badge {
       min-width: auto;
@@ -244,59 +248,59 @@ div.container-links {
       overflow: hidden;
       text-overflow: ellipsis; // Show ellipsis if text is too long
     }
-    
+
     .iconlocation {
       flex-shrink: 0; // Prevent icon from shrinking
       font-size: 0.7rem;
       margin-right: 0; // Remove margin since we're using gap
     }
   }
-  
+
   h6.title {
     margin-bottom: 0.5rem;
-    
+
     a {
       color: var(--global-text-color);
       font-weight: 600;
       transition: color 0.2s ease;
-      
+
       &:hover {
         color: #64b5f6;
         text-decoration: none;
       }
     }
   }
-  
+
   // Company name - add more space below when summary follows
   h6.title + h6 {
     margin-bottom: 1rem; // Increased from 0.25rem to 1rem for cleaner spacing
     color: var(--global-text-color);
   }
-  
+
   // Summary text (italic style) - add spacing above and below
   h6[style*="font-style: italic"] {
     margin-top: 0.5rem;
     margin-bottom: 1rem;
     color: var(--global-text-color);
   }
-  
+
   // Other h6 elements (fallback)
   h6 {
     margin-bottom: 0.25rem;
     color: var(--global-text-color);
   }
-  
+
   ul.items {
     margin-top: 0.75rem;
     padding-left: 1.5rem;
-    
+
     li {
       margin-bottom: 0.5rem;
       color: var(--global-text-color-light);
       line-height: 1.6;
     }
   }
-  
+
   .location {
     margin-top: 0.5rem;
     color: var(--global-text-color-light);
@@ -459,7 +463,9 @@ ul.timeline li::before {
 
 .award-item:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(100, 181, 246, 0.1);
+  box-shadow:
+    0 8px 16px rgba(0, 0, 0, 0.1),
+    0 0 0 1px rgba(100, 181, 246, 0.1);
   border-color: #64b5f6;
 }
 
@@ -491,12 +497,12 @@ ul.timeline li::before {
   font-size: 1.1rem;
   font-weight: 600;
   color: var(--global-text-color);
-  
+
   a {
     color: var(--global-text-color);
     text-decoration: none;
     transition: color 0.2s ease;
-    
+
     &:hover {
       color: var(--global-theme-color);
     }
@@ -573,7 +579,9 @@ ul.timeline li::before {
 
 .certificate-item:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(100, 181, 246, 0.1);
+  box-shadow:
+    0 8px 16px rgba(0, 0, 0, 0.1),
+    0 0 0 1px rgba(100, 181, 246, 0.1);
   border-color: #64b5f6;
 }
 
@@ -605,12 +613,12 @@ ul.timeline li::before {
   font-size: 1.1rem;
   font-weight: 600;
   color: var(--global-text-color);
-  
+
   a {
     color: var(--global-text-color);
     text-decoration: none;
     transition: color 0.2s ease;
-    
+
     &:hover {
       color: var(--global-theme-color);
     }
@@ -679,7 +687,9 @@ ul.timeline li::before {
 
 .skill-item:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(100, 181, 246, 0.1);
+  box-shadow:
+    0 8px 16px rgba(0, 0, 0, 0.1),
+    0 0 0 1px rgba(100, 181, 246, 0.1);
   border-color: #64b5f6;
 }
 
@@ -789,7 +799,9 @@ ul.timeline li::before {
 
 .language-item:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(100, 181, 246, 0.1);
+  box-shadow:
+    0 8px 16px rgba(0, 0, 0, 0.1),
+    0 0 0 1px rgba(100, 181, 246, 0.1);
   border-color: #64b5f6;
 }
 
@@ -884,7 +896,9 @@ ul.timeline li::before {
 
 .interest-item:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(100, 181, 246, 0.1);
+  box-shadow:
+    0 8px 16px rgba(0, 0, 0, 0.1),
+    0 0 0 1px rgba(100, 181, 246, 0.1);
   border-color: #64b5f6;
 }
 
@@ -974,9 +988,10 @@ ul.timeline li::before {
 
 .course-item:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1), 
-              0 0 20px rgba(100, 181, 246, 0.3),
-              0 0 0 1px rgba(100, 181, 246, 0.2);
+  box-shadow:
+    0 8px 16px rgba(0, 0, 0, 0.1),
+    0 0 20px rgba(100, 181, 246, 0.3),
+    0 0 0 1px rgba(100, 181, 246, 0.2);
   border-color: #64b5f6;
 }
 

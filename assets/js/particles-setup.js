@@ -1,18 +1,18 @@
 // Particle background setup
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener("DOMContentLoaded", function () {
   // Create canvas element for particles
-  const canvas = document.createElement('canvas');
-  canvas.id = 'particles-canvas';
-  canvas.style.position = 'fixed';
-  canvas.style.top = '0';
-  canvas.style.left = '0';
-  canvas.style.width = '100%';
-  canvas.style.height = '100%';
-  canvas.style.zIndex = '-1';
-  canvas.style.pointerEvents = 'none';
+  const canvas = document.createElement("canvas");
+  canvas.id = "particles-canvas";
+  canvas.style.position = "fixed";
+  canvas.style.top = "0";
+  canvas.style.left = "0";
+  canvas.style.width = "100%";
+  canvas.style.height = "100%";
+  canvas.style.zIndex = "-1";
+  canvas.style.pointerEvents = "none";
   document.body.appendChild(canvas);
 
-  const ctx = canvas.getContext('2d');
+  const ctx = canvas.getContext("2d");
   let particles = [];
   let animationId;
 
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
     canvas.height = window.innerHeight;
   }
   resizeCanvas();
-  window.addEventListener('resize', resizeCanvas);
+  window.addEventListener("resize", resizeCanvas);
 
   // Particle class
   class Particle {
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
       this.speedY = Math.random() * 0.5 - 0.25;
       this.opacity = Math.random() * 0.5 + 0.2;
       // Randomly assign color: 60% white, 40% blue
-      this.color = Math.random() > 0.4 ? 'white' : 'blue';
+      this.color = Math.random() > 0.4 ? "white" : "blue";
       // Glow animation phase
       this.glowPhase = Math.random() * Math.PI * 2;
       this.glowSpeed = 0.02 + Math.random() * 0.03;
@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (this.x < 0) this.x = canvas.width;
       if (this.y > canvas.height) this.y = 0;
       if (this.y < 0) this.y = canvas.height;
-      
+
       // Update glow phase for animation
       this.glowPhase += this.glowSpeed;
     }
@@ -57,14 +57,11 @@ document.addEventListener('DOMContentLoaded', function() {
       // Dynamic glow effect using sine wave
       const glowIntensity = 0.3 + Math.sin(this.glowPhase) * 0.2;
       const glowSize = this.size * (1.5 + Math.sin(this.glowPhase) * 0.5);
-      
+
       // Create gradient for glow effect
-      const gradient = ctx.createRadialGradient(
-        this.x, this.y, 0,
-        this.x, this.y, glowSize
-      );
-      
-      if (this.color === 'blue') {
+      const gradient = ctx.createRadialGradient(this.x, this.y, 0, this.x, this.y, glowSize);
+
+      if (this.color === "blue") {
         // Blue particles with blue glow
         gradient.addColorStop(0, `rgba(100, 181, 246, ${this.opacity})`);
         gradient.addColorStop(0.5, `rgba(100, 181, 246, ${this.opacity * glowIntensity})`);
@@ -77,13 +74,13 @@ document.addEventListener('DOMContentLoaded', function() {
         gradient.addColorStop(1, `rgba(255, 255, 255, 0)`);
         ctx.fillStyle = gradient;
       }
-      
+
       ctx.beginPath();
       ctx.arc(this.x, this.y, glowSize, 0, Math.PI * 2);
       ctx.fill();
-      
+
       // Draw the core particle
-      if (this.color === 'blue') {
+      if (this.color === "blue") {
         ctx.fillStyle = `rgba(100, 181, 246, ${this.opacity})`;
       } else {
         ctx.fillStyle = `rgba(255, 255, 255, ${this.opacity})`;
@@ -115,16 +112,17 @@ document.addEventListener('DOMContentLoaded', function() {
         if (distance < 120) {
           // Use appropriate color based on particle colors
           let connectionColor;
-          if (particles[i].color === 'blue' || particles[j].color === 'blue') {
+          if (particles[i].color === "blue" || particles[j].color === "blue") {
             // If either particle is blue, use blue-tinted connection
-            connectionColor = particles[i].color === 'blue' && particles[j].color === 'blue' 
-              ? `rgba(100, 181, 246, ${0.15 * (1 - distance / 120)})`
-              : `rgba(200, 220, 255, ${0.15 * (1 - distance / 120)})`;
+            connectionColor =
+              particles[i].color === "blue" && particles[j].color === "blue"
+                ? `rgba(100, 181, 246, ${0.15 * (1 - distance / 120)})`
+                : `rgba(200, 220, 255, ${0.15 * (1 - distance / 120)})`;
           } else {
             // Both white particles
             connectionColor = `rgba(255, 255, 255, ${0.2 * (1 - distance / 120)})`;
           }
-          
+
           ctx.strokeStyle = connectionColor;
           ctx.lineWidth = 0.5;
           ctx.beginPath();
@@ -140,7 +138,7 @@ document.addEventListener('DOMContentLoaded', function() {
   function animate() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-    particles.forEach(particle => {
+    particles.forEach((particle) => {
       particle.update();
       particle.draw();
     });
@@ -155,9 +153,8 @@ document.addEventListener('DOMContentLoaded', function() {
   animate();
 
   // Reinitialize particles on resize
-  window.addEventListener('resize', () => {
+  window.addEventListener("resize", () => {
     resizeCanvas();
     initParticles();
   });
 });
-

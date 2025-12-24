@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JASCI Software
-description: An organizational analysis and assessment toward improved operations. 
+description: An organizational analysis and assessment toward improved operations.
 img: assets/img/JASCI_Software.png
 importance: 1
 category: work

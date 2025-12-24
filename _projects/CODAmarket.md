@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CODAworx
-description: An e-commerce marketplace for public artists and enthusiasts. 
+description: An e-commerce marketplace for public artists and enthusiasts.
 img: assets/img/CODAmarket.jpg
 importance: 1
 category: work

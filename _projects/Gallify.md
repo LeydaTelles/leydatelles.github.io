@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallify
-description: An AR/VR art marketplace built for digital creators and enthusiasts. 
+description: An AR/VR art marketplace built for digital creators and enthusiasts.
 img: assets/img/Gallify_7.jpg
 importance: 1
 category: work
