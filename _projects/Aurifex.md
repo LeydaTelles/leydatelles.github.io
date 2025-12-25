@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aurifex
+title: Aurifex Jewelry
 description: A jewelry SaaS platform, improving design and operations through AI/ML.
 img: assets/img/Aurifex.png
 importance: 1

@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Luke Edward Profio",
+    "name": "Luke Profio",
     "label": "Chief Executive Officer @ Aurifex Biosciences",
     "image": "",
     "email": "edward@profio.us",
@@ -25,8 +25,8 @@
   "work": [
     {
       "name": "Aurifex",
-      "position": "Chief Executive Officer, AI/ML (2025-Present); Chief Product Officer, AI/ML (2025)",
-      "url": "https://main.d1kgg4ep6zv3b7.amplifyapp.com/",
+      "position": "Chief Executive Officer, AI/ML (26-Present); Chief Product Officer, AI/ML (25-26)",
+      "url": "https://aurifexbiosciences.com",
       "startDate": "2025",
       "endDate": null,
       "summary": "Led product development from zero to launch. Grew engagement by 25% month over month while maintaining about 70% three-month retention through rapid, feedback driven iteration. Translating deep technical work in genomics and AI into clear business value and landing several strategic pilot relationships. Built and managed a cross-functional team of 6 engineers and designers, implementing processes that cut average time to ship new features by 40 percent and reduced production level bugs by 30 percent.",
@@ -38,8 +38,22 @@
       ]
     },
     {
+      "name": "Georgia Institute of Technology",
+      "position": "Adjunct Professor & Entrepreneur in Residence, AI/ML",
+      "url": "https://www.gatech.edu",
+      "startDate": "2025",
+      "endDate": null,
+      "summary": "Teach and mentor students in AI/ML, product management, and entrepreneurship, helping them turn ideas into successful products.",
+      "highlights": [
+        "Design and run courses that walk students through problem discovery, prototyping, testing, and launch of AI/ML products.",
+        "Advise students on target users, business models, and go-to-market plans - from concept through launch.",
+        "Hold regular office hours and workshops to review progress and provide feedback.",
+        "Connect students with industry leaders to line up business and networking opportunities."
+      ]
+    },
+    {
       "name": "UW Health",
-      "position": "Senior Technical Product Manager, AI/ML (2024-2025); Technical Product Manager, AI/ML (2023-2024)",
+      "position": "Senior Technical Product Manager, AI/ML (24-25); Technical Product Manager, AI/ML (23-24)",
       "url": "https://www.uwhealth.org/",
       "startDate": "2023",
       "endDate": "2025",
@@ -66,7 +80,7 @@
     },
     {
       "name": "CODAworx",
-      "position": "Technical Product Director, AI/ML (2022-2023); Technical Product Manager, AI/ML (2021-2022)",
+      "position": "Technical Product Director, AI/ML (22-23); Technical Product Manager, AI/ML (21-22)",
       "url": "https://www.codaworx.com",
       "startDate": "2021",
       "endDate": "2023",
@@ -79,7 +93,7 @@
     },
     {
       "name": "Gallify",
-      "position": "Chief Product Officer, AI/ML (2019-2021); Technical Product Director, AI/ML (2018-2019); Technical Product Manager, AI/ML (2016-2018)",
+      "position": "Chief Product Officer, AI/ML (19-21); Technical Product Director, AI/ML (18-19); Technical Product Manager, AI/ML (16-18)",
       "url": null,
       "startDate": "2016",
       "endDate": "2021",
@@ -98,7 +112,7 @@
       "organization": "Aurifex Foundation",
       "location": "San Francisco",
       "position": "Executive Director, AI/ML",
-      "url": "https://main.d394iy8jlgz9cs.amplifyapp.com/",
+      "url": "https://www.aurifexfoundation.com",
       "startDate": null,
       "endDate": null,
       "summary": "Building and scaling open-source AI/ML and computational biology products that advance research reproducibility, model interpretability, and large-scale data analysis for academic and industry organizations.",
@@ -113,7 +127,7 @@
       "organization": "AI@CMU",
       "location": "Pittsburgh",
       "position": "Executive Director, AI/ML",
-      "url": "https://main.d3v1a759runh8u.amplifyapp.com/",
+      "url": "https://aicmu.com",
       "startDate": null,
       "endDate": null,
       "summary": "Establishing and scaling a student–alumni organization dedicated to fostering collaboration, education, and awareness around AI/ML research and applications across academia and industry.",
@@ -232,7 +246,7 @@
       "institution": "The University of Wisconsin, Madison",
       "location": "Madison",
       "url": "https://www.wisc.edu/",
-      "area": "Computational Biology and Genetics",
+      "area": "Biological Science and Genetics",
       "studyType": "Bachelor of Science (BSc)",
       "startDate": null,
       "endDate": null,
@@ -247,17 +261,6 @@
         "Graduated in 3 Years",
         "Dean's List"
       ]
-    },
-    {
-      "institution": "The University of Florida",
-      "location": "Gainesville",
-      "url": "https://www.ufl.edu/",
-      "area": "Computational Neuroscience",
-      "studyType": "Doctor of Philosophy (PhD)",
-      "startDate": null,
-      "endDate": null,
-      "score": "10",
-      "courses": ["Academic Merit Scholarship", "Dean's List"]
     },
     {
       "institution": "The University of Texas at Austin",
@@ -310,13 +313,6 @@
       "title": "Academic Merit Scholarship",
       "date": "",
       "awarder": "Carnegie Mellon University",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Academic Merit Scholarship",
-      "date": "",
-      "awarder": "The University of Florida",
       "url": "",
       "summary": ""
     },
