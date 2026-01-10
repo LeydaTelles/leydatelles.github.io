@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-it-s-tempting-and-often-illuminating-to-think-of-tech-history-as-a-series-of-titanic-duels",
+        },{id: "post-apple-siri-and-buying-your-way-back-into-ai-ml",
+        
+          title: 'Apple, Siri, and Buying Your Way Back Into AI/ML <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@profio/apple-siri-and-buying-your-way-back-into-ai-ml-99f1caf4e749?source=rss-a3a58e969249------2", "_blank");
+          
+        },
+      },{id: "post-it-s-tempting-and-often-illuminating-to-think-of-tech-history-as-a-series-of-titanic-duels",
         
           title: 'It’s tempting, and often illuminating, to think of tech history as a series... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
