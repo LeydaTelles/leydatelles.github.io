@@ -71,6 +71,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Elon%20Musk/";
+            },},{id: "books-half-his-age",
+          title: 'Half His Age',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Half%20His%20Age/";
             },},{id: "books-how-to-build-a-brain-a-neural-architecture-for-biological-cognition",
           title: 'How to Build a Brain - A Neural Architecture for Biological Cognition',
           description: "",
