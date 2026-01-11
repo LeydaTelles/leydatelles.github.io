@@ -96,6 +96,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Steve%20Jobs/";
+            },},{id: "books-the-five-dysfunctions-of-a-team",
+          title: 'The Five Dysfunctions of a Team',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/The%20Five%20Dysfunctions%20of%20a%20Team/";
             },},{id: "books-the-mountain-is-you",
           title: 'The Mountain is You',
           description: "",
