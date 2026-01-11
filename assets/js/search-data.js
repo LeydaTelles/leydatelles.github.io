@@ -117,61 +117,11 @@ ninja.data = [{
           section: "News",},{id: "news-published-a-survey-paper-on-the-intersection-of-biomedical-informatics-and-cybersecurity",
           title: 'Published a survey paper on the intersection of biomedical informatics and cybersecurity',
           description: "",
-          section: "News",},{id: "projects-workday",
-          title: 'Workday',
-          description: "An exploratory project for Workday identifying high-yield AI/ML products and services for their accessibility team.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Accessibility/";
-            },},{id: "projects-aurifex-jewelry",
-          title: 'Aurifex Jewelry',
-          description: "A jewelry SaaS platform, improving design and operations through AI/ML.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Aurifex/";
-            },},{id: "projects-business-case-studies",
-          title: 'Business Case Studies',
-          description: "Varying analyses on business operations and strategy.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Business%20Case%20Studies/";
-            },},{id: "projects-codaworx",
-          title: 'CODAworx',
-          description: "An e-commerce marketplace for public artists and enthusiasts.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/CODAmarket/";
-            },},{id: "projects-goat",
-          title: 'GOAT',
-          description: "A business analysis on GOAT&#39;s technology strategy.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/GOAT/";
-            },},{id: "projects-gallify",
-          title: 'Gallify',
-          description: "An AR/VR art marketplace built for digital creators and enthusiasts.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Gallify/";
-            },},{id: "projects-jasci-software",
+          section: "News",},{id: "projects-jasci-software",
           title: 'JASCI Software',
           description: "An organizational analysis and assessment toward improved operations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/JASCI%20Software/";
-            },},{id: "projects-loan-default",
-          title: 'Loan Default',
-          description: "An AI/ML-based approach to predicting loan defaults.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Loan%20Default/";
-            },},{id: "projects-lung-cancer",
-          title: 'Lung Cancer',
-          description: "An exploratory project using machine learning to predict lung cancer.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Lung%20Cancer%20Detection/";
-            },},{id: "projects-psychiatric-conditions",
-          title: 'Psychiatric Conditions',
-          description: "An exploratory project using machine learning to predict psychiatric conditions.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Psychiatric%20Condition%20Detection/";
-            },},{id: "projects-quantitative-proteomics",
-          title: 'Quantitative Proteomics',
-          description: "A research analysis on the capabilities and limitations of TMT/iTRAQ quantitative proteomics.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Quantitative%20Proteomics/";
             },},{
         id: 'social-discord',
         title: 'Discord',
