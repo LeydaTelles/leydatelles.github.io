@@ -66,7 +66,52 @@ ninja.data = [{
             window.open("https://medium.com/@profio/its-tempting-and-often-illuminating-to-think-of-tech-history-as-a-series-of-titanic-duels-395274500fe9?source=rss-a3a58e969249------2", "_blank");
           
         },
-      },{id: "news-graduated-from-carnegie-mellon-university",
+      },{id: "books-elon-musk",
+          title: 'Elon Musk',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Elon%20Musk/";
+            },},{id: "books-how-to-build-a-brain-a-neural-architecture-for-biological-cognition",
+          title: 'How to Build a Brain - A Neural Architecture for Biological Cognition',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/How%20to%20Build%20a%20Brain/";
+            },},{id: "books-on-intelligence",
+          title: 'On Intelligence',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/On%20Intelligence/";
+            },},{id: "books-principles-of-neural-science",
+          title: 'Principles of Neural Science',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Principles%20of%20Neural%20Science/";
+            },},{id: "books-rhythms-of-the-brain",
+          title: 'Rhythms of the Brain',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Rhythms%20of%20the%20Brain/";
+            },},{id: "books-steve-jobs",
+          title: 'Steve Jobs',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Steve%20Jobs/";
+            },},{id: "books-the-mountain-is-you",
+          title: 'The Mountain is You',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/The%20Mountain%20Is%20You/";
+            },},{id: "books-the-nvidia-way-jensen-huang-and-the-making-of-a-tech-giant",
+          title: 'The Nvidia Way - Jensen Huang and the Making of a Tech Giant...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/The%20Nvidia%20Way/";
+            },},{id: "books-theoretical-neuroscience",
+          title: 'Theoretical Neuroscience',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Theoretical%20Neuroscience/";
+            },},{id: "news-graduated-from-carnegie-mellon-university",
           title: 'Graduated from Carnegie Mellon University',
           description: "",
           section: "News",},{id: "news-published-a-survey-paper-on-the-intersection-of-biomedical-informatics-and-cybersecurity",
