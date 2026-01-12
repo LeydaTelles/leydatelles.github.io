@@ -10,8 +10,8 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #64b5f6;
-  --global-hover-color: #64b5f6;
+  --global-theme-color: #e664ff;
+  --global-hover-color: #e664ff;
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
@@ -20,7 +20,7 @@
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{$white-color};
   --global-highlight-color: #{$red-color-dark};
-  --global-back-to-top-bg-color: #64b5f6;
+  --global-back-to-top-bg-color: #e664ff;
   --global-back-to-top-text-color: #{$black-color};
   --global-newsletter-bg-color: #{$white-color};
   --global-newsletter-text-color: #{$black-color};
@@ -75,8 +75,8 @@
       border-color 0.3s ease;
 
     &:hover {
-      background: rgba(100, 181, 246, 0.9);
-      border-color: #64b5f6;
+      background: rgba(230, 100, 255, 0.9);
+      border-color: #e664ff;
       opacity: 1;
     }
   }
@@ -88,8 +88,8 @@ html[data-theme="dark"] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #64b5f6;
-  --global-hover-color: #64b5f6;
+  --global-theme-color: #e664ff;
+  --global-hover-color: #e664ff;
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
@@ -97,7 +97,7 @@ html[data-theme="dark"] {
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
-  --global-back-to-top-bg-color: #64b5f6;
+  --global-back-to-top-bg-color: #e664ff;
   --global-back-to-top-text-color: #{$black-color};
   --global-newsletter-bg-color: #{$grey-color-light};
   --global-newsletter-text-color: #{$grey-color-dark};

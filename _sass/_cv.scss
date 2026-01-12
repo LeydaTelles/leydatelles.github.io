@@ -3,7 +3,7 @@
  *****************************/
 
 .cv .card {
-  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(100, 181, 246, 0.01) 100%);
+  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(230, 100, 255, 0.01) 100%);
   border: 2px solid var(--global-divider-color);
   border-radius: 10px;
   // Optimize transitions - only animate transform and opacity for better performance
@@ -37,20 +37,20 @@
   left: 0;
   width: 4px;
   height: 100%;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
   opacity: 0;
   transition: opacity 0.2s ease-out;
   will-change: opacity;
 }
 
 .cv .card:hover {
-  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(100, 181, 246, 0.08) 100%);
+  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(230, 100, 255, 0.08) 100%);
   transform: translateY(-2px) translateZ(0); // Keep GPU acceleration
-  border-color: #64b5f6;
+  border-color: #e664ff;
   // Simplified box-shadow - reduced from 5 layers to 2 for better performance
   box-shadow:
     0 4px 12px rgba(0, 0, 0, 0.1),
-    0 0 20px rgba(100, 181, 246, 0.3);
+    0 0 20px rgba(230, 100, 255, 0.3);
 }
 
 .cv .card:hover::before {
@@ -78,7 +78,7 @@ table.table-cv {
     transition: background-color 0.2s ease;
 
     &:hover {
-      background-color: rgba(100, 181, 246, 0.05);
+      background-color: rgba(230, 100, 255, 0.05);
     }
   }
 
@@ -103,7 +103,7 @@ table.table-cv {
     transition: color 0.2s ease;
 
     &:hover {
-      color: #64b5f6;
+      color: #e664ff;
       text-decoration: underline;
     }
   }
@@ -200,7 +200,7 @@ div.container-links {
   }
 
   &:hover {
-    background-color: rgba(100, 181, 246, 0.03);
+    background-color: rgba(230, 100, 255, 0.03);
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     margin-left: -0.5rem;
@@ -225,9 +225,9 @@ div.container-links {
   }
 
   .badge {
-    background-color: rgba(100, 181, 246, 0.15) !important;
+    background-color: rgba(230, 100, 255, 0.15) !important;
     color: var(--global-text-color) !important;
-    border: 1px solid rgba(100, 181, 246, 0.3);
+    border: 1px solid rgba(230, 100, 255, 0.3);
     padding: 0.4rem 0.6rem;
     font-size: 0.75rem;
     font-weight: 600;
@@ -265,7 +265,7 @@ div.container-links {
       transition: color 0.2s ease;
 
       &:hover {
-        color: #64b5f6;
+        color: #e664ff;
         text-decoration: none;
       }
     }
@@ -440,7 +440,7 @@ ul.timeline li::before {
 }
 
 .award-item {
-  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(100, 181, 246, 0.03) 100%);
+  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(230, 100, 255, 0.03) 100%);
   border: 1px solid var(--global-divider-color);
   border-radius: 8px;
   padding: 1.25rem;
@@ -456,7 +456,7 @@ ul.timeline li::before {
   left: 0;
   width: 4px;
   height: 100%;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
   opacity: 0;
   transition: opacity 0.3s ease;
 }
@@ -465,13 +465,13 @@ ul.timeline li::before {
   transform: translateY(-4px);
   box-shadow:
     0 8px 16px rgba(0, 0, 0, 0.1),
-    0 0 0 1px rgba(100, 181, 246, 0.1);
-  border-color: #64b5f6;
+    0 0 0 1px rgba(230, 100, 255, 0.1);
+  border-color: #e664ff;
 }
 
 .award-item:hover::before {
   opacity: 1;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
 }
 
 .award-content {
@@ -556,7 +556,7 @@ ul.timeline li::before {
 }
 
 .certificate-item {
-  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(100, 181, 246, 0.03) 100%);
+  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(230, 100, 255, 0.03) 100%);
   border: 1px solid var(--global-divider-color);
   border-radius: 8px;
   padding: 1.25rem;
@@ -572,7 +572,7 @@ ul.timeline li::before {
   left: 0;
   width: 4px;
   height: 100%;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
   opacity: 0;
   transition: opacity 0.3s ease;
 }
@@ -581,13 +581,13 @@ ul.timeline li::before {
   transform: translateY(-4px);
   box-shadow:
     0 8px 16px rgba(0, 0, 0, 0.1),
-    0 0 0 1px rgba(100, 181, 246, 0.1);
-  border-color: #64b5f6;
+    0 0 0 1px rgba(230, 100, 255, 0.1);
+  border-color: #e664ff;
 }
 
 .certificate-item:hover::before {
   opacity: 1;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
 }
 
 .certificate-content {
@@ -664,7 +664,7 @@ ul.timeline li::before {
 }
 
 .skill-item {
-  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(100, 181, 246, 0.03) 100%);
+  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(230, 100, 255, 0.03) 100%);
   border: 1px solid var(--global-divider-color);
   border-radius: 8px;
   padding: 1.25rem;
@@ -680,7 +680,7 @@ ul.timeline li::before {
   left: 0;
   width: 4px;
   height: 100%;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
   opacity: 0;
   transition: opacity 0.3s ease;
 }
@@ -689,13 +689,13 @@ ul.timeline li::before {
   transform: translateY(-4px);
   box-shadow:
     0 8px 16px rgba(0, 0, 0, 0.1),
-    0 0 0 1px rgba(100, 181, 246, 0.1);
-  border-color: #64b5f6;
+    0 0 0 1px rgba(230, 100, 255, 0.1);
+  border-color: #e664ff;
 }
 
 .skill-item:hover::before {
   opacity: 1;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
 }
 
 .skill-content {
@@ -753,7 +753,7 @@ ul.timeline li::before {
 .skill-keyword {
   font-size: 0.85rem;
   padding: 0.25rem 0.5rem;
-  background: rgba(100, 181, 246, 0.1);
+  background: rgba(230, 100, 255, 0.1);
   border-radius: 4px;
   color: var(--global-text-color);
 }
@@ -776,7 +776,7 @@ ul.timeline li::before {
 }
 
 .language-item {
-  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(100, 181, 246, 0.03) 100%);
+  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(230, 100, 255, 0.03) 100%);
   border: 1px solid var(--global-divider-color);
   border-radius: 8px;
   padding: 1.25rem;
@@ -792,7 +792,7 @@ ul.timeline li::before {
   left: 0;
   width: 4px;
   height: 100%;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
   opacity: 0;
   transition: opacity 0.3s ease;
 }
@@ -801,13 +801,13 @@ ul.timeline li::before {
   transform: translateY(-4px);
   box-shadow:
     0 8px 16px rgba(0, 0, 0, 0.1),
-    0 0 0 1px rgba(100, 181, 246, 0.1);
-  border-color: #64b5f6;
+    0 0 0 1px rgba(230, 100, 255, 0.1);
+  border-color: #e664ff;
 }
 
 .language-item:hover::before {
   opacity: 1;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
 }
 
 .language-content {
@@ -873,7 +873,7 @@ ul.timeline li::before {
 }
 
 .interest-item {
-  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(100, 181, 246, 0.03) 100%);
+  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(230, 100, 255, 0.03) 100%);
   border: 1px solid var(--global-divider-color);
   border-radius: 8px;
   padding: 1.25rem;
@@ -889,7 +889,7 @@ ul.timeline li::before {
   left: 0;
   width: 4px;
   height: 100%;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
   opacity: 0;
   transition: opacity 0.3s ease;
 }
@@ -898,13 +898,13 @@ ul.timeline li::before {
   transform: translateY(-4px);
   box-shadow:
     0 8px 16px rgba(0, 0, 0, 0.1),
-    0 0 0 1px rgba(100, 181, 246, 0.1);
-  border-color: #64b5f6;
+    0 0 0 1px rgba(230, 100, 255, 0.1);
+  border-color: #e664ff;
 }
 
 .interest-item:hover::before {
   opacity: 1;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
 }
 
 .interest-content {
@@ -942,7 +942,7 @@ ul.timeline li::before {
 .interest-keyword {
   font-size: 0.85rem;
   padding: 0.25rem 0.5rem;
-  background: rgba(100, 181, 246, 0.1);
+  background: rgba(230, 100, 255, 0.1);
   border-radius: 4px;
   color: var(--global-text-color);
 }
@@ -965,7 +965,7 @@ ul.timeline li::before {
 }
 
 .course-item {
-  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(100, 181, 246, 0.03) 100%);
+  background: linear-gradient(135deg, var(--global-card-bg-color) 0%, rgba(230, 100, 255, 0.03) 100%);
   border: 1px solid var(--global-divider-color);
   border-radius: 8px;
   padding: 1.5rem;
@@ -981,7 +981,7 @@ ul.timeline li::before {
   left: 0;
   width: 4px;
   height: 100%;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
   opacity: 0;
   transition: opacity 0.3s ease;
 }
@@ -990,14 +990,14 @@ ul.timeline li::before {
   transform: translateY(-4px);
   box-shadow:
     0 8px 16px rgba(0, 0, 0, 0.1),
-    0 0 20px rgba(100, 181, 246, 0.3),
-    0 0 0 1px rgba(100, 181, 246, 0.2);
-  border-color: #64b5f6;
+    0 0 20px rgba(230, 100, 255, 0.3),
+    0 0 0 1px rgba(230, 100, 255, 0.2);
+  border-color: #e664ff;
 }
 
 .course-item:hover::before {
   opacity: 1;
-  background: linear-gradient(180deg, #64b5f6, rgba(100, 181, 246, 0.5));
+  background: linear-gradient(180deg, #e664ff, rgba(230, 100, 255, 0.5));
 }
 
 .course-content {
@@ -1013,7 +1013,7 @@ ul.timeline li::before {
 }
 
 .course-icon {
-  color: #64b5f6;
+  color: #e664ff;
   font-size: 1.5rem;
   flex-shrink: 0;
   margin-top: 0.25rem;
@@ -1041,7 +1041,7 @@ ul.timeline li::before {
 
 .course-code {
   font-size: 0.85rem;
-  color: #64b5f6;
+  color: #e664ff;
   font-weight: 500;
   letter-spacing: 0.5px;
 }

@@ -32,9 +32,9 @@ document.addEventListener("DOMContentLoaded", function () {
       this.size = Math.random() * 2 + 1;
       this.speedX = Math.random() * 0.5 - 0.25;
       this.speedY = Math.random() * 0.5 - 0.25;
-      this.opacity = Math.random() * 0.5 + 0.2;
-      // Randomly assign color: 60% white, 40% blue
-      this.color = Math.random() > 0.4 ? "white" : "blue";
+      this.opacity = Math.random() * 0.4 + 0.4;
+      // Randomly assign color: 50% light pink, 50% purple-pink
+      this.color = Math.random() > 0.5 ? "light-pink" : "purple-pink";
       // Glow animation phase
       this.glowPhase = Math.random() * Math.PI * 2;
       this.glowSpeed = 0.02 + Math.random() * 0.03;
@@ -61,17 +61,17 @@ document.addEventListener("DOMContentLoaded", function () {
       // Create gradient for glow effect
       const gradient = ctx.createRadialGradient(this.x, this.y, 0, this.x, this.y, glowSize);
 
-      if (this.color === "blue") {
-        // Blue particles with blue glow
-        gradient.addColorStop(0, `rgba(100, 181, 246, ${this.opacity})`);
-        gradient.addColorStop(0.5, `rgba(100, 181, 246, ${this.opacity * glowIntensity})`);
-        gradient.addColorStop(1, `rgba(100, 181, 246, 0)`);
+      if (this.color === "purple-pink") {
+        // Purple-pink particles with purple-pink glow
+        gradient.addColorStop(0, `rgba(230, 100, 255, ${this.opacity})`);
+        gradient.addColorStop(0.5, `rgba(230, 100, 255, ${this.opacity * glowIntensity})`);
+        gradient.addColorStop(1, `rgba(230, 100, 255, 0)`);
         ctx.fillStyle = gradient;
       } else {
-        // White particles with white glow
-        gradient.addColorStop(0, `rgba(255, 255, 255, ${this.opacity})`);
-        gradient.addColorStop(0.5, `rgba(255, 255, 255, ${this.opacity * glowIntensity})`);
-        gradient.addColorStop(1, `rgba(255, 255, 255, 0)`);
+        // Light pink particles with light pink glow
+        gradient.addColorStop(0, `rgba(255, 150, 230, ${this.opacity})`);
+        gradient.addColorStop(0.5, `rgba(255, 150, 230, ${this.opacity * glowIntensity})`);
+        gradient.addColorStop(1, `rgba(255, 150, 230, 0)`);
         ctx.fillStyle = gradient;
       }
 
@@ -80,10 +80,10 @@ document.addEventListener("DOMContentLoaded", function () {
       ctx.fill();
 
       // Draw the core particle
-      if (this.color === "blue") {
-        ctx.fillStyle = `rgba(100, 181, 246, ${this.opacity})`;
+      if (this.color === "purple-pink") {
+        ctx.fillStyle = `rgba(230, 100, 255, ${this.opacity})`;
       } else {
-        ctx.fillStyle = `rgba(255, 255, 255, ${this.opacity})`;
+        ctx.fillStyle = `rgba(255, 150, 230, ${this.opacity})`;
       }
       ctx.beginPath();
       ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
@@ -112,15 +112,15 @@ document.addEventListener("DOMContentLoaded", function () {
         if (distance < 120) {
           // Use appropriate color based on particle colors
           let connectionColor;
-          if (particles[i].color === "blue" || particles[j].color === "blue") {
-            // If either particle is blue, use blue-tinted connection
+          if (particles[i].color === "purple-pink" || particles[j].color === "purple-pink") {
+            // If either particle is purple-pink, use purple-pink-tinted connection
             connectionColor =
-              particles[i].color === "blue" && particles[j].color === "blue"
-                ? `rgba(100, 181, 246, ${0.15 * (1 - distance / 120)})`
-                : `rgba(200, 220, 255, ${0.15 * (1 - distance / 120)})`;
+              particles[i].color === "purple-pink" && particles[j].color === "purple-pink"
+                ? `rgba(230, 100, 255, ${0.15 * (1 - distance / 120)})`
+                : `rgba(255, 180, 240, ${0.15 * (1 - distance / 120)})`;
           } else {
-            // Both white particles
-            connectionColor = `rgba(255, 255, 255, ${0.2 * (1 - distance / 120)})`;
+            // Both light pink particles
+            connectionColor = `rgba(255, 150, 230, ${0.2 * (1 - distance / 120)})`;
           }
 
           ctx.strokeStyle = connectionColor;
