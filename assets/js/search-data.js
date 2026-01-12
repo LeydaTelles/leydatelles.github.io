@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "post-apple-siri-and-buying-your-way-back-into-ai-ml",
         
           title: 'Apple, Siri, and Buying Your Way Back Into AI/ML <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -66,22 +59,112 @@ ninja.data = [{
             window.open("https://medium.com/@profio/its-tempting-and-often-illuminating-to-think-of-tech-history-as-a-series-of-titanic-duels-395274500fe9?source=rss-a3a58e969249------2", "_blank");
           
         },
-      },{id: "books-the-five-dysfunctions-of-a-team",
-          title: 'The Five Dysfunctions of a Team',
+      },{id: "books-elon-musk",
+          title: 'Elon Musk',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/The%20Five%20Dysfunctions%20of%20a%20Team/";
+              window.location.href = "/books/Elon%20Musk/";
+            },},{id: "books-how-to-build-a-brain-a-neural-architecture-for-biological-cognition",
+          title: 'How to Build a Brain - A Neural Architecture for Biological Cognition',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/How%20to%20Build%20a%20Brain/";
+            },},{id: "books-on-intelligence",
+          title: 'On Intelligence',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/On%20Intelligence/";
+            },},{id: "books-principles-of-neural-science",
+          title: 'Principles of Neural Science',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Principles%20of%20Neural%20Science/";
+            },},{id: "books-rhythms-of-the-brain",
+          title: 'Rhythms of the Brain',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Rhythms%20of%20the%20Brain/";
+            },},{id: "books-steve-jobs",
+          title: 'Steve Jobs',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Steve%20Jobs/";
+            },},{id: "books-the-mountain-is-you",
+          title: 'The Mountain is You',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/The%20Mountain%20Is%20You/";
+            },},{id: "books-the-nvidia-way-jensen-huang-and-the-making-of-a-tech-giant",
+          title: 'The Nvidia Way - Jensen Huang and the Making of a Tech Giant...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/The%20Nvidia%20Way/";
+            },},{id: "books-theoretical-neuroscience",
+          title: 'Theoretical Neuroscience',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Theoretical%20Neuroscience/";
             },},{id: "news-graduated-from-carnegie-mellon-university",
           title: 'Graduated from Carnegie Mellon University',
           description: "",
           section: "News",},{id: "news-published-a-survey-paper-on-the-intersection-of-biomedical-informatics-and-cybersecurity",
           title: 'Published a survey paper on the intersection of biomedical informatics and cybersecurity',
           description: "",
-          section: "News",},{id: "projects-jasci-software",
+          section: "News",},{id: "projects-workday",
+          title: 'Workday',
+          description: "An exploratory project for Workday identifying high-yield AI/ML products and services for their accessibility team.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Accessibility/";
+            },},{id: "projects-aurifex-jewelry",
+          title: 'Aurifex Jewelry',
+          description: "A jewelry SaaS platform, improving design and operations through AI/ML.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Aurifex/";
+            },},{id: "projects-business-case-studies",
+          title: 'Business Case Studies',
+          description: "Varying analyses on business operations and strategy.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Business%20Case%20Studies/";
+            },},{id: "projects-codaworx",
+          title: 'CODAworx',
+          description: "An e-commerce marketplace for public artists and enthusiasts.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CODAmarket/";
+            },},{id: "projects-goat",
+          title: 'GOAT',
+          description: "A business analysis on GOAT&#39;s technology strategy.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/GOAT/";
+            },},{id: "projects-gallify",
+          title: 'Gallify',
+          description: "An AR/VR art marketplace built for digital creators and enthusiasts.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Gallify/";
+            },},{id: "projects-jasci-software",
           title: 'JASCI Software',
           description: "An organizational analysis and assessment toward improved operations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/JASCI%20Software/";
+            },},{id: "projects-loan-default",
+          title: 'Loan Default',
+          description: "An AI/ML-based approach to predicting loan defaults.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Loan%20Default/";
+            },},{id: "projects-lung-cancer",
+          title: 'Lung Cancer',
+          description: "An exploratory project using machine learning to predict lung cancer.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Lung%20Cancer%20Detection/";
+            },},{id: "projects-psychiatric-conditions",
+          title: 'Psychiatric Conditions',
+          description: "An exploratory project using machine learning to predict psychiatric conditions.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Psychiatric%20Condition%20Detection/";
+            },},{id: "projects-quantitative-proteomics",
+          title: 'Quantitative Proteomics',
+          description: "A research analysis on the capabilities and limitations of TMT/iTRAQ quantitative proteomics.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Quantitative%20Proteomics/";
             },},{
         id: 'social-discord',
         title: 'Discord',

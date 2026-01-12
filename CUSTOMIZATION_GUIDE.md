@@ -133,4 +133,3 @@ exclude:
 4. **Test locally first** - Run `bundle exec jekyll serve` to preview changes
 5. **Use YAML syntax** - Be careful with indentation in YAML files (use spaces, not tabs)
 
-
